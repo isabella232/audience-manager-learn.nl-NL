@@ -18,10 +18,10 @@ ht-degree: 0%
 ---
 
 
-# Zoeken opslaan in [!DNL Data Explorer] gebruiksgemak bij hergebruik {#saving-searches-in-data-explorer-for-convenience-in-re-use}
+# Opslaan van zoekopdrachten in [!DNL Data Explorer] voor gebruiksgemak {#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-In deze video leert u hoe u een zoekopdracht configureert, uitvoert [!DNL Data Explorer]en vervolgens opslaat voor hergebruik op een later tijdstip. u kunt de opgeslagen zoekopdracht ook op het dashboard plaatsen zodat deze direct beschikbaar is wanneer u de [!UICONTROL Signals] app binnengaat.
+In deze video zult u leren hoe te om een onderzoek in [!DNL Data Explorer] te vormen, het in werking te stellen, en dan sparen het voor hergebruik op een recentere tijd. u kunt de opgeslagen zoekopdracht ook op het dashboard plaatsen, zodat deze direct beschikbaar is wanneer u de [!UICONTROL Signals]-app gebruikt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-Voor meer informatie over [!DNL Data Explorer], gelieve de [documentatie](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)te bezoeken.
+Voor meer informatie over [!DNL Data Explorer], gelieve [documentatie](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html) te bezoeken.
