@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Een [!UICONTROL Data Source] lus maken voor [!UICONTROL People-Based Destinations]
+# Een [!UICONTROL Data Source] maken voor [!UICONTROL People-Based Destinations]
 
-Deze video bespreekt u de creatie van een [!UICONTROL Data Source] in Audience Manager voor [!UICONTROL People-Based Destinations].
+In deze video wordt u door het maken van een [!UICONTROL Data Source] Audience Manager geleid die voor [!UICONTROL People-Based Destinations] moet worden gebruikt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)
