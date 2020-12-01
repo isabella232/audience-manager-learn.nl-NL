@@ -23,4 +23,4 @@ Deze video helpt u gelijke tarieven in Adobe Audience Manager te begrijpen, wat 
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-Raadpleeg de [documentatie](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html)voor meer informatie.
+Raadpleeg de [documentatie](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html) voor meer informatie.
