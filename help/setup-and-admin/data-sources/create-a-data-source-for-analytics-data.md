@@ -17,10 +17,10 @@ ht-degree: 0%
 ---
 
 
-# Een formulier maken [!UICONTROL Data Source] voor [!DNL Analytics] gegevens {#create-a-data-source-for-analytics-data}
+# Een [!UICONTROL Data Source] maken voor [!DNL Analytics] Data {#create-a-data-source-for-analytics-data}
 
-In deze video doorlopen we de stappen, inclusief tips en trucs, voor het maken van een [!UICONTROL Data Source] AAM die u kunt gebruiken voor gegevens die live komen uit een analyseoplossing, zoals Adobe Analytics. Dit moet gebeuren voordat u de analysegegevens maakt. [!UICONTROL traits]
+In deze video doorlopen we de stappen, inclusief tips en trucs, voor het maken van een [!UICONTROL Data Source] in AAM die u kunt gebruiken voor gegevens die live worden ontvangen van een analyseoplossing, zoals Adobe Analytics. Dit moet gebeuren voordat u [!UICONTROL traits] maakt voor de analysegegevens.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)
 
-Meer informatie over deze functie vindt u in de [documentatie](https://marketing.adobe.com/resources/help/en_US/aam/c_datasources.html).
+Voor meer informatie over deze functie gaat u naar de [documentatie](https://marketing.adobe.com/resources/help/en_US/aam/c_datasources.html).
