@@ -19,6 +19,6 @@ ht-degree: 1%
 
 # [!DNL Audience Identity] Rapportage
 
-[!DNL Audience Identity] De rapportage biedt klanten de mogelijkheid om verslag uit te brengen over de totale populatie van een [!UICONTROL trait] of [!UICONTROL segment] per persoon/huishouden definities van identiteit. Bekijk deze video om te zien hoe het in de rapporten van de Audience Manager wordt getoond.
+[!DNL Audience Identity] De rapportage biedt klanten de mogelijkheid om over de totale populatie van een  [!UICONTROL trait] of  [!UICONTROL segment] door persoon/huishouden gehanteerde definities van identiteit te rapporteren. Bekijk deze video om te zien hoe het in de rapporten van de Audience Manager wordt getoond.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)
