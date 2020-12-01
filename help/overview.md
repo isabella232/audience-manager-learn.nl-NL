@@ -18,25 +18,25 @@ ht-degree: 8%
 
 # Overzicht
 
-Welkom bij de site Audience Manager Tutorials.  Als u deze zelfstudies samen met de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) gebruikt, krijgt u meer inzicht in de manier waarop u Adobe Audience Manager kunt gebruiken om een publiek op elk kanaal of apparaat te maken en activeren met behulp van de beste Adobe in klasse [!DNL data management platform].
+Welkom bij de site Audience Manager Tutorials.  Als u deze zelfstudies samen met de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) gebruikt, krijgt u meer inzicht in de manier waarop u Adobe Audience Manager kunt gebruiken om een publiek kanaal of apparaat te maken en te activeren met behulp van &#39;best-in-class&#39; [!DNL data management platform].
 
-* **Personeelspictogrammen** markeren enkele van onze favoriete content
+* **Personeelszaken** Pickshighlights een deel van onze favoriete inhoud
 * Verken de content op onderwerp en subonderwerp in het **linker navigatiedeelvenster**
 * Gebruik het **zoek** veld boven aan de pagina als u weet waarnaar u zoekt
 
 ## Nieuwe functies
 
-* **[Overzicht van [!UICONTROL Profile Merge Rules] (video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
+* **[Overzicht van  [!UICONTROL Profile Merge Rules] (video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
 
-   *Begrijp wat [!UICONTROL Profile Merge Rules] is, hoe ze werken, en hun waarde voor de Marketer.*
+   *Begrijp wat  [!UICONTROL Profile Merge Rules] is, hoe ze werken, en hun waarde voor de Marketer.*
 
 * **[[!UICONTROL Profile Merge Rule]Voorbeelden en gebruik](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
 
-   *In deze video ziet u voorbeelden van [!UICONTROL Profile Merge Rules] en wat ze betekenen, en de gebruiksgevallen die [!UICONTROL Profile Merge Rules] oplossen.*
+   *In deze video ziet u voorbeelden van  [!UICONTROL Profile Merge Rules] en wat ze betekenen, en de gebruiksgevallen die  [!UICONTROL Profile Merge Rules] oplossen.*
 
 * **[Maken en configureren[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   *Leer hoe te opstelling een [!DNL People-Based Destination] in de UI van de Audience Manager*
+   *Leer hoe te opstelling een  [!DNL People-Based Destination] in de UI van de Audience Manager*
 
 ## Personeelspictogrammen
 
