@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# Audience Manager [!UICONTROL Destination] typen
+# Audience Manager [!UICONTROL Destination]-typen
 
-Deze video zal u door de verschillende types van [!UICONTROL destinations] in Adobe Audience Manager lopen, en voorbeelden van geven wanneer u elk zou gebruiken.
+Deze video zal u door de verschillende types van [!UICONTROL destinations] in Adobe Audience Manager, en geeft voorbeelden van wanneer u elk zou gebruiken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-U kunt een lijst van server-aan-server [!UICONTROL destination] partners [HERE](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx)downloaden.
+U kunt een lijst van server-aan-server [!UICONTROL destination] partners [HERE](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx) downloaden.
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html)voor meer informatie.
+Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html) voor meer informatie.
