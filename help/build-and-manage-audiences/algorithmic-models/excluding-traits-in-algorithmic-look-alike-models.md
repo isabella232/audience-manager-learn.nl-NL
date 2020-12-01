@@ -17,15 +17,15 @@ ht-degree: 0%
 ---
 
 
-# Exclusief [!UICONTROL Traits] in algoritme (look-Alike) [!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}
+# [!UICONTROL Traits] in Algorithmic (Look-Alike) [!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}
 
-In deze video leert u hoe en waarom u specifieke (of groepen) groepen [!UICONTROL traits] van een algoritme (look-Alike) wilt uitsluiten [!UICONTROL Model].
+In deze video leert u hoe en waarom u specifieke [!UICONTROL traits] wilt uitsluiten van een algoritme (look-Alike) [!UICONTROL Model].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
 
 Gebruik voor deze functie de volgende gevallen:
 
-* Zeer vaak, [!UICONTROL traits] zoals [!UICONTROL traits] voorkeur voor bezoekers van de site, [!UICONTROL model] wat niet nuttig is bij het zoeken naar een publiek dat er hetzelfde uitziet. Klanten hoeven niet langer een apart bestand te maken [!UICONTROL data source] en algemeen [!UICONTROL traits] in het nieuwe bestand op te slaan, [!UICONTROL data source]maar kunnen ze nu gewoon uitsluiten.
-* Er is nu een manier om een subset van [!UICONTROL traits] een [!UICONTROL third party]object te gebruiken, zoals alleen gedragsbelangen, in plaats van alle informatie in een [!UICONTROL model]. [!UICONTROL Third parties] verzendt gewoonlijk veel gegevens die niet nuttig voor de klant zouden kunnen zijn. In sommige gevallen mogen ze niet alle gegevens vanuit een wettelijk perspectief gebruiken in modellering. Nu kunt u uitsluiten [!UICONTROL traits] of mappen maken van [!UICONTROL traits] die u niet in het [!UICONTROL model]bestand wilt opnemen.
+* Zeer vaak [!UICONTROL traits], zoals bezoekers van de site [!UICONTROL traits], hebben een afwijking van [!UICONTROL model], wat niet nuttig zal zijn om een kwalitatief vergelijkbaar publiek te vinden. Klanten hoeven niet langer een aparte [!UICONTROL data source] te maken en gemeenschappelijke [!UICONTROL traits] op te slaan in de nieuwe [!UICONTROL data source], maar kunnen deze nu gewoon uitsluiten.
+* Er is nu een manier om een ondergroep van [!UICONTROL traits] van [!UICONTROL third party], zoals enkel gedragsbelangen, eerder dan alle informatie in [!UICONTROL model] te gebruiken. [!UICONTROL Third parties] verzendt gewoonlijk veel gegevens die niet nuttig voor de klant zouden kunnen zijn. In sommige gevallen mogen ze niet alle gegevens vanuit een wettelijk perspectief gebruiken in modellering. Nu kunt u [!UICONTROL traits] of omslagen van [!UICONTROL traits] uitsluiten die u niet in [!UICONTROL model] wilt omvatten.
 
-Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html)voor meer informatie over deze functie.
+Zie de [documentatie](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html) voor meer informatie over deze functie.
