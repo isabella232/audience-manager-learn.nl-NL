@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Eenvoudig maken en gebruiken [!UICONTROL Profile Merge Rules]
+# Eenvoudig [!UICONTROL Profile Merge Rules] maken en gebruiken
 
 Leer over de regels van de profielfusie en hoe te om hen aan segmenten toe te wijzen. Leer meer over het standaardprofiel &quot;Huidig apparaat&quot; en wanneer dit kan/moet worden gebruikt.
 
