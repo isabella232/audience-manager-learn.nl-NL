@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Op regels gebaseerde treits maken
 
-Leer hoe te om [!UICONTROL Trait Builder] in de Audience Manager UI te gebruiken om een op regel-gebaseerd bezit tot stand te brengen, dat u toestaat om activiteit in real time in de profielen van de Audience Manager te vangen.
+Leer hoe te om [!UICONTROL Trait Builder] in Audience Manager UI te gebruiken om een op regel-gebaseerd bezit tot stand te brengen, dat u toestaat om activiteit in real time in de profielen van de Audience Manager te vangen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)
