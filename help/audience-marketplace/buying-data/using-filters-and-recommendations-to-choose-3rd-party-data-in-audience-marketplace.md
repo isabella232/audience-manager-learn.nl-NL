@@ -17,10 +17,10 @@ ht-degree: 0%
 ---
 
 
-# Filters en Recommendations gebruiken om [!UICONTROL Third Party] gegevens te kiezen in [!UICONTROL Audience Marketplace]
+# Filters en Recommendations gebruiken om [!UICONTROL Third Party]-gegevens te kiezen in [!UICONTROL Audience Marketplace]
 
 Deze video doorloopt de filters en aanbevelingen opties in [!UICONTROL Audience Marketplace] om u te helpen de juiste [!UICONTROL third party] gegevensleverancier voor uw behoeften kiezen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html)voor meer informatie.
+Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html) voor meer informatie.
