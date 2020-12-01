@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # [!UICONTROL People-Based Destinations] Video&#39;s en Tutorials
 
-[!UICONTROL People-Based Destinations] laat u toe om segmentatie op online en off-line gegevens toe te passen om publiekssegmenten tot stand te brengen die op gehakte herkenningstekens, zoals e-mailadressen of telefoonaantallen worden gebaseerd. Vervolgens kunt u deze segmenten naar sociale platforms sturen, zoals [!DNL Facebook] of [!DNL LinkedIn], waar u uw doelgroep kunt instellen.
+[!UICONTROL People-Based Destinations] laat u toe om segmentatie op online en off-line gegevens toe te passen om publiekssegmenten tot stand te brengen die op gehakte herkenningstekens, zoals e-mailadressen of telefoonaantallen worden gebaseerd. Vervolgens kunt u deze segmenten verzenden naar sociale platforms, zoals [!DNL Facebook] of [!DNL LinkedIn], waar u uw doelgroep kunt kiezen.
 
-Deze sectie bevat video&#39;s en zelfstudies voor onderwerpen over [!UICONTROL People-Based Destinations]. Ze zijn met opzet in deze volgorde vermeld terwijl u onderweg bent door de stroom/het proces voor het instellen van [!UICONTROL People-Based Destinations]:
+Deze sectie bevat video&#39;s en zelfstudies voor onderwerpen met betrekking tot [!UICONTROL People-Based Destinations]. Ze zijn met opzet in deze volgorde vermeld, terwijl u doorwerkt in het proces voor het instellen van [!UICONTROL People-Based Destinations]:
 
 * [Gegevensstroom op basis van persoonlijke doelen](people-based-destinations-data-flow.md)
 * [Het creëren van een Gegevensbron voor Mensen-Gebaseerde Doelen](creating-a-data-source-for-people-based-destinations.md)
@@ -33,4 +33,4 @@ Deze sectie bevat video&#39;s en zelfstudies voor onderwerpen over [!UICONTROL P
 * [Creeer en vorm Op mensen-gebaseerde Doelen](create-and-configure-people-based-destinations.md)
 * [Het begrip van en het Vormen van LinkedIn op mensen-Gebaseerde Bestemming](understanding-and-configuring-the-linkedin-pbd.md)
 
-Deze video&#39;s kunnen samen met de [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)worden gebruikt.
+Deze video&#39;s kunnen samen met [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html) worden gebruikt.
