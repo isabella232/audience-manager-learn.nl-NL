@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Klantentips - De regels voor het samenvoegen van profielen optimaal benutten
 
-**Varun Kalra**, consultant voor meerdere oplossingen bij **Accordant**, geeft tips over het kiezen en gebruiken van de Regels van de Fusie van het Profiel (PMRs).
+**Varun Kalra**, consultant voor meerdere oplossingen bij  **Accordant**, geeft tips over het kiezen en gebruiken van de Regels van de Fusie van het Profiel (PMRs).
 
 Varun Kalra is een consultant voor meerdere oplossingen die werkt in een op Sydney gebaseerde Adobe Solution Partner - Accordant. Varun werkt voornamelijk op Audience Manager-, Adobe Analytics- en AEP-projecten die betrekking hebben op het opsporen, implementeren, ondersteunen en inschakelen van gegevens. Tips omvatten onderwerpen zoals:
 
