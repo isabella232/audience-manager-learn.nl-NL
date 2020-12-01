@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # Controle en rapportage over het activiteitengebruik
 
-In deze video wordt uitgelegd hoe u de video kunt gebruiken, [!DNL Activity Usage Report]inclusief weergave- en downloadopties.
+In deze video wordt uitgelegd hoe u [!DNL Activity Usage Report] kunt gebruiken, inclusief opties voor weergave en downloaden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html)voor meer informatie.
+Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html) voor meer informatie.
