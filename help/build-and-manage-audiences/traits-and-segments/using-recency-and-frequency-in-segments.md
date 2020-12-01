@@ -18,8 +18,8 @@ ht-degree: 0%
 ---
 
 
-# Werken [!UICONTROL Recency] en [!UICONTROL Frequency] in segmenten
+# [!UICONTROL Recency] en [!UICONTROL Frequency] gebruiken in segmenten
 
-Gebruik [!UICONTROL Recency] en [!UICONTROL Frequency] om uw segmentparameters te geven van het aantal keren dat een bezoeker binnen een bepaalde periode voor een kenmerk in aanmerking moet komen. Ideaal voor de affiniteit van inhoud en voor het aftappen van frequenties, maar ook voor andere.
+Gebruik [!UICONTROL Recency] en [!UICONTROL Frequency] om uw segmentparameters te geven van hoeveel keer een bezoeker binnen een bepaalde tijdsperiode voor een eigenschap moet kwalificeren. Ideaal voor de affiniteit van inhoud en voor het aftappen van frequenties, maar ook voor andere.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)
