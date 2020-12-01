@@ -17,9 +17,9 @@ ht-degree: 0%
 ---
 
 
-# Een [!UICONTROL First Party] look-Alike maken [!UICONTROL Model] in AAM {#creating-a-first-party-look-alike-model-in-aam}
+# Een [!UICONTROL First Party] look-Alike [!UICONTROL Model] maken in AAM {#creating-a-first-party-look-alike-model-in-aam}
 
-In deze video leert u hoe u een [!UICONTROL first party] look-alike maakt [!UICONTROL model], zodat u meer van uw eigen bezoekers kunt vinden die er als uw converters uitzien.
+In deze video leert u hoe u een [!UICONTROL first party]-look-alike [!UICONTROL model] maakt, zodat u meer van uw eigen bezoekers kunt vinden die er als uw converters uitzien.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
