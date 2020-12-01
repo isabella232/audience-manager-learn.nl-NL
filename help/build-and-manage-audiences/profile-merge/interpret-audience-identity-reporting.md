@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# interpreteren [!DNL Audience Identity Reporting]
+# [!DNL Audience Identity Reporting] interpreteren
 
-[!DNL Audience Identity Reporting] biedt klanten de mogelijkheid om verslag uit te brengen over de totale populatie van een [!UICONTROL trait] of [!UICONTROL segment] per persoon/huishouden definities van identiteit. Bekijk deze video om te zien hoe het in de rapporten van de Audience Manager wordt getoond.
+[!DNL Audience Identity Reporting] biedt klanten de mogelijkheid om verslag uit te brengen over de totale populatie van een  [!UICONTROL trait] of  [!UICONTROL segment] per persoon/huishouden definities van identiteit. Bekijk deze video om te zien hoe het in de rapporten van de Audience Manager wordt getoond.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)
