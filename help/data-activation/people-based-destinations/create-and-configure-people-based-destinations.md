@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# Maken en configureren [!UICONTROL People-based Destinations]
+# [!UICONTROL People-based Destinations] maken en configureren
 
 Deze video geeft u eerst wat informatie over eerste vereisten aan het creëren van uw [!DNL People-Based Destination], en toont dan ook u hoe te om een [!UICONTROL Integrated Account] (verbinding aan de partner, b.v. te vormen [!DNL Facebook]). Het begeleidt u dan door de in-product opstelling van [!UICONTROL destination] zelf.
 
