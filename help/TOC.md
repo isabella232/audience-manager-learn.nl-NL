@@ -25,10 +25,10 @@ ht-degree: 3%
    + [Inleiding tot Identiteit in Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
    + Waarderealisatie {#value-realization}
       + [Het meten van ROI in een Geval van het Gebruik van de Onderdrukking van de Klant](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
-+ Instellen en beheerder {#setup-and-admin}
++ {#setup-and-admin} instellen en beheren
    + Databronnen {#data-sources}
       + [Een gegevensbron maken voor analysegegevens](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
-   + Beheer en privacy van gegevens {#data-governance-and-privacy}
+   + Gegevensbeheer en privacy {#data-governance-and-privacy}
       + [Validatie van algemene apparaat-id](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
       + [IAB TCF 2.0-ondersteuning](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [IP Obfuscatie per land](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
@@ -49,11 +49,11 @@ ht-degree: 3%
    + [Implementeren in iOS-toepassingen voor doelstelling-C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
    + [Implementeren in Android-apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
 + Audience Marketplace {#audience-marketplace}
-   + Gegevens voor kopen {#buying-data}
+   + Koopgegevens {#buying-data}
       + [Gegevensgebruik van de tweede en derde partij rapporteren in Audience Marketplace op segmentniveau](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Bulksgewijs gegevensgebruik uploaden naar Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [Filters en Recommendations gebruiken om gegevens van derden te kiezen in Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
-+ Stimuleren en publiek beheren {#build-and-manage-audiences}
++ Stimuleer en beheer soorten publiek {#build-and-manage-audiences}
    + Data Explorer {#data-explorer}
       + [Het gebruiken van het Dashboard van Signalen om Hoogste Beschikbare Signalen snel te bekijken](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
       + [Het gebruiken van Data Explorer om naar Gebruikte en Ongebruikte Sleutel/Waardeparen te zoeken](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
@@ -86,8 +86,8 @@ ht-degree: 3%
       + [Nummers in de segmentgrafiek begrijpen](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [Tips voor klanten - Aanbevolen procedures voor reizen en segmenten](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Algorithmic Models {#algorithmic-models}
-      + [Begrijpen [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Configureren en rapporteren op [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Begrijpen  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [Configureren en rapporteren op  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Het creëren van een Eerste partij kijkt-weg model](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Exclusief traits in algoritmische (look-Alike) modellen](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [ROAS verhogen door Algorithmic (look-Alike) Models te gebruiken](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
