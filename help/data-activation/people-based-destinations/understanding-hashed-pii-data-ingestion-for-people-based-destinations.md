@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Begrijpen van onderbroken PII-gegevensinname voor [!UICONTROL People-Based Destinations]
 
-Deze video gaat over de dingen die u in overweging moet nemen wanneer u klaar bent om PII in de Audience Manager voor te nemen [!UICONTROL People-Based Destinations].
+Deze video raakt de dingen die u in overweging moet nemen wanneer u klaar bent om PII in Audience Manager voor [!UICONTROL People-Based Destinations] in te voeren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)
