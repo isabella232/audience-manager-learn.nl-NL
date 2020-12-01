@@ -24,4 +24,4 @@ In deze video identificeren wij vier gemeenschappelijke gevallen van het gebruik
 
 >[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)voor meer informatie.
+Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html) voor meer informatie.
