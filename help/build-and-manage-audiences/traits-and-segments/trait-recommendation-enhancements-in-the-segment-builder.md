@@ -18,10 +18,10 @@ ht-degree: 0%
 ---
 
 
-# [!DNL Trait Recommendation] Verbeteringen in de [!DNL Segment Builder]
+# [!DNL Trait Recommendation] Verbeteringen in de  [!DNL Segment Builder]
 
-In deze video ziet u hoe u de bijgewerkte versie [!DNL trait recommendations] [!DNL segment builder]in de video kunt gebruiken. Dit zijn Audience Marketplace-aanbevelingen. Hierdoor krijgt u meer inzicht in [!DNL third party] gegevens die het bereik van uw [!UICONTROL segments]gegevens kunnen vergroten.
+In deze video ziet u hoe u de bijgewerkte [!DNL trait recommendations] in [!DNL segment builder] kunt gebruiken. Dit zijn aanbevelingen voor Audience Marketplace. Hierdoor krijgt u meer inzicht in [!DNL third party] gegevens die het bereik van uw [!UICONTROL segments] kunnen vergroten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-Raadpleeg de [documentatie](https://docs.adobe.com/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html)voor meer informatie.
+Raadpleeg de [documentatie](https://docs.adobe.com/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html) voor meer informatie.
