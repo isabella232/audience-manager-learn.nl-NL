@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Het gebruiken [!UICONTROL Profile Merge Rules] om in een Erkende Staat te personaliseren
+# Het gebruiken [!UICONTROL Profile Merge Rules] om in een Voor authentiek verklaarde Staat aan te passen
 
 Geef uw aangemelde klanten een gepersonaliseerde ervaring door deze instellingen van de Regel van de Fusie van het Profiel te gebruiken.
 
