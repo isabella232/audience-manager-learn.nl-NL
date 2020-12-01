@@ -17,10 +17,10 @@ ht-degree: 0%
 ---
 
 
-# Gebruiken [!DNL setCustomerIDs()] aan Samenvatting en Hash PII als Verklaarde identiteitskaart
+# Het gebruiken van [!DNL setCustomerIDs()] om PII als Verklaarde identiteitskaart binnen te halen en te hakken
 
-In deze video leert u waarom en hoe u de methode van de Experience Cloud ID-service gebruikt om een e-mailadres in te voeren en te hashen en het als gedeclareerde id te gebruiken. `setCustomerIDs()` Hierdoor worden niet alleen de CRM-id en het e-mailadres aan elkaar gekoppeld, maar worden ze ook gesynchroniseerd met de Adobe Audience Manager UUID, d.w.z. de anonieme apparaat-id. Deze gehashte e-mailadressen kunnen vervolgens naar worden verzonden [!UICONTROL People-Based Destinations].
+In deze video leert u waarom en hoe u de methode `setCustomerIDs()` van de Experience Cloud-id-service gebruikt om een e-mailadres in te voeren en te hashen en het als gedeclareerde id te gebruiken. Hierdoor worden niet alleen de CRM-id en het e-mailadres aan elkaar gekoppeld, maar worden ze ook gesynchroniseerd met de Adobe Audience Manager UUID, d.w.z. de anonieme apparaat-id. Deze gehashte e-mailadressen kunnen dan naar [!UICONTROL People-Based Destinations] worden verzonden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/id-service/using/reference/hashing-support.html)voor meer informatie.
+Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/id-service/using/reference/hashing-support.html) voor meer informatie.
