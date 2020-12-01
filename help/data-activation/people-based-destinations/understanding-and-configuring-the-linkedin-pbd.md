@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# Begrijpen en het Vormen van [!DNL LinkedIn] [!UICONTROL People-Based Destination]
+# Het begrip en het Vormen [!DNL LinkedIn] [!UICONTROL People-Based Destination]
 
-Deze video doorloopt u de concepten en de stappen om een [!UICONTROL People-Based Destination] aan te maken [!DNL LinkedIn]. Het bouwt voort op de extra video&#39;s en de documentatie betreffende [!UICONTROL People-Based Destinations].
+Deze video doorloopt u de concepten en de stappen om [!UICONTROL People-Based Destination] aan [!DNL LinkedIn] te creëren. Het bouwt op de extra video&#39;s en de documentatie betreffende [!UICONTROL People-Based Destinations] voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)voor meer informatie.
+Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html) voor meer informatie.
 
-U kunt ook aanvullende video&#39;s over [!UICONTROL People-Based Destinations] HERE [](https://adobe.ly/aamlearnpbd)vinden.
+U kunt extra video&#39;s betreffende [!UICONTROL People-Based Destinations] [HERE](https://adobe.ly/aamlearnpbd) ook vinden.
