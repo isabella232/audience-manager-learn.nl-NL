@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # De interface voor afstemmen in Audience Manager
 
-Deze video beweegt u door de [!UICONTROL destination] interface, die en de aantallen toont verklaart verbonden aan gelijke tarieven en [!DNL addressable audiences].
+Deze video bespreekt u de [!UICONTROL destination] interface, die de aantallen toont en verklaart verbonden aan gelijke tarieven en [!DNL addressable audiences].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Raadpleeg de [documentatie](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html)voor meer informatie.
+Raadpleeg de [documentatie](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html) voor meer informatie.
