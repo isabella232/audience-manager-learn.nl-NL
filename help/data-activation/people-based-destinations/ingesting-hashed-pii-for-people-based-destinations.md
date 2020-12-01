@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Hashed PII invoegen voor [!UICONTROL People-Based Destinations]
+# Onderbroken PII invoegen voor [!UICONTROL People-Based Destinations]
 
-In deze video leert u hoe u een op een bestand gebaseerde id-synchronisatie kunt opmaken om uw klant-id&#39;s (CRM-id&#39;s) te koppelen aan gehashte e-mailadressen. Op deze manier kunt u de gehashte e-mailadressen naar [!UICONTROL People-Based Destinations], zoals [!DNL Facebook].
+In deze video leert u hoe u een op een bestand gebaseerde id-synchronisatie kunt opmaken om uw klant-id&#39;s (CRM-id&#39;s) te koppelen aan gehashte e-mailadressen. Hierdoor kunt u de gehashte e-mailadressen naar [!UICONTROL People-Based Destinations] verzenden, zoals [!DNL Facebook].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)
