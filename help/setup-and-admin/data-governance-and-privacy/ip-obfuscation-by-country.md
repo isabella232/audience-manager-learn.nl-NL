@@ -17,10 +17,10 @@ ht-degree: 0%
 ---
 
 
-# IP Obfuscatie per land in Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
+# IP Obfuscatie door Land in Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
 
 De Audience Manager verstrekt zelf-serververmogen in UI om klanten toe te laten om IP verwarring globaal of door land aan te zetten. Deze video bespreekt u de opstelling.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-Meer informatie over deze functie vindt u in de [documentatie](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).
+Voor meer informatie over deze functie gaat u naar de [documentatie](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).
