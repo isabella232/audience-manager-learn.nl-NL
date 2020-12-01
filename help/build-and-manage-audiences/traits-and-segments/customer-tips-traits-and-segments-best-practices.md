@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Tips voor klanten - Aanbevolen procedures voor reizen en segmenten
 
-**Matt Vittorioso**, Senior Marketing Specialist bij **[!DNL Ally Financial]**, geeft tips over het beheren van kenmerken en segmenten.
+**Matt Vittorioso**, Senior Marketing Specialist bij  **[!DNL Ally Financial]**, geeft tips over het beheren van kenmerken en segmenten.
 
 Matt Vittorioso is Senior Marketing Specialist bij het Digital Marketing team bij Ally Financial. Hij leidt het digitale segmentatieteam en is verantwoordelijk voor alle gegevens die in- en uitgaan van de manager van het publiek. Matt werkt nauw samen met alle interne belanghebbenden en externe agentschappartners om ervoor te zorgen dat de juiste segmenten worden samengesteld voor alle campagnes van Ally. Tips omvatten onderwerpen zoals:
 
