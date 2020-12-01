@@ -17,17 +17,17 @@ ht-degree: 0%
 ---
 
 
-# Hoe te om uw Audience Manager Subdomain te identificeren {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
+# Hoe te om uw Audience Manager Subdomain {#how-to-identify-your-audience-manager-partner-id-or-subdomain} te identificeren
 
-Wanneer het uitvoeren van sommige eigenschappen van Experience Cloud, moet u weten wat uw Audience Manager `Subdomain` (ook soms ook als uw `client ID` of `Partner ID`) wordt bedoeld. In deze video zullen we u twee plaatsen tonen waar u deze informatie kunt ophalen in de gebruikersinterface van de Audience Manager.
+Wanneer het uitvoeren van sommige eigenschappen van Experience Cloud, moet u weten wat uw Audience Manager `Subdomain` is (ook soms bedoeld als uw `client ID` of `Partner ID`). In deze video zullen we u twee plaatsen tonen waar u deze informatie kunt ophalen in de gebruikersinterface van de Audience Manager.
 
 ## Het einde weggeven... {#giving-away-the-ending}
 
-Als u liever gewoon naar de video wilt springen zonder deze korte video te bekijken, vindt u uw video op twee `Partner Subdomain` plaatsen in de interface:
+Als u liever gewoon naar binnen wilt springen en deze video wilt zoeken zonder deze korte video te bekijken, vindt u uw `Partner Subdomain` op twee plaatsen in de interface:
 
-1. Als u al een [!UICONTROL rule-based] [!UICONTROL trait]bestand hebt gemaakt, klikt u op **[!UICONTROL Get Trait URL]**
-   [!UICONTROL Get Trait URL] bevindt zich naast de [!UICONTROL trait] naam in de lijst van [!UICONTROL traits] die map en de URL neemt uw subdomein op in de URL.
-1. Als u in de interface **[!UICONTROL Tools]** > **[!UICONTROL Tags]** gaat en **[!UICONTROL Get code]** voor uw container klikt, is subdomain tegen het eind van de lijn Akamai
+1. Als u al een [!UICONTROL rule-based] [!UICONTROL trait] hebt gemaakt, klikt u op **[!UICONTROL Get Trait URL]**
+   [!UICONTROL Get Trait URL] bevindt zich naast de naam  [!UICONTROL trait] in de lijst  [!UICONTROL traits] in die map en de URL neemt uw subdomein op in de URL.
+1. Als u in **[!UICONTROL Tools]** > **[!UICONTROL Tags]** interface gaat en **[!UICONTROL Get code]** voor uw container klikt, is subdomain tegen het eind van de lijn Akamai
 
 Als u de video niet snel kunt vinden met deze snelle referenties, is de video een korte tijdsreferentie. :)
 
