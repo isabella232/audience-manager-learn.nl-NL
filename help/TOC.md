@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager-tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 468ebd3e9056e946b3b54c9e312214558fb881b8
+source-git-commit: cfd8290b82fd877ea582400291184f9897be92a3
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '765'
 ht-degree: 3%
 
 ---
@@ -114,6 +114,7 @@ ht-degree: 3%
       + [Werken met Audience Manager-doeltypen](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
       + [Overeenkomende percentages](data-activation/destinations-basics/understanding-match-rates.md)
       + [De interface voor afstemmen](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
+      + [Labels voor gegevensuitvoer gebruiken om de gegevensstroom te beheren](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
       + [Het gebruiken van het Laboratorium van het Publiek om een DSP te kiezen](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
       + [Conversietaken maken](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
@@ -132,6 +133,8 @@ ht-degree: 3%
 + Rapporten {#reports}
    + [Algemene rapporten gebruiken met treinen en segmenten](reports/using-general-reports-with-traits-and-segments.md)
    + [Het gebruiken van Getrafte Rapporten met Trekken en Segmenten](reports/using-trended-reports-with-traits-and-segments.md)
+   + [Verwante soorten publiek met overlappende rapporten begrijpen](reports/understand-related-audiences-with-overlap-reports.md)
+   + [Audience Optimization-rapporten gebruiken om de mediaprestaties te begrijpen](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Overige integratie {#other-integrations}
    + Integreren met Ad Cloud {#integrating-with-ad-cloud}
       + [Integratie met Adobe Advertising Cloud en Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
