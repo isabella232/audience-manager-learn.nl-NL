@@ -5,10 +5,10 @@ breadcrumb-title: Audience Manager-tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: cfd8290b82fd877ea582400291184f9897be92a3
+source-git-commit: 18b3c68cbb1c00abe087ea0deaa940c67d7ebb97
 workflow-type: tm+mt
-source-wordcount: '765'
-ht-degree: 3%
+source-wordcount: '773'
+ht-degree: 2%
 
 ---
 
@@ -73,6 +73,7 @@ ht-degree: 3%
       + [De Vervaldatum van de Trait vormen met de Tijd aan Levende (TTL) Plaatsing](build-and-manage-audiences/traits-and-segments/configuring-trait-expiration-with-the-time-to-live-ttl-setting.md)
       + [Codeweergave gebruiken om sporen te maken en te bewerken](build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.md)
       + [Inleiding tot Bulk Management (BAAAM)](build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.md)
+      + [Traits in bulk maken en beheren met BAAAM](build-and-manage-audiences/traits-and-segments/creating-and-managing-traits-in-bulk-with-baaam.md)
       + [De basisbeginselen van het maken van segmenten](build-and-manage-audiences/traits-and-segments/the-basics-of-creating-segments.md)
       + [Een segmenttaxonomie maken](build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.md)
       + [Praktische segmentdefinitie en -ontwerp](build-and-manage-audiences/traits-and-segments/practical-segment-definition-and-creation.md)
