@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager-tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 18b3c68cbb1c00abe087ea0deaa940c67d7ebb97
+source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '781'
 ht-degree: 2%
 
 ---
@@ -83,6 +83,7 @@ ht-degree: 2%
       + [Verbeteringen voor de aanbeveling van het type Trait in de Segment Builder](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
       + [Recentie en frequentie gebruiken in segmenten](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
       + [Codeweergave gebruiken bij het bouwen van segmenten](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
+      + [Segmenten uit Adobe Analytics importeren in Audience Manager](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
       + [Een segment maken om advertenties aan klanten te onderdrukken](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
       + [Segmenten Audience Manager toewijzen aan bestemmingen](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
       + [Segmenten toewijzen aan een op apparaat gebaseerde bestemming](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
