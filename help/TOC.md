@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager-tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
+source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '802'
 ht-degree: 2%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 2%
 + {#setup-and-admin} instellen en beheren
    + Databronnen {#data-sources}
       + [Een gegevensbron maken voor analysegegevens](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+      + [Een apparaatgegevensbron maken en verifiëren](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
    + Gebruikersbeheer {#user-management}
       + [Machtigingen instellen met op rollen gebaseerd toegangsbeheer](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + Gegevensbeheer en privacy {#data-governance-and-privacy}
@@ -46,6 +47,9 @@ ht-degree: 2%
    + [Tagmanagers gebruiken om Audience Manager te implementeren](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [Hoe te om uw identiteitskaart van de Partner of Subdomain te identificeren](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [Best practices op SPA pagina&#39;s gebruiken](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
++ Offlinegegevens integreren {#integrating-offline-data}
+   + [Bestandsgebaseerde gegevens opmaken en invoegen](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
+   + [Stappen voor het invoegen van op bestanden gebaseerde gegevens](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Mobiele implementatie {#mobile-implementation}
    + [Implementeren in iOS SWIFT-toepassingen](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
    + [Implementeren in iOS-toepassingen voor doelstelling-C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
