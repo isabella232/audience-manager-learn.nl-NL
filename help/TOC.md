@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager-tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
+source-git-commit: 68e5ab7aec35619af29ed075bef872d9db2da178
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '849'
 ht-degree: 2%
 
 ---
@@ -59,6 +59,8 @@ ht-degree: 2%
       + [Gegevensgebruik van de tweede en derde partij rapporteren in Audience Marketplace op segmentniveau](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Bulksgewijs gegevensgebruik uploaden naar Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [Filters en Recommendations gebruiken om gegevens van derden te kiezen in Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
+   + Gegevens verkopen {#selling-data}
+      + [Commercialiseren van publiek in eigendom op Marketplace](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + Stimuleer en beheer soorten publiek {#build-and-manage-audiences}
    + Data Explorer {#data-explorer}
       + [Het gebruiken van het Dashboard van Signalen om Hoogste Beschikbare Signalen snel te bekijken](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
@@ -142,6 +144,10 @@ ht-degree: 2%
    + [Verwante soorten publiek met overlappende rapporten begrijpen](reports/understand-related-audiences-with-overlap-reports.md)
    + [Audience Optimization-rapporten gebruiken om de mediaprestaties te begrijpen](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Overige integratie {#other-integrations}
+   + Integratie met Real-time Customer Data Platform {#integrating-with-rtcdp}
+      + [Gegevens opnemen via de Adobe Audience Manager-gegevensconnector](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+      + [Begrijpen van de Ingestie van Gegevens van 1st-Partij in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
+      + [Begrijpen van de Ingestie van de Gegevens van het Web in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
    + Integreren met Ad Cloud {#integrating-with-ad-cloud}
       + [Integratie met Adobe Advertising Cloud en Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
