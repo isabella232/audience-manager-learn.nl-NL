@@ -1,17 +1,18 @@
 ---
 title: Voorbeelden van regels voor samenvoegen van profielen en gebruik van hoofdletters en kleine letters
 description: In deze video ziet u voorbeelden van de Regels van de Fusie van het Profiel en wat zij betekenen, evenals de gebruiksgevallen die de Regels van de Fusie van het Profiel oplossen.
-feature: profile merge
+feature: profielsamenvoeging
 topics: null
 audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 28975.jpg
 kt: 3709
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
