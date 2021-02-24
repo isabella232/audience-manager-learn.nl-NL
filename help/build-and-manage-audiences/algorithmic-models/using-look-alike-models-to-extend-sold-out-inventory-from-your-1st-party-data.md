@@ -1,17 +1,18 @@
 ---
 title: Het gebruiken van look-Alike Modellen om Verkocht uit Inventaris van Uw Gegevens van de Eerste Partij uit te breiden
 description: In deze zelfstudie doorlopen we de stappen die u moet uitvoeren om modellen op te zetten en te gebruiken die er uitzien als model, zodat u een nieuw soort publiek kunt maken dat er hetzelfde uitziet en deze als een uitbreiding op uw conversiesegment kunt verkopen.
-feature: algorithmic models
+feature: algoritmische modellen
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 23523.jpg
 kt: 1688
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '827'
 ht-degree: 0%
 
 ---
