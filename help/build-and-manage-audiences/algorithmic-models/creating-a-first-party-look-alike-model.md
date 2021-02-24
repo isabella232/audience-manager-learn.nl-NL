@@ -1,17 +1,18 @@
 ---
 title: Het creëren van een Eerste van het Kijken-Vergelijkend Model in AAM
 description: In deze video leert u hoe u een model maakt voor de look-alike van een eerste partij, zodat u meer van uw eigen bezoekers kunt vinden die er uitzien als uw converters.
-feature: algorithmic models
+feature: algoritmische modellen
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 23504.jpg
 kt: 1805
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
