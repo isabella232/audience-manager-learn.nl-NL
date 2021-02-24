@@ -1,17 +1,18 @@
 ---
 title: Overzicht van verbeteringen in de samenvoegregel voor profielen
 description: In deze video worden de verbeteringen in de regels voor het samenvoegen van profielen uitgelegd, die in oktober 2019 zijn gepubliceerd.
-feature: profile merge
+feature: profielsamenvoeging
 topics: null
 audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 28976.jpg
 kt: 3710
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '32'
 ht-degree: 0%
 
 ---
