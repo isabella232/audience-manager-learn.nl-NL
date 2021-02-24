@@ -1,17 +1,18 @@
 ---
 title: Integratie met Adobe Advertising Cloud en Adobe Audience Manager
 description: Leer hoe de integratie tussen Adobe Audience Manager en Adobe Ad Cloud werkt. U kunt ook antwoorden krijgen over overeenkomende snelheden en het synchroniseren van cookies van andere bedrijven.
-feature: integrating with ad cloud
+feature: integreren met advertentiecolve
 topics: null
 audience: all
 activity: understand
 doc-type: technical video
 team: Technical Marketing
+thumbnail: 25894.jpg
 kt: 3072
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
