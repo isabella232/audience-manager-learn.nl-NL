@@ -1,17 +1,18 @@
 ---
 title: Bulksgewijs gegevensgebruik uploaden naar Audience Marketplace
-description: 'Terwijl u het gebruik van gegevens van de tweede en derde partij in de Audience Marketplace rapporteert, hebt u mogelijk genoeg gegevens om te zorgen dat u het niet handmatig wilt doen. In deze video leert u hoe u het hulpmiddel voor bulkupload kunt gebruiken om gegevensgebruik te melden, zodat u uw gegevensgebruik eenvoudig kunt melden, zelfs als u veel items moet bijwerken. '
-feature: audience marketplace
+description: 'Terwijl u het gebruik van gegevens van de tweede en derde partij in de Audience Marketplace rapporteert, hebt u mogelijk genoeg gegevens om te zorgen dat u het niet handmatig wilt doen. In deze video leert u hoe u het hulpprogramma voor bulkupload kunt gebruiken om gegevensgebruik te melden, zodat u uw gegevensgebruik eenvoudig kunt melden, zelfs als u veel items moet bijwerken. '
+feature: doelmarkt
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25521.jpg
 kt: 1782
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # Bulk die Gegevensgebruik in [!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace} uploadt
 
-Als u het gebruik van gegevens van derden in [!UICONTROL Audience Marketplace] rapporteert, hebt u mogelijk genoeg items om te zorgen dat u dit niet handmatig wilt doen. In deze video leert u hoe u het hulpmiddel voor bulkupload kunt gebruiken om gegevensgebruik te melden, zodat u uw gegevensgebruik eenvoudig kunt melden, zelfs als u veel items moet bijwerken.
+Als u het gebruik van gegevens van derden in [!UICONTROL Audience Marketplace] rapporteert, hebt u mogelijk genoeg items om te zorgen dat u dit niet handmatig wilt doen. In deze video leert u hoe u het hulpprogramma voor bulkupload kunt gebruiken om gegevensgebruik te melden, zodat u uw gegevensgebruik eenvoudig kunt melden, zelfs als u veel items moet bijwerken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
 
