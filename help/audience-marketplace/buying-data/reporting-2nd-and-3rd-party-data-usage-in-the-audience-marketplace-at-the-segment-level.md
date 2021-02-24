@@ -1,17 +1,18 @@
 ---
 title: Gegevensgebruik van de tweede en derde partij rapporteren in Audience Marketplace op segmentniveau
 description: In deze video wordt een nieuwe methode getoond voor het rapporteren van het gegevensgebruik in het gedeelte Payables van de gebruikersinterface van Audience Marketplace. Naast het bestaande proces van rapportage op voederniveau, kunnen nu maandelijks indrukkingen worden ingediend op segmentniveau, wat de noodzaak van offlineberekeningen voor kostentoerekening wegneemt.
-feature: audience marketplace
+feature: doelmarkt
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25522.jpg
 kt: 1758
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
