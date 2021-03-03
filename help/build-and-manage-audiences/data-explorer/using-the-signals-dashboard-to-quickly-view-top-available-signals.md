@@ -1,19 +1,20 @@
 ---
 title: Het gebruiken van het Dashboard van Signalen om Hoogste Beschikbare Signalen snel te bekijken
 description: Door ingebouwde en douanetabellen op het dashboard van Signals in Data Explorer te gebruiken, kunt u snel de recentste gegevens zien die in Audience Manager komen en zelfs door klikken om eigenschappen tot stand te brengen zoals nodig. Welkom bij uw nieuwe, efficiëntere workflow!
-feature: data explorer
+feature: 'Data Explorer '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 0%
+source-wordcount: '182'
+ht-degree: 1%
 
 ---
 
