@@ -1,19 +1,20 @@
 ---
 title: Een gegevensbron kiezen bij het maken van sporen
 description: Een van de belangrijke velden die u moet invullen wanneer u eigenschappen maakt, is het veld Gegevensbron. Krijg uiteinden bij het kiezen van de juiste gegevensbron voor op regel-gebaseerde en Onboard eigenschappen.
-feature: traits
+feature: 'Eigenschappen '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 326660.jpg
 kt: 6442
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 66d67fb8089b99155387c34a792063f41387bdaf
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 0%
+source-wordcount: '76'
+ht-degree: 1%
 
 ---
 
