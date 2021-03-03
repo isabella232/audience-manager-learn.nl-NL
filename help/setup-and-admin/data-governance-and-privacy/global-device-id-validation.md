@@ -1,17 +1,18 @@
 ---
 title: Validatie van algemene apparaat-id
 description: Identificatienummers voor advertenties van apparaten (iDFA, GAID, Roku ID) hebben opmaakstandaarden die moeten worden nageleefd om te kunnen worden gebruikt in het ecosysteem voor digitale reclame. Vandaag, kunnen de klanten en de partners IDs aan onze Globale gegevensbronnen in om het even welk formaat uploaden zonder op de hoogte worden gebracht van of identiteitskaart behoorlijk geformatteerd is. Deze functie introduceert validatie van apparaat-id's die naar de algemene gegevensbronnen worden verzonden voor een correcte opmaak en geeft foutberichten wanneer id's onjuist zijn opgemaakt. We ondersteunen validatie voor iDFA-, Google Advertising- en Roku-id's bij het starten.
-feature: data governance & privacy
+feature: '"Data Governance & Privacy"'
 topics: mobile
-audience: implementer, developer, architect
 activity: implement
 doc-type: article
 team: Technical Marketing
 kt: 2977
+role: '"Developer, Data Engineer, architect"'
+level: Ervaren
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '786'
 ht-degree: 1%
 
 ---
