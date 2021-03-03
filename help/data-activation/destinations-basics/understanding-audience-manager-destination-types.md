@@ -1,18 +1,19 @@
 ---
 title: Werken met Audience Manager-doeltypen
 description: Deze video zal u door de verschillende soorten bestemmingen in Adobe Audience Manager, en voorbeelden van laten zien wanneer u elk zou gebruiken.
-feature: destination basics
+feature: Grondbeginselen van bestemming
 topics: null
-audience: all
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 thumbnail: 29839.jpg
 kt: 4016
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
