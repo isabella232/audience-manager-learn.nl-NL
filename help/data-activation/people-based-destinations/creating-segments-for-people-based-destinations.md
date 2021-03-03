@@ -1,18 +1,19 @@
 ---
 title: Segmenten maken voor op mensen gebaseerde doelen in Adobe Audience Manager
 description: Deze video begeleidt u door de verwezenlijking van een segment in Audience Manager dat voor op mensen-Gebaseerde Doelen moet worden gebruikt.
-feature: people-based destinations
+feature: '"Op mensen gebaseerde bestemmingen"'
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29236.jpg
 kt: 3690
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
