@@ -1,19 +1,21 @@
 ---
 title: Machtigingen instellen met op rollen gebaseerd toegangsbeheer
 description: Met het Adobe Audience Manager-toegangsbeheer op basis van rollen kunt u machtigingen op groepsniveau beheren en bepalen wie met elementen, waaronder kenmerken, segmenten, doelen en modellen, moet zien en werken. Leer hoe u machtigingsgroepen instelt en gebruikers eraan toevoegt.
-feature: administration
+feature: Beheer
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 329120.jpg
 kt: 6737
+topic: Beheer
+role: Beheerder
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: 08fe4df7561d789a42058be1c7000dbbdab68e4d
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 2%
 
 ---
 
