@@ -1,19 +1,20 @@
 ---
 title: De gegevensstroom in Audience Manager begrijpen
 description: Deze video helpt u Adobe Audience Manager te begrijpen door de gegevensstroom in, door en uit de toepassing te beschrijven.
-feature: overview
+feature: Overzicht
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5103
 thumbnail: 33888.jpg
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: c257df634f156a7067683749fbe178081bce7e75
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
