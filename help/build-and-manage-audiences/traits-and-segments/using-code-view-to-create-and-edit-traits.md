@@ -1,19 +1,20 @@
 ---
 title: Codeweergave gebruiken om sporen te maken en te bewerken
 description: Leer hoe u de codeweergave kunt gebruiken wanneer u nieuwe kenmerken maakt of bestaande kenmerken bewerkt. De codeweergave is een alternatief voor de expressiebouwer bij het instellen van de expressie trait.
-feature: traits
+feature: 'Eigenschappen '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 326613.jpg
 kt: 6441
+role: Zakelijke praktiserer
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: 66d67fb8089b99155387c34a792063f41387bdaf
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 1%
 
 ---
 
