@@ -1,17 +1,18 @@
 ---
 title: Video's en Tutorials samenvoegen van profielen
 description: Deze sectie bevat video's en zelfstudies voor functies voor het samenvoegen van profielen, zoals regels voor het samenvoegen van profielen.
-feature: profile merge
+feature: Profielsamenvoeging
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
