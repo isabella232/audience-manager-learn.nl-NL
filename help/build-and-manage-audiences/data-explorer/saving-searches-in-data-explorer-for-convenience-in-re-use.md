@@ -1,20 +1,21 @@
 ---
 title: Opslaan van zoekopdrachten in Data Explorer voor gebruiksgemak bij hergebruik
 description: In deze video zult u leren hoe te om een onderzoek in Data Explorer te vormen, het in werking te stellen, en dan sparen het voor hergebruik op een recentere tijd. U kunt de opgeslagen zoekopdracht ook op het dashboard plaatsen, zodat deze direct beschikbaar is wanneer u de toepassing Signals gebruikt.
-feature: data explorer
+feature: 'Data Explorer '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 0%
+source-wordcount: '140'
+ht-degree: 1%
 
 ---
 
