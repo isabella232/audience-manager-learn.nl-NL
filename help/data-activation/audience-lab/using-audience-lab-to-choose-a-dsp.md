@@ -1,18 +1,19 @@
 ---
 title: Het gebruiken van het Laboratorium van het Publiek om een DSP te kiezen
 description: In deze video lopen wij door het creëren van een test van het Laboratorium van de Publiek, zodat u A/B DSP of andere AAM bestemmingen kunt testen om te zien welke één de beste terugkeer op advertentie zal drijven uitgeven.
-feature: audience lab
+feature: 'Audience Lab '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24923.jpg
 kt: 1552
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
