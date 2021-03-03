@@ -1,19 +1,20 @@
 ---
 title: Data Explorer gebruiken om retroactieve overtrekken en segmenten te maken
 description: In deze video wordt getoond hoe u retroactieve kenmerken kunt maken, dat wil zeggen kenmerken die gegevens terugvullen in de eigenschap van voordat deze werd gemaakt. Dit is een geweldige doorbraak in uw creatie van kenmerken!
-feature: data explorer
+feature: 'Data Explorer '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 
