@@ -1,18 +1,19 @@
 ---
 title: Verbeteringen voor de aanbeveling van het type Trait in de Segment Builder
 description: In deze video zult u zien hoe te om de bijgewerkte eigenschapaanbevelingen in de segmentbouwer te gebruiken, die Audience Marketplace aanbevelingen zijn. Hierdoor krijgt u meer inzicht in gegevens van derden die het bereik van uw segmenten kunnen uitbreiden.
-feature: segments
+feature: 'Segmenten '
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29363.jpg
 kt: 3937
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: 4988e9eb900e5dfd6e0a69a25509186d26dceffb
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
