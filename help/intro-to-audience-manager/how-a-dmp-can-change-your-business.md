@@ -1,17 +1,18 @@
 ---
 title: Hoe een DMP uw bedrijf kan veranderen
 description: Platforms voor gegevensbeheer zijn het verhaal van de technologische wereld op dit moment, maar wat zijn ze en nog belangrijker, hoe kunnen ze je als marketers helpen je doelen te realiseren? Tijdens deze sessie zullen we uitleggen wat een DMP is en een aantal praktijkcasestudies laten zien waarin klanten geweldige opbrengsten van hun investering hebben gezien, van efficiëntere mediaaankopen tot aanzienlijk hogere omzettingen.
-feature: overview
+feature: Overzicht
 topics: null
-audience: all
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 kt: 4025
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
