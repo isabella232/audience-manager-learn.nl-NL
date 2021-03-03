@@ -1,18 +1,19 @@
 ---
 title: IAB TCF 2.0 Steun in Audience Manager
 description: Adobe voorziet u van de middelen om de privacykeuzen van uw gebruikers te beheren en mee te delen door de Opt-in functionaliteit en door de Plug-in van de Audience Manager aan de Transparantie van IAB en de Steun van het Kader 2.0 van de Goedkeuring (TCF 2.0). Dit artikel werkt samen met de documentatie om u te helpen de Plug-in van de Audience Manager aan IAB TCF begrijpen en hoe het samen met het Opt-in voorwerp van Adobe en uw Bevelhebber van het Beheer van de Toestemming (CMP) werkt.
-feature: data governance & privacy
+feature: '"Data Governance & Privacy"'
 topics: null
-audience: implementer, architect
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 26434.jpg
 kt: 5027
+role: '"Developer, Data Engineer, architect"'
+level: Ervaren
 translation-type: tm+mt
-source-git-commit: df8afb50ed3971dc47e6506d31a8222a7f488b25
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '1123'
+source-wordcount: '1131'
 ht-degree: 0%
 
 ---
@@ -65,7 +66,7 @@ Dit is het eerste deel van de IAB TC-tekenreeks en wordt alleen opgenomen als ee
 
 Een ander deel van de IAB TC-reeks bestaat uit een lange lijst met honderden leveranciers, zodat bezoekers een lijst kunnen krijgen met relevante leveranciers die tags op de site hebben en kunnen kiezen welke leveranciers u wilt gebruiken. Leveranciers behouden hun plaats in de lijst. Het Adobe Audience Manager-leveranciernummer in deze lijst is bijvoorbeeld 565. Als dat nummer in de lijst een &#39;1&#39; heeft, kan de Audience Manager de goedgekeurde doeleinden uitvoeren vanaf de voorkant van de lijst. Als de vlek van AAM &quot;0&quot;heeft, kan het niets met de gegevens doen.
 
-**Voor Audience Manager om een UI voor klanten te verstrekken om IAB TCF te gebruiken om deze doeleinden en verkopers te kiezen, of al activiteit goed te keuren/af te keuren, moet u een partner gebruiken CMP die met IAB TCF wordt geregistreerd of bouwt die IAB TCF steunt en met IAB TCF wordt geregistreerd.**
+**Voor Audience Manager om een UI voor klanten te verstrekken om IAB TCF te gebruiken om deze doeleinden en verkopers te kiezen, of om al activiteit goed te keuren/af te keuren, moet u een partner gebruiken CMP die met IAB TCF wordt geregistreerd of bouwt die IAB TCF steunt en met IAB TCF wordt geregistreerd.**
 
 ## Inschakelen: Omzetten tussen IAB- en Adobe-oplossingen {#opt-in-translating-between-iab-and-adobe-solutions}
 
