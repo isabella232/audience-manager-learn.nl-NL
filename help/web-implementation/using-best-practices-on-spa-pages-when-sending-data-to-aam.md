@@ -1,17 +1,19 @@
 ---
 title: Best practices gebruiken op SPA pagina's wanneer gegevens naar AAM worden verzonden
 description: In dit document worden verschillende aanbevolen procedures beschreven die u moet volgen en waarvan u op de hoogte bent wanneer u gegevens verzendt van Single Page Applications (SPA) naar Adobe Audience Manager (AAM). Dit document zal zich op het gebruiken van Launch by Adobe concentreren, die de geadviseerde implementatiemethode is.
-feature: implementation basics
+feature: Grondbeginselen van implementatie
 topics: spa
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1390
+topic: SPA
+role: '"Developer, Data Engineer"'
+level: Ervaren
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -31,7 +33,7 @@ In dit document worden verschillende aanbevolen procedures beschreven die u moet
 ![spa voor am in  [!DNL launch]](assets/spa_for_aam_in_launch.png)
 
 >[!NOTE]
->Zoals vermeld, is dit een vereenvoudigd diagram van hoe SPA pagina&#39;s in een implementatie van Adobe Audience Manager (zonder Adobe Analytics) gebruikend [!DNL Platform Launch] worden behandeld. Zoals u kunt zien, is het vrij recht-voorwaarts, met het grote besluit zijn hoe u een meningsverandering (of een actie) aan [!DNL Platform Launch] gaat meedelen.
+>Zoals vermeld, is dit een vereenvoudigd diagram van hoe SPA pagina&#39;s in een implementatie van Adobe Audience Manager (zonder Adobe Analytics) gebruikend [!DNL Platform Launch] worden behandeld. Zoals u kunt zien, is het vrij recht-voorwaarts, met het grote besluit is hoe u een meningsverandering (of een actie) aan [!DNL Platform Launch] gaat meedelen.
 
 ## [!DNL Launch] triggeren van de SPA pagina {#triggering-launch-from-the-spa-page}
 
