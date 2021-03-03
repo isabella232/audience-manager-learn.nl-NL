@@ -1,18 +1,19 @@
 ---
 title: Segmenten toewijzen aan een op apparaat gebaseerde bestemming
 description: Om een publiekssegment uit naar een DSP of een andere partner te verzenden, moet u het segment aan een bestemming in Audience Manager in kaart brengen. Deze video doorloopt kaartsegmenten aan een op apparaat-gebaseerde bestemming, die ook als "server aan server"bestemming wordt bekend.
-feature: segments
+feature: 'Segmenten '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36495.jpg
 kt: 5805
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
