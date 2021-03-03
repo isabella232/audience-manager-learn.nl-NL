@@ -1,18 +1,19 @@
 ---
 title: Hoe te om Segmenten van Adobe Analytics in Audience Manager in te voeren
 description: Naast het door:sturen van gegevens in real time van Adobe Analytics in Audience Manager, kunt u segmenten ook invoeren die post-verwerkte gegevens van Analytics aan Audience Manager via de Experience Cloud omvatten. Dit is een krachtige eigenschap die geen andere DMP kan opvatten.
-feature: Segments
+feature: 'Segmenten '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330804.jpg
 kt: 6835
+role: Zakelijke praktiserer
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: 557a91c4be453ff36e275e9fc3aab987226f51f0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
