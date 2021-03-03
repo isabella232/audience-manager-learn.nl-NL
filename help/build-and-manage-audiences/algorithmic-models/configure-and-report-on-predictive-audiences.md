@@ -1,19 +1,20 @@
 ---
 title: Configureren en rapporteren in Audience Manager[!UICONTROL Predictive Audiences]
 description: In deze video zullen wij door [!UICONTROL Predictive Audiences] configuratie in de interface van de Audience Manager lopen. We zullen ook de verslagen zien die de resultaten van het model weergeven.
-feature: algoritmische modellen
+feature: Algorithmic Models
 topics: null
-audience: administrator
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 33630.jpg
 kt: 4390
+role: Beheerder
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 2%
 
 ---
 
