@@ -1,18 +1,19 @@
 ---
 title: De Vervaldatum van de Trait vormen met de Tijd aan Levende (TTL) Plaatsing
 description: Een van de instellingen bij het maken van kenmerken is de instelling 'TTL' of 'Tijd voor live'. Dit is een verlopen van het lidmaatschap in de eigenschap als u niet binnen de opgegeven tijdsperiode opnieuw opgeeft. In deze video wordt getoond hoe u deze functie kunt zien en instellen.
-feature: traits
+feature: 'Eigenschappen '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 329381.jpg
 kt: 6782
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 07a6261cc56dece555e6454908aac014afe6d8be
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
