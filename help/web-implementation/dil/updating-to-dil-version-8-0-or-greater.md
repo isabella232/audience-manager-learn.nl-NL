@@ -1,17 +1,18 @@
 ---
 title: Bijwerken naar Adobe Audience Manager DIL versie 8.0 (of hoger)
 description: In dit artikel worden de stappen en aanbevelingen beschreven voor het bijwerken van Adobe Audience Manager (AAM) Data Integration Library (DIL)-code naar versie 8.0 of hoger. Dit heeft betrekking op "client-side" DIL-implementatie, niet op het doorsturen van Adobe Analytics-gegevens aan de serverzijde, en geldt voor DTM, Launch by Adobe en implementaties zonder oplossing voor Adobe tagbeheer.
-feature: dil implementation
+feature: DIL-implementatie
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1841
+role: '"Developer, Data Engineer"'
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1155'
 ht-degree: 0%
 
 ---
