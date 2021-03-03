@@ -1,18 +1,19 @@
 ---
 title: Bulksgewijs gegevensgebruik uploaden naar Audience Marketplace
 description: 'Terwijl u het gebruik van gegevens van de tweede en derde partij in de Audience Marketplace rapporteert, hebt u mogelijk genoeg gegevens om te zorgen dat u het niet handmatig wilt doen. In deze video leert u hoe u het hulpprogramma voor bulkupload kunt gebruiken om gegevensgebruik te melden, zodat u uw gegevensgebruik eenvoudig kunt melden, zelfs als u veel items moet bijwerken. '
-feature: doelmarkt
+feature: Audience Marketplace
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25521.jpg
 kt: 1782
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
