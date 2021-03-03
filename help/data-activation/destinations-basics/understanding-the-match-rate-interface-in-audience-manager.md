@@ -1,19 +1,20 @@
 ---
 title: De interface voor afstemmen in Audience Manager
 description: Deze video begeleidt u door de bestemmingsinterface, die en de aantallen toont verklaart verbonden aan gelijke tarieven en adresseerbare publiek.
-feature: match rates
+feature: Matchpercentages
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Experience League
 thumbnail: 29831.jpg
 kt: 4034
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 2%
 
 ---
 
