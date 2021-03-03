@@ -1,18 +1,19 @@
 ---
 title: Gegevensstroom op basis van persoonlijke doelen
 description: Deze video geeft een overzicht van Mensen-Gebaseerde Doelen en toont de gegevensstroom door het proces.
-feature: people-based destinations
+feature: '"Op mensen gebaseerde bestemmingen"'
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28968.jpg
 kt: 3683
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
