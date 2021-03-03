@@ -1,18 +1,19 @@
 ---
 title: Het creëren van een Gegevensbron voor Mensen-Gebaseerde Doelen
 description: Deze video begeleidt u door de verwezenlijking van een Gegevensbron in Audience Manager die voor Op mensen-Gebaseerde Doelen moet worden gebruikt.
-feature: people-based destinations
+feature: '"Op mensen gebaseerde bestemmingen"'
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29006.jpg
 kt: 3700
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
