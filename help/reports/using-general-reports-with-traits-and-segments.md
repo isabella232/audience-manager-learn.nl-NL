@@ -1,18 +1,19 @@
 ---
 title: Algemene rapporten gebruiken met treinen en segmenten
 description: In deze video ziet u hoe u de algemene rapporten in de Audience Manager kunt gebruiken om getallen voor kenmerken en segmenten op te halen.
-feature: general & trend reports
+feature: '"Algemene en trendrapporten"'
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 328279.jpg
 kt: 6645
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 67413caf1c59c446c16beb5b84b48e7fad06e575
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
