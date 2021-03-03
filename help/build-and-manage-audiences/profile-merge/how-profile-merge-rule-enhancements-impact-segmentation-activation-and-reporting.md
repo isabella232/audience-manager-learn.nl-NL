@@ -1,18 +1,19 @@
 ---
 title: Hoe de Segmentatie, de Activering, en het Melden van de Regel van de Samenvoeging van het Profiel Verbeteringen
 description: Begrijpen hoe de Verbeteringen van de Regel van de Samenvoeging van het Profiel de Totale Bedienings en Bevolkingen van het Segment in UI van de Audience Manager zullen beïnvloeden
-feature: profielsamenvoeging
+feature: Profielsamenvoeging
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28972.jpg
 kt: 3693
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
