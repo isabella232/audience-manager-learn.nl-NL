@@ -1,18 +1,19 @@
 ---
 title: Verbeteringen in de regel voor samenvoegen van profielen - Voorwaarden
 description: Een overzicht van hoe u zich het beste kunt voorbereiden op de release van de Verbeteringen van de regel voor het samenvoegen van profielen.
-feature: profielsamenvoeging
+feature: Profielsamenvoeging
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28971.jpg
 kt: 3692
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Begin
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
