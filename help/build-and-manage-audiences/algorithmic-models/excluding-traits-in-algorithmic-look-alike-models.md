@@ -1,19 +1,20 @@
 ---
 title: Exclusief traits in algoritmische (look-Alike) modellen
 description: 'In deze video leert u hoe en waarom u specifieke (of groepen) kenmerken wilt uitsluiten van een Algorithmic (Look-Alike)-model. '
-feature: algoritmische modellen
+feature: Algorithmic Models
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25569.jpg
 kt: 1759
+role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Intermediair
 translation-type: tm+mt
-source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 0%
+source-wordcount: '196'
+ht-degree: 1%
 
 ---
 
