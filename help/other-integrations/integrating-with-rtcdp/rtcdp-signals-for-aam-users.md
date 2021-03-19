@@ -3,15 +3,15 @@ title: Het begrip Signalen in Echt - tijd CDP voor de Gebruikers van de Audience
 description: Deze video wordt bedoeld voor de gebruikers van de Audience Manager die zich aan het Platform van Gegevens in real time van de Klant (CDP in real time) bewegen, en bespreekt hoe de signalen (zeer belangrijke paren) die u in Audience Manager gebruikt om eigenschappen te bouwen in Platform worden gebruikt.
 feature: Integratie van Platform
 topic: Integraties
-role: Zakelijke praktiserer
+role: Business Practice, Architect, Administrator, Leader
 level: Intermediair
 doc-type: feature video
 thumbnail: 332092.jpg
 kt: 7305
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
