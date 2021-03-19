@@ -2,19 +2,16 @@
 title: Begrijpen van Segmenten in real time CDP voor de Gebruikers van de Audience Manager
 description: Aangezien u zich van Audience Manager aan Platform van de Gegevens van de Klant in real time beweegt, is het nuttig om de verschillen in concepten te begrijpen. In deze video wordt gekeken naar de verschillen in segmenten en het maken van segmenten tussen Audience Manager en Real-Time CDP.
 feature: Integratie van Platform
-topics: null
-activity: understand
+topic: Integraties
+role: Business Practice, Architect, Administrator, Leader
+level: Intermediair
 doc-type: feature video
-team: Technical Marketing
 thumbnail: 331901.jpg
 kt: 7205
-topic: Integraties
-role: Zakelijke praktiserer
-level: Intermediair
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
