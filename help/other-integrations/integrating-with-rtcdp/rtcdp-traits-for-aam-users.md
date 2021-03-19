@@ -2,19 +2,16 @@
 title: Begrijpen de Tanden in Echt - tijd CDP voor de Gebruikers van de Audience Manager
 description: Aangezien u zich van Audience Manager aan Platform van de Gegevens van de Klant in real time beweegt, is het nuttig om de verschillen in concepten te begrijpen. Deze video richt eigenschappen in Audience Manager en wat het equivalent in real time CDP is.
 feature: Integratie van Platform
-topics: null
-activity: understand
+topic: Integraties
+role: Business Practice, Architect, Administrator, Leader
+level: Intermediair
 doc-type: feature video
-team: Technical Marketing
 thumbnail: 331900.jpg
 kt: 7201
-topic: Integraties
-role: Zakelijke praktiserer
-level: Intermediair
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
