@@ -3,15 +3,15 @@ title: Het begrip van Gegevensbeheer in Real-time CDP voor de Gebruikers van de 
 description: Deze video bespreekt de gebruikers van de Audience Manager door de functionaliteit van het gegevensbeheer in het Platform van de Gegevens van de Klant in real time, die het aan wat in Audience Manager beschikbaar was vergelijkt. Het bespreekt het kader van de Handhaving van het Gebruik en van de Etikettering van Gegevens (DULE) en waar in Platform dat het kan worden toegepast.
 feature: Integratie van Platform
 topic: Integraties
-role: Zakelijke praktiserer
+role: Business Practice, Architect, Administrator, Leader
 level: Intermediair
 doc-type: feature video
 thumbnail: 332123.jpg
 kt: 7337
 translation-type: tm+mt
-source-git-commit: 48ca8defbccd66127518f14d8b86dc96044743e6
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
