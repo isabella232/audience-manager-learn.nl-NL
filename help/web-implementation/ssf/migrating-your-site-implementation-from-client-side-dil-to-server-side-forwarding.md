@@ -1,23 +1,23 @@
 ---
 title: De AAM van uw site migreren van client-side DIL naar server-side doorsturen
 description: Deze zelfstudie is op u van toepassing als u zowel Adobe Audience Manager (AAM) als Adobe Analytics hebt en u momenteel een hit van de pagina naar AAM verzendt met de code "DIL" (Data Integration Library) en ook een hit van de pagina naar Adobe Analytics verzendt. Aangezien u beide oplossingen hebt, en aangezien zij allebei deel van Adobe Experience Cloud uitmaken, hebt u de kans om de beste praktijk te volgen om "Server-Side Forwarding (SSF) aan te zetten,"die de servers van de gegevensinzameling van de Analyse toelaat om plaats analysegegevens in real time aan Audience Manager door:sturen, in plaats van het hebben van cliënt-zijcode een extra klap van de pagina naar AAM verzenden. Dit leerprogramma zal u door de stappen lopen om de schakelaar van de oudere "cliënt-Kant DIL"implementatie aan de nieuwere "server-Kant door:sturen"methode te maken.
-product: audience manager, analytics
+product: audience manager
 feature: Adobe Analytics-integratie
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: '"Developer, Data Engineer"'
-level: Intermediair
+role: Developer, Data Engineer
+level: Intermediate
+exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '2326'
+source-wordcount: '2322'
 ht-degree: 0%
 
 ---
-
 
 # De AAM-implementatie van uw site migreren van [!DNL Client-Side] DIL naar [!DNL Server-Side Forwarding] {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
@@ -120,7 +120,7 @@ Ter herinnering, er zijn twee hoofdtaken om over te gaan van [!DNL Client-Side D
 1. De code bijwerken
 1. De schakelaar in [!DNL Analytics] [!DNL Admin Console]
 
-Maar de vraag is: welke doe je eerst? Maakt het uit? Dat waren twee vragen. Maar de antwoorden zijn... het hangt van, en ja, het *kan* ertoe doen. Hoe is dat voor vaag? Laten we het splitsen. Maar eerst een aanvullende vraag die kan ontstaan als je een grote organisatie bent met veel sites: Moet ik alles tegelijk doen? Dat is iets makkelijker. Nope. Je kunt het stuk voor stuk doen...soort van. :)
+Maar de vraag is: welke doe je eerst? Maakt het uit? Dat waren twee vragen. Maar de antwoorden zijn... het hangt af, en ja, het *kan* ertoe doen. Hoe is dat voor vaag? Laten we het splitsen. Maar eerst een aanvullende vraag die kan ontstaan als je een grote organisatie bent met veel sites: Moet ik alles tegelijk doen? Dat is iets makkelijker. Nope. Je kunt het stuk voor stuk doen...soort van. :)
 
 ### Een beetje dieper duiken {#a-little-deeper-dive}
 
