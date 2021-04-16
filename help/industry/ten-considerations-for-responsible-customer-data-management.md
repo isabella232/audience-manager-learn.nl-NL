@@ -2,21 +2,20 @@
 title: 10 overwegingen voor Verantwoordelijk beheer van klantgegevens
 description: Vluchtige marktkrachten en uiteenlopende privacyvereisten voor de consument kunnen ontstellende scenario's voor de digitale markt bieden. Om campagnes aan de rechterkant van regelgeving te houden, hebben marketingteams hun IT-tegenhangers nodig om een gestroomlijnd proces te hebben voor het testen van gegevens in de toekomst — een proces dat iedereen idealiter machtigt om regels voor verantwoord gebruik van consumentengegevens te volgen en te handhaven. Horen van Adobe en Scotiabank Digital over belangrijke overwegingen voor verantwoord gegevensbeheer.
 feature: Overzicht
-topic: null
-role: Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
-level: Begin, tussenpersoon, ervaren
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner, Intermediate, Experienced
 doc-type: Event
 thumbnail: 332062.jpg
 kt: 7334
-type: 'Gebeurtenis '
+type: Event
+exl-id: 00664b18-f230-44b8-a963-7ef0298ea39b
 translation-type: tm+mt
-source-git-commit: d53ef772f62f917e3823c0c133999e9384183ee8
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # 10 overwegingen voor Verantwoordelijk beheer van klantgegevens
 
