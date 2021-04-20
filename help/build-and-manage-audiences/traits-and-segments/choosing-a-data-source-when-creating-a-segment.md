@@ -1,15 +1,15 @@
 ---
 title: Een gegevensbron kiezen bij het maken van een segment
 description: Leer wat uiteinden bij het kiezen van de juiste gegevensbron wanneer u een nieuw segment in Audience Manager creeert.
-feature: 'Segmenten '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39293.jpg
 kt: 6055
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

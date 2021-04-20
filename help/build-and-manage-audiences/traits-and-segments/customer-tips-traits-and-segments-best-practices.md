@@ -1,15 +1,15 @@
 ---
 title: Tips voor klanten - Aanbevolen procedures voor reizen en segmenten
 description: Matt Vittorioso, Senior Marketing Specialist bij Ally Financial, geeft tips over het beheren van kenmerken en segmenten.
-feature: 'Segmenten '
+feature: Segments
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-segments.jpg
 kt: 6048
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

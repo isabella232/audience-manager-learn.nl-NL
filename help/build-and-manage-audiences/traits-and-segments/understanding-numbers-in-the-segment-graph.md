@@ -1,15 +1,15 @@
 ---
 title: Nummers in de segmentgrafiek begrijpen
 description: Leer over de aantallen die in de grafiek van het segment info scherm tonen.
-feature: 'Segmenten '
+feature: Segments
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 38041.jpg
 kt: 5936
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

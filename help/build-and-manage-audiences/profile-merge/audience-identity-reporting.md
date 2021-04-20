@@ -1,7 +1,7 @@
 ---
 title: Identiteitsrapportage publiek
 description: Publiek-identiteitsrapportage biedt klanten de mogelijkheid om de totale populatie van een eigenschap of segment te rapporteren per persoon/huishouden-definitie van identiteit. Bekijk deze video om te zien hoe het in de rapporten van de Audience Manager wordt getoond.
-feature: profielsamenvoeging
+feature: profile merge
 topics: null
 audience: marketer
 activity: use

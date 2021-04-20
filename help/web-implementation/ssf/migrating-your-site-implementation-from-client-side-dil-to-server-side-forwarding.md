@@ -2,13 +2,13 @@
 title: De AAM van uw site migreren van client-side DIL naar server-side doorsturen
 description: Deze zelfstudie is op u van toepassing als u zowel Adobe Audience Manager (AAM) als Adobe Analytics hebt en u momenteel een hit van de pagina naar AAM verzendt met de code "DIL" (Data Integration Library) en ook een hit van de pagina naar Adobe Analytics verzendt. Aangezien u beide oplossingen hebt, en aangezien zij allebei deel van Adobe Experience Cloud uitmaken, hebt u de kans om de beste praktijk te volgen om "Server-Side Forwarding (SSF) aan te zetten,"die de servers van de gegevensinzameling van de Analyse toelaat om plaats analysegegevens in real time aan Audience Manager door:sturen, in plaats van het hebben van cliënt-zijcode een extra klap van de pagina naar AAM verzenden. Dit leerprogramma zal u door de stappen lopen om de schakelaar van de oudere "cliënt-Kant DIL"implementatie aan de nieuwere "server-Kant door:sturen"methode te maken.
 product: audience manager
-feature: Adobe Analytics-integratie
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 translation-type: tm+mt

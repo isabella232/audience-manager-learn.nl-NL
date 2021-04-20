@@ -1,15 +1,15 @@
 ---
 title: Conversietaken maken in Audience Manager
 description: Sommige kenmerken van uw site zijn gebaseerd op conversies. In deze video leert u hoe u ze als zodanig kunt aanwijzen en leert u een zeer belangrijke tip/gotcha.
-feature: 'Eigenschappen '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23431.jpg
 kt: 1804
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

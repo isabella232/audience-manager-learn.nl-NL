@@ -1,15 +1,15 @@
 ---
 title: Klantentips - De regels voor het samenvoegen van profielen optimaal benutten
 description: Varun Kalra, consultant voor meerdere oplossingen op basis van accordeon, geeft tips voor het kiezen en gebruiken van Profile Merge Rules (PMR's).
-feature: Profielsamenvoeging
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

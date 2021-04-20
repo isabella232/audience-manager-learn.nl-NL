@@ -1,15 +1,15 @@
 ---
 title: Het begrip van en het Vormen van LinkedIn op mensen-Gebaseerde Bestemming
 description: Deze video begeleidt u door de concepten en de stappen om een op mensen-Gebaseerde Bestemming aan LinkedIn tot stand te brengen. Het bouwt op de extra video's en de documentatie betreffende Op mensen-Gebaseerde Doelen voort.
-feature: '"Op mensen gebaseerde bestemmingen"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34171.jpg
 kt: 5028
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

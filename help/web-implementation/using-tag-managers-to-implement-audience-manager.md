@@ -1,14 +1,14 @@
 ---
 title: Tagmanagers gebruiken om Audience Manager te implementeren
 description: In deze video leert u de basisbeginselen van het implementeren van Adobe Audience Manager wanneer u een oplossing voor tagbeheer gebruikt.
-feature: Grondbeginselen van implementatie
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 4051
-role: '"Developer, Data Engineer"'
-level: Intermediair
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Het gebruiken van Getrafte Rapporten met Trekken en Segmenten
 description: Leer hoe te om de trended rapporten in Audience Manager te gebruiken om te zien hoe de eigenschappen en de segmenten in tijd presteren.
-feature: '"Algemene en trendrapporten"'
+feature: "General & Trend Reports"
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 328280.jpg
 kt: 6646
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

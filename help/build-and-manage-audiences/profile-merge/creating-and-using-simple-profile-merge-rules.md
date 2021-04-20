@@ -1,15 +1,15 @@
 ---
 title: Eenvoudige regels voor het samenvoegen van profielen maken en gebruiken
 description: Leer over de regels van de profielfusie en hoe te om hen aan segmenten toe te wijzen. Leer meer over het standaardprofiel "Huidig apparaat" en wanneer dit kan/moet worden gebruikt.
-feature: Profielsamenvoeging
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35937.jpg
 kt: 5356
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

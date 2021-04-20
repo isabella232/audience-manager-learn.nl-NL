@@ -1,14 +1,14 @@
 ---
 title: IP Obfuscatie per land in Audience Manager
 description: De Audience Manager verstrekt zelf-serververmogen in UI om klanten toe te laten om IP verwarring globaal of door land aan te zetten. Deze video bespreekt u de opstelling.
-feature: '"Data Governance & Privacy"'
+feature: "Data Governance & Privacy"
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2866
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Intermediair
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

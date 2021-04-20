@@ -1,15 +1,15 @@
 ---
 title: Bewegingssporen aan boord maken
 description: Leer tips voor het maken van ongebogen karakteristieken in de Audience Manager.
-feature: 'Eigenschappen '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40267.jpg
 kt: 6215
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

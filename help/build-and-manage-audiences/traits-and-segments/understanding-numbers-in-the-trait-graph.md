@@ -1,15 +1,15 @@
 ---
 title: Getallen in de grafiek Trait begrijpen
 description: Lees wat tips over het begrijpen van de gerapporteerde getallen voor kenmerken in het scherm met informatie over de eigenschap.
-feature: 'Eigenschappen '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 327171.jpg
 kt: 6494
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

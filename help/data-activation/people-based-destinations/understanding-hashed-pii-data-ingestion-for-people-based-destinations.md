@@ -1,15 +1,15 @@
 ---
 title: Begrijpen van Hashed PII- Gegevenscongestie voor op mensen-Gebaseerde Doelen
 description: Deze video zal op de dingen u moeten nadenken aangezien u bereid bent om PII in Audience Manager voor Op mensen-Gebaseerde Doelen in te voeren.
-feature: '"Op mensen gebaseerde bestemmingen"'
+feature: "People-based Destinations"
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29003.jpg
 kt: 3701
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Begin
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

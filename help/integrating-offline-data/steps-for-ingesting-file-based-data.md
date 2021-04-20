@@ -1,15 +1,15 @@
 ---
 title: Stappen voor het invoegen van op bestanden gebaseerde gegevens
 description: In deze video worden de enkele stappen doorlopen die u in overweging moet nemen wanneer u offlinegegevens in de Audience Manager plaatst, inclusief de vereisten voor de bestandsnaam van het gegevensbestand.
-feature: Offline gegevens aan boord
+feature: Onboarding Offline Data
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331008.jpg
 kt: 7027
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

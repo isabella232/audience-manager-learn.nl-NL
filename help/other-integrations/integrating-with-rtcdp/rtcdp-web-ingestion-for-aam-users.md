@@ -1,10 +1,10 @@
 ---
 title: Begrijpen van de Ingestie van de Gegevens van het Web in Real-time CDP voor de Gebruikers van de Audience Manager
 description: Deze video toont de gebruikers van de Audience Manager de concepten betreffende het brengen van de gegevens van de Website in het Platform van de Gegevens van de Klant in real time (CDP in real time), en omvat een aanraking op hoog niveau waar de Verbinding van Gegevens van de Audience Manager past, evenals hoe de gegevens zich van de Website direct door Web SDK in Echt - tijd CDP kunnen bewegen.
-feature: Integratie van Platform
-topic: Integraties
-role: Business Practice, Architect, Administrator, Leader
-level: Intermediair
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 331752.jpg
 kt: 7153

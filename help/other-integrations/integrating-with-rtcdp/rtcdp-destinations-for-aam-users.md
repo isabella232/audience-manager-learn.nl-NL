@@ -1,10 +1,10 @@
 ---
 title: Begrijpen van Doelen in Real-time CDP voor de Gebruikers van de Audience Manager
 description: Aangezien u zich van Audience Manager aan het Platform van de Gegevens van de Klant in real time (CDP in real time) beweegt, is het noodzakelijk om over bestemmingen te weten zodat u weet hoe te om uw publiekssegmenten uit aan bestemmingspartners te activeren. Deze video bespreekt de verschillende bestemmingstypes en waar zij in Echt - tijd CDP worden gevestigd.
-feature: Integratie van Platform
-topic: Integraties
-role: Business Practice, Architect, Administrator, Leader
-level: Intermediair
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332203.jpg
 kt: 7352

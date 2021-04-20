@@ -1,15 +1,15 @@
 ---
 title: Audience Managers
 description: In deze video identificeren wij vier gemeenschappelijke gevallen van het gebruik van de Audience Manager, en beschrijven de beste praktijken verbonden aan hen.
-feature: Overzicht
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5145
 thumbnail: 33975.jpg
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Begin
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

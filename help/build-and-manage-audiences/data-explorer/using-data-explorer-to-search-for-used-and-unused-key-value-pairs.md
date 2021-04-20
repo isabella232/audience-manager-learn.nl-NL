@@ -1,15 +1,15 @@
 ---
 title: Het gebruiken van Data Explorer om naar Gebruikte en Ongebruikte Sleutel/Waardeparen in AAM te zoeken
 description: In het werk van dag tot dag in Audience Manager, zou u kunnen moeten snel te weten komen als een eigenschap van een specifiek zeer belangrijk/waardepaar is gecreeerd. In deze video ziet u hoe u er achter kunt komen met Data Explorer.
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25148.jpg
 kt: 1760
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Begin
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

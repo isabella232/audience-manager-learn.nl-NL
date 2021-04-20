@@ -1,7 +1,7 @@
 ---
 title: Een overzicht van twee percepties - merken versus consumenten
 description: Tegenwoordig zijn marketers in de wirwar van informatie die gewijd is aan identiteitspraktijken. En slechts 37% van de marketingprofessionals zei dat ze erg voorbereid zijn op een kokloze toekomst, volgens recent onderzoek van Adobe en Advanis. In dit webinar ontpakt Adobe het begrip en de gereedheid van adverteerders en uitgevers voor een kokloze toekomst, de impact op hun gebruiksgevallen en hun perceptie van het bredere ecosysteem.
-feature: Overzicht
+feature: Overview
 role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -1,15 +1,15 @@
 ---
 title: Creeer en vorm Op mensen-gebaseerde Doelen
 description: Deze video geeft u eerst wat informatie over voorwaarden aan het creëren van uw op mensen-Gebaseerde Bestemming, en toont u dan ook hoe te om een Geïntegreerde Rekening (verbinding aan de partner, b.v. Facebook) te vormen. Het begeleidt u dan door de in-product opstelling van de bestemming zelf.
-feature: '"Op mensen gebaseerde bestemmingen"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28955.jpg
 kt: 3343
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Begin
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

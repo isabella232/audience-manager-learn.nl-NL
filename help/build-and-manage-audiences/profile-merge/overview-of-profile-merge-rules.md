@@ -1,15 +1,15 @@
 ---
 title: Overzicht van regels voor het samenvoegen van profielen
 description: Begrijp welke regels van de Fusie van het Profiel zijn, hoe zij, en hun waarde aan de Marketer werken.
-feature: Profielsamenvoeging
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28974.jpg
 kt: 3708
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Intermediair
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

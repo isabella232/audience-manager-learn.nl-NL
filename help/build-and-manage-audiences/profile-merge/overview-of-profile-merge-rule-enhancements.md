@@ -1,15 +1,15 @@
 ---
 title: Overzicht van verbeteringen in de samenvoegregel voor profielen
 description: In deze video worden de verbeteringen in de regels voor het samenvoegen van profielen uitgelegd, die in oktober 2019 zijn gepubliceerd.
-feature: Profielsamenvoeging
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28976.jpg
 kt: 3710
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Begin
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Video's en Tutorials op basis van persoonlijke doelen
 description: Deze sectie bevat video's en zelfstudies voor onderwerpen betreffende Op mensen gebaseerde Doelen.
-feature: '"Op mensen gebaseerde bestemmingen"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5207
-role: Beheerder
-level: Begin
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

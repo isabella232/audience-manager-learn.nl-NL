@@ -2,13 +2,13 @@
 title: Migreren van Tracking Server naar Report Suite-Level Server-Side Forwarding
 description: Dit artikel en video zullen u tonen hoe te om server-zijhet door:sturen van de Gegevens van Analytics aan Audience Manager op een niveau van de rapportreeks in plaats van op een volgend serverniveau toe te laten.
 product: audience manager
-feature: Adobe Analytics-integratie
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 translation-type: tm+mt

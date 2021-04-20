@@ -1,15 +1,15 @@
 ---
 title: Een Trait Taxonomie maken
 description: Leer tips voor het maken van de mapstructuren die uw kenmerken in Audience Manager bevatten.
-feature: 'Eigenschappen '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40266.jpg
 kt: 6216
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,10 +1,10 @@
 ---
 title: Het begrip Toegangsbeheer in Echt - tijd CDP voor de Gebruikers van de Audience Manager
 description: Wanneer het bewegen van Audience Manager aan Platform van de Gegevens van de Klant in real time, zult u willen weten waar gebruiker en groepstoestemmingen worden geplaatst. Deze video laat zien hoe toegangsbeheer nu in de Adobe Admin Console wordt gebruikt.
-feature: Integratie van Platform
-topic: Integraties
-role: Business Practice, Architect, Administrator, Leader
-level: Intermediair
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332091.jpg
 kt: 7304

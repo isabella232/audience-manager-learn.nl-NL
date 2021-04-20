@@ -1,15 +1,15 @@
 ---
 title: Segmenten maken van meerdere gegevensbronnen
 description: Wanneer u segmenten in de Audience Manager maakt, kunt u eigenschappen uit verschillende gegevensbronnen toevoegen. In deze video ziet u hoe u dat kunt doen en worden andere instellingen besproken die in overweging moeten worden genomen.
-feature: 'Segmenten '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37713.jpg
 kt: 5867
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

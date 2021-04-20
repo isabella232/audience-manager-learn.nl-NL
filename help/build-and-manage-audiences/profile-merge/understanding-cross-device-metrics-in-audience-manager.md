@@ -1,15 +1,15 @@
 ---
 title: Werken met apparaatmetingen in Audience Manager
 description: In deze video bespreken we het verschil tussen apparaatprofielen en apparaatprofielen en tonen we waar de getallen in de gebruikersinterface overeenkomen met deze verschillende profieltypen.
-feature: Profielsamenvoeging
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 33445.jpg
 kt: 4876
-role: Beheerder
-level: Intermediair
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

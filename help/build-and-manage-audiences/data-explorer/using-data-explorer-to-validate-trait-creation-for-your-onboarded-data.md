@@ -1,15 +1,15 @@
 ---
 title: 'Data Explorer gebruiken om het maken van sporen voor uw niet-geregistreerde gegevens te valideren '
 description: Een van de krachtigste functies van Audience Manager is de mogelijkheid om offline gegevens aan boord te nemen en deze aan uw onlinegegevens te koppelen. In deze video leert u hoe u met Data Explorer kunt controleren of u alle benodigde kenmerken hebt gemaakt om deze geregistreerde gegevens te kunnen gebruiken.
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25149.jpg
 kt: 2141
-role: '"Business Practice, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Begin
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

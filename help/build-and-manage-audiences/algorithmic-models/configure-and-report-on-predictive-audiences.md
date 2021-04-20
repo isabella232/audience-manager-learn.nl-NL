@@ -8,8 +8,8 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 33630.jpg
 kt: 4390
-role: Beheerder
-level: Intermediair
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

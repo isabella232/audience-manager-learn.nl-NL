@@ -1,15 +1,15 @@
 ---
 title: Segmenten Audience Manager toewijzen aan bestemmingen
 description: Leer over de verschillende soorten bestemmingen in Audience Manager en de details van het in kaart brengen van segmenten aan elk bestemmingstype.
-feature: 'Segmenten '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39158.jpg
 kt: 6056
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

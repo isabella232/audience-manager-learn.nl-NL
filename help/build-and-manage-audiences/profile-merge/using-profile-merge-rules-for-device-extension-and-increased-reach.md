@@ -1,15 +1,15 @@
 ---
 title: De regels voor het samenvoegen van profielen gebruiken voor Apparaatextensies en Meer bereiken
 description: Met de regels voor het samenvoegen van profielen kunt u het bereik uitbreiden tot alle apparaten van een gebruiker, zodat u deze op de markt kunt brengen voor mensen in plaats van voor apparaten.
-feature: Profielsamenvoeging
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35939.jpg
 kt: 5552
-role: Zakelijke praktiserer
-level: Intermediair
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

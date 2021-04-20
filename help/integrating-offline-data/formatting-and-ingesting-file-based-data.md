@@ -1,15 +1,15 @@
 ---
 title: Bestandsgebaseerde gegevens opmaken en invoegen
 description: Wanneer het brengen van uw eerste Partij in Audience Manager om uw klant beter te begrijpen en te richten, zijn er bepaalde formatteringsvereisten voor de gegevens. Deze video bespreekt enkele van de belangrijkste opties en laat zien waar u meer informatie kunt krijgen.
-feature: Offline gegevens aan boord
+feature: Onboarding Offline Data
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331007.jpg
 kt: 7026
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
