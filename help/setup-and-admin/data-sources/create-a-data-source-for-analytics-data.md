@@ -2,13 +2,13 @@
 title: Een gegevensbron maken voor analysegegevens
 description: In deze video doorlopen we de stappen, inclusief tips en trucs, voor het maken van een gegevensbron in AAM die u kunt gebruiken voor gegevens die live worden verzonden vanuit een analyseoplossing, zoals Adobe Analytics. Dit moet gebeuren voordat u eigenschappen voor de analysegegevens maakt.
 landing-page-description: Leer een gegevensbron maken voor gegevens die rechtstreeks afkomstig zijn van een analyseoplossing, zoals Adobe Analytics. Dit doet u voordat u eigenschappen voor de analysegegevens maakt.
-feature: Data Sources
+feature: Databronnen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner
 exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
 translation-type: tm+mt
