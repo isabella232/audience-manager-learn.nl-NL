@@ -1,23 +1,22 @@
 ---
 title: Controle en rapportage over het activiteitengebruik
 description: In deze video wordt uitgelegd hoe u het activiteitenverbruiksrapport kunt gebruiken, inclusief opties voor weergave en downloaden.
-feature: Usage and Billing
+feature: Gebruik en facturering
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
-topic: Administration
-role: "Developer, Data Engineer, Administrator"
+topic: Beheer
+role: Developer, Data Engineer, Admin
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '67'
 ht-degree: 1%
 
 ---
-
 
 # Controle en rapportage over het activiteitengebruik
 
