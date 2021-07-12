@@ -1,25 +1,24 @@
 ---
 title: Het gebruiken van het Dashboard van Signalen om Hoogste Beschikbare Signalen snel te bekijken
 description: Door ingebouwde en douanetabellen op het dashboard van Signals in Data Explorer te gebruiken, kunt u snel de recentste gegevens zien die in Audience Manager komen en zelfs door klikken om eigenschappen tot stand te brengen zoals nodig. Welkom bij uw nieuwe, efficiëntere workflow!
-feature: Data Explorer
+feature: 'Data Explorer '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: f7d50b2f-52a3-465d-89ba-337a10c26a1c
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
 
-
-# Het gebruiken van [!UICONTROL Signals] dashboard om Bovenste Beschikbare [!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals} snel te bekijken
+# Het gebruiken van [!UICONTROL Signals] dashboard om Hoogste Beschikbare [!UICONTROL Signals] snel te bekijken {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
 
 Door ingebouwde en douanetabellen op [!UICONTROL Signals] dashboard in [!DNL Data Explorer] te gebruiken, kunt u snel de recentste gegevens zien die in Audience Manager komen en zelfs door klikken om eigenschappen tot stand te brengen zoals nodig. Welkom bij uw nieuwe, efficiëntere workflow!
 
