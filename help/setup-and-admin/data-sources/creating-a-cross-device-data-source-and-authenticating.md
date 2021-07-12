@@ -1,23 +1,22 @@
 ---
 title: Een apparaatgegevensbron maken en verifiëren
 description: Wanneer u uw gegevens van 1st partijCRM in Audience Manager wilt brengen om uw klanten beter te richten, moet u eerst een Gegevensbron van de Gegevens van het Apparaat creëren om CRM IDs en gegevens op te slaan. Dit toont u hoe te om dat te doen en aan opstelling de setCustomerIDs () methode in Lancering voor logins.
-feature: Data Sources
+feature: Databronnen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331006.jpg
 kt: 7025
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 467d0793-c08c-4165-9d4a-db9617db6e92
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '126'
 ht-degree: 1%
 
 ---
-
 
 # Een apparaatgegevensbron maken en verifiëren
 
