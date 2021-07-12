@@ -1,25 +1,24 @@
 ---
 title: Best practices gebruiken op SPA pagina's wanneer gegevens naar AAM worden verzonden
 description: In dit document worden verschillende aanbevolen procedures beschreven die u moet volgen en waarvan u op de hoogte bent wanneer u gegevens verzendt van Single Page Applications (SPA) naar Adobe Audience Manager (AAM). Dit document zal zich op het gebruiken van Launch by Adobe concentreren, die de geadviseerde implementatiemethode is.
-feature: Implementation Basics
+feature: Grondbeginselen van implementatie
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1390
 topic: SPA
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Experienced
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
 
-
-# Best practices gebruiken op SPA pagina&#39;s bij het verzenden van gegevens naar AAM {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
+# Best practices gebruiken op SPA pagina&#39;s wanneer gegevens naar AAM worden verzonden {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
 
 In dit document worden verschillende aanbevolen procedures beschreven die u moet volgen en waarvan u zich bewust bent wanneer u gegevens verzendt van [!UICONTROL Single Page Applications] (SPA) naar Adobe Audience Manager (AAM). Dit document richt zich op het gebruiken van [!UICONTROL Experience Platform Launch], die de geadviseerde implementatiemethode is.
 
@@ -48,7 +47,7 @@ In dit voorbeeld van Audience Manager, gaan wij [!UICONTROL Direct Call rule] in
 
 Wij hebben een kleine demopagina gecreeerd die aantoont veranderend een waarde in [!DNL data layer] en verzendend het in AAM, zoals u op een SPA pagina kunt doen. Deze functionaliteit kan worden gemodelleerd voor uitgebreidere wijzigingen die nodig zijn. U kunt deze demopagina [HERE](https://aam.enablementadobe.com/SPA-Launch.html) vinden.
 
-## De [!DNL data layer] {#setting-the-data-layer} instellen
+## De [!DNL data layer] instellen {#setting-the-data-layer}
 
 Zoals vermeld, wanneer nieuwe inhoud op de pagina wordt geladen of wanneer iemand een actie op de plaats uitvoert, moet [!DNL data layer] dynamisch in de koptekst van de pagina worden geplaatst VOORDAT [!DNL Launch] wordt geroepen en [!UICONTROL rules] in werking stelt, zodat [!DNL Platform Launch] de nieuwe waarden van [!DNL data layer] kan opnemen en hen in Audience Manager duwen.
 
