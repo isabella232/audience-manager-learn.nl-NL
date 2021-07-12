@@ -8,22 +8,21 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '838'
+source-wordcount: '827'
 ht-degree: 0%
 
 ---
 
-
-# Het gebruiken van kijkt-weg [!UICONTROL Models] om Verkocht uit Inventaris van Uw [!UICONTROL First Party] Gegevens {#using-look-alike-models-to-extend-sold-out-inventory-from-your-st-party-data} uit te breiden
+# Het gebruiken kijkt-weg [!UICONTROL Models] om Verkocht uit Inventaris van Uw [!UICONTROL First Party] Gegevens uit te breiden {#using-look-alike-models-to-extend-sold-out-inventory-from-your-st-party-data}
 
 In deze zelfstudie doorlopen we de stappen die u moet uitvoeren voor het instellen en gebruiken van look-Alike [!UICONTROL Models], zodat u nieuwe look-alike soorten publiek kunt maken en deze kunt verkopen als een uitbreiding op uw conversie [!UICONTROL segment].
 
-## Hoofdletterdetails gebruiken {#use-case-details}
+## Details kwestie gebruiken {#use-case-details}
 
 U bent een uitgever van inhoud. Als u al voorraad voor converters op uw site hebt verkocht, kunt u denken dat uw kans daar eindigt. Voer AAM look-Alike [!UICONTROL Models] in. Met deze functie kunt u de verkochte voorraad verder uitbreiden en ook het publiek verkopen van mensen die misschien nog niet zijn omgezet, maar die er net zo uitzien als mensen die zijn omgezet. Dit publiek [!UICONTROL segment] verkoopt doorgaans voor minder dan de werkelijke converters, maar u kunt desondanks toevoegen aan uw bedrijfsresultaat door een extra publieksoptie te bieden aan adverteerders die advertenties op uw site willen plaatsen. Het extra voordeel van dit gebruiksscenario is dat het uitvoeren van dit model op de gegevens van de eerste partij niets kost.
 
@@ -47,7 +46,7 @@ Ook, wanneer het gebruiken van gebeurtenissen om [!UICONTROL traits] te creëren
 
 **NOTA:** In de video hierboven, veronderstelt het voorbeeld dat ik toon dat u Adobe Analytics hebt. Dat is natuurlijk niet het geval. Als u Google Analytics (GA) hebt, hebben wij een module die u kunt gebruiken om gegevens naar AAM (zie [documentatie](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)) te verzenden, en als uw omzettingsactiviteit op uw plaats naar AAM door GA wordt verzonden, dan kunt u uw omzettingseigenschap van dat tot stand brengen. Als u een andere analytische oplossing hebt (of geen analytische oplossing), kunt u nog steeds gegevens naar AAM sturen via onze DIL-code en de functie `submit`, enz. (zie de [documentatie](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)). Maak vervolgens opnieuw de conversietekenmerken op basis van de gegevens die worden verzonden wanneer de conversieactiviteit op de site wordt uitgevoerd.
 
-## Een look-Alike [!UICONTROL Model] maken op basis van [!UICONTROL First Party] Data {#creating-a-look-alike-model-from-first-party-data}
+## Een look-Alike [!UICONTROL Model] maken op basis van [!UICONTROL First Party]-gegevens {#creating-a-look-alike-model-from-first-party-data}
 
 In deze stap gaan we een [!UICONTROL First Party] look-Alike [!UICONTROL Model] maken. Dit betekent dat we niet alleen een [!UICONTROL first party] conversie [!UICONTROL trait]/[!UICONTROL segment] voor onze basis [!UICONTROL trait]/[!UICONTROL segment] (dit zou normaal voor de meeste [!UICONTROL models] hoe dan ook zijn) zullen gebruiken, maar ook slechts de pool van [!UICONTROL first party] gegevens voor meer mensen zullen onderzoeken die als de converters kijken. We zullen niet naar [!UICONTROL second party] of [!UICONTROL third party] gegevens kijken.
 
@@ -55,13 +54,13 @@ In dit geval, is dit belangrijk, omdat wij proberen om een [!UICONTROL segment] 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality-12)
 
-## Een algoritme [!UICONTROL Trait] {#creating-an-algorithmic-trait} maken
+## Algorithmic [!UICONTROL Trait] maken {#creating-an-algorithmic-trait}
 
 Daarna zullen wij een Algorithmic [!UICONTROL Trait] moeten creëren, zodat de resultaten van [!UICONTROL model] kunnen worden gebruikt. Als u geen [!UICONTROL trait] maakt, is [!UICONTROL model] nutteloos. Dus nadat de [!UICONTROL model] looppas, zeker ben om in [!UICONTROL trait] dialoog te gaan en een Algorithmic [!UICONTROL Trait] te creëren. De volgende video doorloopt het en toont een paar uiteinden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23523/?quality=12)
 
-## Het Algorithmic [!UICONTROL Segment] aanbieden aan adverteerders {#offering-the-algorithmic-segment-to-advertisers}
+## Het aanbieden van het Algorithmic [!UICONTROL Segment] aan Advertisers {#offering-the-algorithmic-segment-to-advertisers}
 
 Als u eenmaal een algoritme [!UICONTROL Trait] hebt gemaakt, kunt u een nieuwe [!UICONTROL segment] maken om deze in te zetten, zodat u de gegevens kunt activeren (u kunt geen [!UICONTROL trait] activeren, maar een nieuwe één-[!UICONTROL trait] [!UICONTROL segment] maken met het algoritme [!UICONTROL Trait] erin, zodat u [!UICONTROL segment] kunt activeren (gebruiken).
 
