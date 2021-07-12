@@ -8,18 +8,17 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25521.jpg
 kt: 1782
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: ad725f78-1730-4f42-b185-f868120c7b50
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
-
-# Bulk die Gegevensgebruik in [!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace} uploadt
+# Bulk die Gegevensgebruik in [!UICONTROL Audience Marketplace] uploadt {#bulk-uploading-data-usage-into-the-audience-marketplace}
 
 Als u het gebruik van gegevens van derden in [!UICONTROL Audience Marketplace] rapporteert, hebt u mogelijk genoeg items om te zorgen dat u dit niet handmatig wilt doen. In deze video leert u hoe u het hulpprogramma voor bulkupload kunt gebruiken om gegevensgebruik te melden, zodat u uw gegevensgebruik eenvoudig kunt melden, zelfs als u veel items moet bijwerken.
 
