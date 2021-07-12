@@ -1,21 +1,20 @@
 ---
 title: Begrijpen van de Ingestie van Gegevens van 1st-Partij in Echt - tijd CDP voor de Gebruikers van de Audience Manager
 description: Deze video bespreekt 1st-partij off-line gegevensopname in het Platform van de Gegevens van de Klant in real time (CDP in real time) voor hen die Adobe Audience Manager hebben gebruikt. Wij bekijken enkele belangrijkste verschillen tussen de twee producten betreffende gegevensopname en tonen hoe de Verbinding van Gegevens van de Audience Manager als stophiaat kan worden gebruikt tot de processen over naar CDP in real time zijn verplaatst.
-feature: Platform Integration
-topic: Integrations
-role: Business Practitioner, Architect, Administrator, Leader
+feature: Integratie van Platform
+topic: Integraties
+role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
 thumbnail: 331276.jpg
 kt: 7128
-translation-type: tm+mt
-source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
+exl-id: bdd8d9b2-92f9-4aa0-a0b7-5e3fb63196eb
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
-
 
 # Begrijpen van de Ingestie van Gegevens van 1st-Partij in Echt - tijd CDP voor de Gebruikers van de Audience Manager
 
