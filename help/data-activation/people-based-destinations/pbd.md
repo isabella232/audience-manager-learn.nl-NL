@@ -1,22 +1,21 @@
 ---
 title: Video's en Tutorials op basis van persoonlijke doelen
 description: Deze sectie bevat video's en zelfstudies voor onderwerpen betreffende Op mensen gebaseerde Doelen.
-feature: "People-based Destinations"
+feature: '"Op mensen gebaseerde bestemmingen"'
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5207
-role: Administrator
+role: Admin
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL People-Based Destinations] Video&#39;s en Tutorials
 
@@ -32,6 +31,6 @@ Deze sectie bevat video&#39;s en zelfstudies voor onderwerpen met betrekking tot
 * [Het vormen van de Regels van de Fusie van het Profiel voor Op mensen-Gebaseerde Doelen](configuring-profile-merge-rules-for-people-based-destinations.md)
 * [Segmenten maken voor op mensen gebaseerde doelen](creating-segments-for-people-based-destinations.md)
 * [Creeer en vorm Op mensen-gebaseerde Doelen](create-and-configure-people-based-destinations.md)
-* [Het begrip van en het Vormen van LinkedIn op mensen-Gebaseerde Bestemming](understanding-and-configuring-the-linkedin-pbd.md)
+* [Het begrip van en het Vormen van de op mensen-Gebaseerde Bestemming van LinkedIn](understanding-and-configuring-the-linkedin-pbd.md)
 
 Deze video&#39;s kunnen samen met [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html) worden gebruikt.
