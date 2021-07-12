@@ -8,22 +8,21 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25188.jpg
 kt: 1849
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 6626ae11-8709-4302-9e03-0d55878d2409
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '862'
 ht-degree: 0%
 
 ---
 
-
-# ROAS vergroten door algoritme (look-Alike) [!UICONTROL Models] in Audience Manager {#increase-roas-by-using-algorithmic-look-alike-models-in-audience-manager} te gebruiken
+# ROAS verhogen door Algorithmic (Look-Alike) [!UICONTROL Models] in Audience Manager te gebruiken {#increase-roas-by-using-algorithmic-look-alike-models-in-audience-manager}
 
 De echte kracht van look-alike [!UICONTROL Modeling] van de Audience Manager komt wanneer u probeert om uw basislijnpubliek tegen een kwaliteit uit te breiden, gloednieuwe reeks gebruikers van [!UICONTROL second party] en [!UICONTROL third party] [!UICONTROL data sources]. In deze zelfstudie leert u de stappen die nodig zijn om een [!UICONTROL model] van deze gegevens te maken.
 
-## [!UICONTROL Second Party] of [!UICONTROL Third Party] Gegevensstromen van de Audience Marketplace {#enable-2nd-or-3rd-party-data-streams-from-the-audience-marketplace} inschakelen
+## [!UICONTROL Second Party] of [!UICONTROL Third Party] Gegevensstromen van de Audience Marketplace inschakelen {#enable-2nd-or-3rd-party-data-streams-from-the-audience-marketplace}
 
 Als u [!UICONTROL second party] en [!UICONTROL third party] gegevens in een blik-gelijkaardig [!UICONTROL model] wilt gebruiken, moeten wij eerst deze gegevens in uw interface van de Audience Manager toelaten. Adobe heeft een groot aantal [!UICONTROL second party] en [!UICONTROL third party] gegevensleveranciers waaruit u kunt kiezen. Deze zijn beschikbaar voor u in een zelf-serverinterface in AAM, via de Audience Marketplace. Navigeer naar de Audience Marketplace en blader door de mogelijkheden. In de volgende video ziet u hoe u dit kunt doen, inclusief hoe u gratis streams kunt inschakelen voordat u deze koopt, zodat u zich op de gegevens kunt aanmelden die het nuttigst zijn voor uw organisatie voordat u de prijs van de gegevensaanbieder doorvoert.
 
@@ -43,17 +42,17 @@ Wanneer u Adobe Analytics-gebeurtenissen gebruikt om [!UICONTROL traits] te make
 
 **NOTA:** In de video hierboven, veronderstelt het voorbeeld dat ik toon dat u Adobe Analytics hebt. Dat is natuurlijk niet het geval. Als u Google Analytics (GA) hebt, hebben wij een module die u kunt gebruiken om gegevens naar AAM (zie [documentatie](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)) te verzenden, en als uw omzettingsactiviteit op uw plaats naar AAM door GA wordt verzonden, dan kunt u uw omzetting [!UICONTROL trait] van dat tot stand brengen. Als u een andere analytische oplossing hebt (of geen analytische oplossing), kunt u nog steeds gegevens naar AAM sturen via onze DIL-code en de functie `submit`, enz. (zie de [documentatie](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)). Maak vervolgens de conversie [!UICONTROL trait] op basis van de gegevens die worden verzonden wanneer de conversieactiviteit op de site wordt uitgevoerd.
 
-## Maak een look-alike [!UICONTROL Model] van [!UICONTROL Second Party] of [!UICONTROL Third Party] Data {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
+## Een look-alike [!UICONTROL Model] maken van [!UICONTROL Second Party]- of [!UICONTROL Third Party]-gegevens {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 
 Na het voltooien van de bovenstaande stappen, zijn we nu klaar om een algoritme (look-alike) [!UICONTROL Model] te maken. Tijdens het instellen van de [!UICONTROL model] gebruiken we de conversie [!UICONTROL trait] als onze basis [!UICONTROL trait] (belangrijke bezoekers die we willen dupliceren) en gebruiken we de ingeschakelde [!UICONTROL third party]-gegevensstroom als onze groep mensen die we willen ophalen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25190/?quality-12)
 
-## Een belangrijke beste praktijk {#an-important-best-practice}
+## Belangrijke beste praktijken {#an-important-best-practice}
 
 Bij het maken van de algoritmische [!UICONTROL model] in de Audience Manager, willen we natuurlijk dat de [!UICONTROL model] zo effectief mogelijk is. Aangezien [!UICONTROL model] alle [!UICONTROL traits] overweegt dat de leden van uw basis [!UICONTROL trait]/[!UICONTROL segment] deel van uitmaken, helpt het [!UICONTROL model] niet als ALLE mensen in [!UICONTROL trait]/[!UICONTROL segment] zijn. Als u een supergeneriek [!UICONTROL traits] hebt (zoals iedereen die naar uw site is gegaan, of iedereen die een advertentie van u heeft ontvangen, enz.), moet u ervoor zorgen dat [!UICONTROL data source] waartoe ze behoren NIET is opgenomen in [!UICONTROL data sources] in [!UICONTROL model]. In het gebruiksgeval van dit artikel is het onwaarschijnlijk dat u dat zou doen, omdat we ons richten op het bekijken van [!UICONTROL third party]-gegevens voor onze nieuwe look-alies, maar het is de moeite waard om het toch te vermelden, en het is van toepassing op ALLE van uw algoritme [!UICONTROL models].
 
-## Een algoritme [!UICONTROL Trait] {#creating-an-algorithmic-trait} maken
+## Algorithmic [!UICONTROL Trait] maken {#creating-an-algorithmic-trait}
 
 Daarna, zullen wij een Algorithmic [!UICONTROL Trait] moeten creëren, zodat de resultaten van [!UICONTROL model] kunnen worden gebruikt. Als u geen [!UICONTROL trait] maakt, is het model nutteloos. Dus, nadat [!UICONTROL model] looppas, ben zeker om in [!UICONTROL trait] dialoog te gaan en een Algorithmic [!UICONTROL Trait] te creëren. De volgende video doorloopt het en toont een paar uiteinden.
 
