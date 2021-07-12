@@ -1,23 +1,22 @@
 ---
 title: Verbeter uw AAM Segmenten met Trait Recommendations
 description: Met Trait Recommendations, wanneer u een segment in de Bouwer van het Segment bouwt of uitgeeft, krijgt u aanbevelingen op extra eigenschappen u kunt omvatten, die aan de eigenschappen in de segmentregel gelijkaardig zijn.
-feature: Segments
+feature: 'Segmenten '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 26228.jpg
 kt: 2431
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 2d1b66fc-0091-44d1-970a-f30d6d5cca4c
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
-
 
 # De AAM [!UICONTROL Segments] uitbreiden met [!DNL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
