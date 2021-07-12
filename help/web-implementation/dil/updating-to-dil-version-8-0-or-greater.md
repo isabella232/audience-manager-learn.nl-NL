@@ -1,24 +1,23 @@
 ---
 title: Bijwerken naar Adobe Audience Manager DIL versie 8.0 (of hoger)
 description: In dit artikel worden de stappen en aanbevelingen beschreven voor het bijwerken van Adobe Audience Manager (AAM) Data Integration Library (DIL)-code naar versie 8.0 of hoger. Dit heeft betrekking op "client-side" DIL-implementatie, niet op het doorsturen van Adobe Analytics-gegevens aan de serverzijde, en geldt voor DTM, Launch by Adobe en implementaties zonder oplossing voor Adobe tagbeheer.
-feature: DIL Implementation
+feature: DIL-implementatie
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1841
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 8c1e6ed5-0f21-427b-a681-0ecb020a0e60
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '1155'
+source-wordcount: '1151'
 ht-degree: 0%
 
 ---
 
-
-# Bijwerken naar DIL van Adobe Audience Manager versie 8.0 (of hoger) {#updating-to-adobe-audience-manager-s-dil-version-or-greater}
+# Bijwerken naar Adobe Audience Manager DIL versie 8.0 (of hoger) {#updating-to-adobe-audience-manager-s-dil-version-or-greater}
 
 In dit artikel worden de stappen en aanbevelingen beschreven voor het bijwerken van de Adobe Audience Manager-code (AAM) [!DNL Data Integration Library] (DIL) naar versie 8.0 of hoger. Dit heeft betrekking op &quot;client-side&quot; DIL-implementatie, niet op het doorsturen van Adobe Analytics-gegevens aan de serverzijde, en geldt voor DTM, Launch by Adobe en implementaties zonder oplossing voor Adobe tagbeheer.
 
@@ -28,7 +27,7 @@ De code [!DNL Data Integration Library] (DIL) van de Audience Manager staat u to
 
 * Zoals vermeld in de beschrijving van deze pagina, zal dit slechts &quot;cliënt-kant&quot;DIL implementaties omvatten, die door AAM klanten worden gebruikt die geen Adobe Analytics hebben. Als u Adobe Analytics hebt, zou u de server-kant het door:sturen methode moeten gebruiken om AAM uit te voeren. Deze methode wordt beschreven in [documentatie](https://marketing.adobe.com/resources/help/en_US/reference/ssf.html).
 
-## Elementen en methoden {#duplicate-and-deprecated-elements-and-methods} dupliceren en vervangen
+## Elementen en methoden dupliceren en afgekeurd {#duplicate-and-deprecated-elements-and-methods}
 
 In eerdere versies van DIL en ECID waren er dubbele methoden (methoden die dezelfde functie in zowel DIL als ECID hebben), die verwarring veroorzaakten over welke methode moet worden gebruikt. Typisch, moest u beide gebruiken en hen aanpassen omhoog, en dat bericht werd niet goed meegedeeld aan onze klanten. Vanaf DIL 8.0 zijn deze dubbele methoden en elementen afgekeurd in DIL en het wordt aanbevolen de ECID-versie te gebruiken.
 
@@ -78,7 +77,7 @@ Basisstappen voor het bijwerken naar DIL 8.0
 1. Voeg de geavanceerde opties toe aan het gereedschap ECID die u uit de aangepaste code van het gereedschap AAM hebt verwijderd.
 1. Wijzigingen publiceren
 
-## Bijwerken naar DIL 8.0 zonder oplossing voor het beheer van Adobe-tags {#additional-resources}
+## Bijwerken naar DIL 8.0 zonder oplossing voor beheer van Adobe-tags {#additional-resources}
 
 Als u de code rechtstreeks op de pagina bijwerkt, kunt u alleen oudere items vervangen door nieuwere items, behalve wanneer u methoden/elementen moet verplaatsen van DIL naar ECID, zoals hierboven beschreven. In dat geval vervangt u gewoon de oude methode/het oude element op de locatie DIL door de ECID-methode/het ECID-element op de locatie ECID.
 
