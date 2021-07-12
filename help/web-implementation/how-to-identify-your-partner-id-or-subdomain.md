@@ -1,24 +1,23 @@
 ---
 title: Hoe te om uw identiteitskaart van de Partner van de Audience Manager of Subdomain te identificeren
 description: Wanneer het uitvoeren van sommige eigenschappen van Experience Cloud, moet u weten wat uw Audience Manager "identiteitskaart van de Partner"is (soms ook als uw "cliënt ID"of "Subdomain"wordt bedoeld). In deze video tonen we u twee plaatsen waar u deze id kunt ophalen in de gebruikersinterface van de Audience Manager.
-feature: Implementation Basics
+feature: Grondbeginselen van implementatie
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2359
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: d3f4a12d-acc5-47b7-a38a-a6a14152bf3a
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
-
-# Hoe te om uw Audience Manager Subdomain {#how-to-identify-your-audience-manager-partner-id-or-subdomain} te identificeren
+# Hoe te om uw Audience Manager Subdomain te identificeren {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
 Wanneer het uitvoeren van sommige eigenschappen van Experience Cloud, moet u weten wat uw Audience Manager `Subdomain` is (ook soms bedoeld als uw `client ID` of `Partner ID`). In deze video zullen we u twee plaatsen tonen waar u deze informatie kunt ophalen in de gebruikersinterface van de Audience Manager.
 
