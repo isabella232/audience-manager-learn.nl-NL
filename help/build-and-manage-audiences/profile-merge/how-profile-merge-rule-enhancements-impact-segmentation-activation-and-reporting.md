@@ -1,23 +1,22 @@
 ---
 title: Hoe de Segmentatie, de Activering, en het Melden van de Regel van de Samenvoeging van het Profiel Verbeteringen
 description: Begrijpen hoe de Verbeteringen van de Regel van de Samenvoeging van het Profiel de Totale Bedienings en Bevolkingen van het Segment in UI van de Audience Manager zullen beïnvloeden
-feature: Profile Merge
+feature: Profielsamenvoeging
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28972.jpg
 kt: 3693
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 444a0552-55d9-4362-be14-fba13e8dba76
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
-
 
 # Hoe [!UICONTROL Profile Merge Rule] de Verbeteringen Effect [!UICONTROL Segmentation], Activering, en Rapportering beïnvloeden
 
