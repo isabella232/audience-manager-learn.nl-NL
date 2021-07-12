@@ -1,25 +1,24 @@
 ---
 title: Conversietaken maken in Audience Manager
 description: Sommige kenmerken van uw site zijn gebaseerd op conversies. In deze video leert u hoe u ze als zodanig kunt aanwijzen en leert u een zeer belangrijke tip/gotcha.
-feature: Traits
+feature: 'Eigenschappen '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23431.jpg
 kt: 1804
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: b5156c96-555e-4608-8920-9b7221b1d383,52b489bf-6c11-4c5c-8f29-4513a167f7b8
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
-
-# Conversie [!UICONTROL Traits] maken in Audience Manager {#creating-conversion-traits-in-audience-manager}
+# Conversie [!UICONTROL Traits] in Audience Manager maken {#creating-conversion-traits-in-audience-manager}
 
 Sommige van uw [!UICONTROL traits] zijn gebaseerd op conversies op uw site. In deze video leert u hoe u ze als zodanig kunt aanwijzen en leert u een zeer belangrijke tip/gotcha.
 
