@@ -8,18 +8,17 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
-translation-type: tm+mt
-source-git-commit: 499d95472d5dbe5563ebfe527a74a606ad144544
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 1%
 
 ---
 
-# Een [!UICONTROL Data Source] maken voor [!DNL Analytics] Data {#create-a-data-source-for-analytics-data}
+# Een [!UICONTROL Data Source] maken voor [!DNL Analytics]-gegevens {#create-a-data-source-for-analytics-data}
 
 In deze video doorlopen we de stappen, inclusief tips en trucs, voor het maken van een [!UICONTROL Data Source] in AAM die u kunt gebruiken voor gegevens die live worden ontvangen van een analyseoplossing, zoals Adobe Analytics. Dit moet gebeuren voordat u [!UICONTROL traits] maakt voor de analysegegevens.
 
