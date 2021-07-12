@@ -1,25 +1,24 @@
 ---
 title: Het gebruiken van het Laboratorium van het Publiek om een DSP te kiezen
 description: In deze video lopen wij door het creëren van een test van het Laboratorium van de Publiek, zodat u A/B DSP of andere AAM bestemmingen kunt testen om te zien welke één de beste terugkeer op advertentie zal drijven uitgeven.
-feature: Audience Lab
+feature: 'Audience Lab '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24923.jpg
 kt: 1552
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 03e2617c-eea6-4b64-adc0-1ef996d8d3a5
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
-
-# Het gebruiken van [!UICONTROL Audience Lab] om een DSP {#using-audience-lab-to-choose-a-dsp} te kiezen
+# Een DSP kiezen met [!UICONTROL Audience Lab] {#using-audience-lab-to-choose-a-dsp}
 
 In deze video doorlopen we het maken van een [!UICONTROL Audience Lab]-test, zodat u A/B-DSP of andere AAM [!UICONTROL destinations] kunt testen om te zien welke het beste rendement op advertentie-uitgaven zal opleveren.
 
