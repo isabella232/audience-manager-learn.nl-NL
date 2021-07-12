@@ -8,16 +8,15 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 23504.jpg
 kt: 1805
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: c38ab8f8-ec0f-44ac-b72f-479356c9950e
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '143'
 ht-degree: 1%
 
 ---
-
 
 # Een [!UICONTROL First Party] look-Alike [!UICONTROL Model] maken in AAM {#creating-a-first-party-look-alike-model-in-aam}
 
