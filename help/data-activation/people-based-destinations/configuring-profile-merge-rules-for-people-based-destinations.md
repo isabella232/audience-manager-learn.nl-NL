@@ -1,23 +1,22 @@
 ---
 title: Het vormen van de Regels van de Fusie van het Profiel voor Op mensen-Gebaseerde Doelen
 description: In deze video leert u hoe u een regel voor het samenvoegen van profielen instelt die moet worden gebruikt voor op mensen gebaseerde doelen, inclusief wanneer u een gloednieuwe optie voor meerdere apparaten gebruikt.
-feature: "People-based Destinations"
+feature: '"Op mensen gebaseerde bestemmingen"'
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29076.jpg
 kt: 3342
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 513af3d9-583a-4619-867e-f0ac847ca9b5
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL Profile Merge Rules] configureren voor [!UICONTROL People-Based Destinations]
 
