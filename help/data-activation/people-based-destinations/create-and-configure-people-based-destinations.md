@@ -1,23 +1,22 @@
 ---
 title: Creeer en vorm Op mensen-gebaseerde Doelen
-description: Deze video geeft u eerst wat informatie over voorwaarden aan het creëren van uw op mensen-Gebaseerde Bestemming, en toont u dan ook hoe te om een Geïntegreerde Rekening (verbinding aan de partner, b.v. Facebook) te vormen. Het begeleidt u dan door de in-product opstelling van de bestemming zelf.
-feature: "People-based Destinations"
+description: Deze video geeft u eerst wat informatie over eerste vereisten aan het creëren van uw op mensen-Gebaseerde Bestemming, en toont u dan ook hoe te om een Geïntegreerde Rekening (verbinding aan de partner, b.v. Facebook) te vormen. Het begeleidt u dan door de in-product opstelling van de bestemming zelf.
+feature: '"Op mensen gebaseerde bestemmingen"'
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28955.jpg
 kt: 3343
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 08a1c74a-fd7f-46ab-b4c5-a2a05adfe7c1
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL People-based Destinations] maken en configureren
 
