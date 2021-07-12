@@ -1,22 +1,21 @@
 ---
 title: Video's en Tutorials samenvoegen van profielen
 description: Deze sectie bevat video's en zelfstudies voor functies voor het samenvoegen van profielen, zoals regels voor het samenvoegen van profielen.
-feature: Profile Merge
+feature: Profielsamenvoeging
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL Profile Merge] - Video&#39;s en Tutorials
 
