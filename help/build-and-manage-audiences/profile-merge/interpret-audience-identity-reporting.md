@@ -1,23 +1,22 @@
 ---
 title: Identiteitsrapportage publiek interpreteren
 description: Publiek-identiteitsrapportage biedt klanten de mogelijkheid om de totale populatie van een eigenschap of segment te rapporteren per persoon/huishouden-definitie van identiteit. Bekijk deze video om te zien hoe het in de rapporten van de Audience Manager wordt getoond.
-feature: Profile Merge
+feature: Profielsamenvoeging
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28973.jpg
 kt: 3694
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 90183636-e205-420b-bbcf-899a779f53a7
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
-
 
 # [!DNL Audience Identity Reporting] interpreteren
 
