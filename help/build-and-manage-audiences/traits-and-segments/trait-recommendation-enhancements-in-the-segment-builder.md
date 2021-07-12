@@ -1,23 +1,22 @@
 ---
 title: Verbeteringen voor de aanbeveling van het type Trait in de Segment Builder
 description: In deze video zult u zien hoe te om de bijgewerkte eigenschapaanbevelingen in de segmentbouwer te gebruiken, die Audience Marketplace aanbevelingen zijn. Hierdoor krijgt u meer inzicht in gegevens van derden die het bereik van uw segmenten kunnen uitbreiden.
-feature: Segments
+feature: 'Segmenten '
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29363.jpg
 kt: 3937
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
-
 
 # [!DNL Trait Recommendation] Verbeteringen in de  [!DNL Segment Builder]
 
