@@ -1,23 +1,22 @@
 ---
 title: Klantentips - De regels voor het samenvoegen van profielen optimaal benutten
 description: Varun Kalra, consultant voor meerdere oplossingen op basis van accordeon, geeft tips voor het kiezen en gebruiken van Profile Merge Rules (PMR's).
-feature: Profile Merge
+feature: Profielsamenvoeging
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 8aa800af-64c0-43e0-b05d-dbb4f4b0d05b
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
-
 
 # Klantentips - De regels voor het samenvoegen van profielen optimaal benutten
 
@@ -29,4 +28,4 @@ Varun Kalra is een consultant voor meerdere oplossingen die werkt in een op Sydn
 * Een doelgerichter gebruik
 * Gebruik gevallen voor verschillende PMR-instellingen
 
-[Lees Varun&#39;s Tips in de Experience League Community.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[Lees Varun&#39;s Tips in de Gemeenschap van de Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
