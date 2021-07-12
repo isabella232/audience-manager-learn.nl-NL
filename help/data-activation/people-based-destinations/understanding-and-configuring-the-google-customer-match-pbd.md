@@ -1,23 +1,22 @@
 ---
 title: De Google-klant afstemmen op een op mensen gebaseerde bestemming en configureren
 description: Deze video bespreekt u de details en het gebruiksgeval van de Klant van Google Gelijke Mensen Gebaseerde Doel, en omvat een analyse van het creëren van een segment en het in kaart brengen van het aan een bestemming. Het toont ook het publiek dat in de Google Ad Console landt.
-feature: "People-based Destinations"
+feature: '"Op mensen gebaseerde bestemmingen"'
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 38552.jpg
 kt: 6042
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: c333e02e-a585-49aa-b095-f2dcbbd258a8
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # De Google-klant afstemmen op een op mensen gebaseerde bestemming en configureren
 
