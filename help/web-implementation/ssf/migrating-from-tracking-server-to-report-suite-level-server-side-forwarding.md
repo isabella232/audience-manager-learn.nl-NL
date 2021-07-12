@@ -2,17 +2,16 @@
 title: Migreren van Tracking Server naar Report Suite-Level Server-Side Forwarding
 description: Dit artikel en video zullen u tonen hoe te om server-zijhet door:sturen van de Gegevens van Analytics aan Audience Manager op een niveau van de rapportreeks in plaats van op een volgend serverniveau toe te laten.
 product: audience manager
-feature: Adobe Analytics Integration
+feature: Adobe Analytics-integratie
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
@@ -27,7 +26,7 @@ In dit artikel en deze video wordt getoond hoe u [!UICONTROL server-side forward
 
 Als u Adobe Audience Manager AND Adobe Analytics hebt, kunt u &quot;[!UICONTROL Server-side Forwarding]&quot;van de [!DNL Analytics] gegevens aan Audience Manager uitvoeren. Dit betekent dat in plaats van de pagina met twee treffers (één naar [!DNL Analytics] en één naar Audience Manager) een hit kan worden verzonden naar [!DNL Analytics] en dat [!DNL Analytics] de gegevens doorstuurt naar de Audience Manager. Als u dit reeds hebt in werking gesteld, en als u het vóór Oktober 2017 had toegelaten/uitgevoerd, zou uw [!UICONTROL server-side forwarding] op uw &quot;[!UICONTROL Tracking Server]&quot;gebaseerd kunnen zijn, die door de Zorg van de Klant van de Adobe of de Raadpleging van de Adobe moest worden toegelaten. Vanaf oktober 2017 kunt u [!UICONTROL server-side forwarding] nu zelf configureren en op [!UICONTROL Report Suite]-niveau uitvoeren (PER [!UICONTROL Report Suite] doorsturen). Er zijn aanzienlijke voordelen aan verbonden, die hieronder zullen worden besproken.
 
-## [!UICONTROL Tracking Server] Doorsturen  {#tracking-server-forwarding}
+## [!UICONTROL Tracking Server] Doorsturen {#tracking-server-forwarding}
 
 Uw [!UICONTROL tracking server] is de plaats waarnaar u uw [!DNL Analytics] gegevens, en ook het domein verzendt waarop het beeldverzoek en het koekje worden geschreven. Deze moet worden ingesteld in DTM of [!DNL Experience Platform Launch] of in het [!DNL AppMeasurement.js]-bestand en ziet er doorgaans zo uit, waarbij uw site of bedrijfsnaam &quot;mijnsite&quot; vervangt:
 
