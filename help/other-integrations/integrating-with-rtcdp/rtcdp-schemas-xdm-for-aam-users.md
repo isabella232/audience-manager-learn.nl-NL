@@ -1,21 +1,20 @@
 ---
 title: Het begrip Schema's en XDM in Echte - tijd CDP voor de Gebruikers van de Audience Manager
 description: Aangezien u zich van Audience Manager aan het Platform van de Gegevens van de Klant in real time (CDP in real time) beweegt, zult u een paar nieuwe concepten en praktijken ontmoeten. Schemas en XDM vallen in die categorie. In deze video worden deze concepten uitgelegd.
-feature: Platform Integration
-topic: Integrations
-role: Business Practitioner, Architect, Administrator, Leader
+feature: Integratie van Platform
+topic: Integraties
+role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
 thumbnail: 332023.jpg
 kt: 7272
-translation-type: tm+mt
-source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
+exl-id: 5f9a54e0-1078-402d-ad31-b3da06274bb3
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # Het begrip Schema&#39;s en XDM in Echte - tijd CDP voor de Gebruikers van de Audience Manager
 
