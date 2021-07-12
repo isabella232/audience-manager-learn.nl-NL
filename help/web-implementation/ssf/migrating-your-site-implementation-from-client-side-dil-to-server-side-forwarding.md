@@ -2,17 +2,16 @@
 title: De AAM van uw site migreren van client-side DIL naar server-side doorsturen
 description: Deze zelfstudie is op u van toepassing als u zowel Adobe Audience Manager (AAM) als Adobe Analytics hebt en u momenteel een hit van de pagina naar AAM verzendt met de code "DIL" (Data Integration Library) en ook een hit van de pagina naar Adobe Analytics verzendt. Aangezien u beide oplossingen hebt, en aangezien zij allebei deel van Adobe Experience Cloud uitmaken, hebt u de kans om de beste praktijk te volgen om "Server-Side Forwarding (SSF) aan te zetten,"die de servers van de gegevensinzameling van de Analyse toelaat om plaats analysegegevens in real time aan Audience Manager door:sturen, in plaats van het hebben van cliënt-zijcode een extra klap van de pagina naar AAM verzenden. Dit leerprogramma zal u door de stappen lopen om de schakelaar van de oudere "cliënt-Kant DIL"implementatie aan de nieuwere "server-Kant door:sturen"methode te maken.
 product: audience manager
-feature: Adobe Analytics Integration
+feature: Adobe Analytics-integratie
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
 source-wordcount: '2322'
 ht-degree: 0%
@@ -29,7 +28,7 @@ Bij het vergelijken en contrasteren van deze twee methoden om Adobe Analytics-ge
 
 ![client-kant naar server-kant](assets/client-side_vs_server-side_aam_implementation.png)
 
-### [!DNL Client-side] DIL-implementatie  {#client-side-dil-implementation}
+### [!DNL Client-side] DIL-implementatie {#client-side-dil-implementation}
 
 Als u deze methode gebruikt om Adobe Analytics-gegevens in AAM te krijgen, betekent dit dat er twee hits op je webpagina&#39;s komen: Eén gaat naar [!DNL Analytics] en één gaat naar AAM (na het kopiëren van de [!DNL Analytics]-gegevens op de webpagina. [!UICONTROL Segments] worden teruggestuurd van AAM naar de pagina, waar ze kunnen worden gebruikt voor personalisatie, enz. Dit wordt beschouwd als een &#39;verouderde&#39; implementatie en wordt niet langer aanbevolen.
 
@@ -40,7 +39,7 @@ Afgezien van het feit dat dit niet de beste praktijken volgt, omvatten de nadele
 
 U wordt aangeraden naar een [!UICONTROL Server-Side Forwarding]-methode voor AAM implementatie te gaan.
 
-### [!UICONTROL Server-Side Forwarding] Implementatie  {#server-side-forwarding-implementation}
+### [!UICONTROL Server-Side Forwarding] Implementatie {#server-side-forwarding-implementation}
 
 Zoals in bovenstaande afbeelding wordt getoond, komt een hit van de webpagina naar Adobe Analytics. [!DNL Analytics] stuurt die gegevens vervolgens door naar AAM in real time, en bezoekers worden beoordeeld naar AAM  [!UICONTROL traits] en  [!UICONTROL segments], net alsof de treffer rechtstreeks van de pagina afkomstig was.
 
@@ -79,7 +78,7 @@ Als u een niet-Adobe TMS of helemaal geen TMS gebruikt, implementeert u ECID om 
 >
 >Lees dit gehele document voordat u het implementeert. De sectie &quot;Timing&quot; hieronder bevat belangrijke informatie over *wanneer* u elk onderdeel moet implementeren, inclusief ECID (als dit nog niet is geïmplementeerd).
 
-### Stap 1: Opnemen van momenteel gebruikte opties uit DIL-code {#step-record-currently-used-options-from-dil-code}
+### Stap 1: Opties voor opnemen die momenteel worden gebruikt vanuit DIL-code {#step-record-currently-used-options-from-dil-code}
 
 Aangezien u bereid wordt om zich van [!DNL Client-Side] DIL code aan [!UICONTROL Server-Side Forwarding] te bewegen, is de eerste stap alles te identificeren dat u met de code van de DIL doet, met inbegrip van douanemontages en gegevens die naar AAM worden verzonden. U kunt onder andere de volgende dingen opmerken en overwegen:
 
@@ -89,7 +88,7 @@ Aangezien u bereid wordt om zich van [!DNL Client-Side] DIL code aan [!UICONTROL
 * containerNSID, uuidCookie, en andere geavanceerde opties - maak nota van om het even welke extra geavanceerde opties u gebruikt zodat u hen in de code kunt eveneens plaatsen SSF.
 * Extra paginabariabelen - Als andere variabelen van de pagina naar AAM worden verzonden (naast de normale variabelen [!DNL Analytics] die door siteCatalyst.init worden behandeld), zult u nota van hen moeten maken zodat zij via SSF (spoiler waakzaam zijn: via [!DNL contextData] variabelen).
 
-### Stap 2: De code {#step-updating-the-code} bijwerken
+### Stap 2: De code bijwerken {#step-updating-the-code}
 
 In de sectie hierboven met de titel &quot;Implementatieopties&quot; worden meerdere opties gegeven met betrekking tot hoe/waar u [!UICONTROL Server-Side Forwarding] implementeert. Om deze paragraaf doeltreffend te maken, moeten we ze in deze secties opsplitsen (met twee gecombineerd). Ga naar de methode van deze sectie die uw behoeften het best beschrijft.
 
@@ -131,11 +130,11 @@ De reden waarom timing en orde materie wegens hoe door:sturen *werkelijk *works 
 * De SSF-code (in [!DNL Launch] of op de pagina) handelt echt de reactie af en is natuurlijk nodig om de migratie te voltooien.
 * Onthoud dat de SSF-switch is ingeschakeld door [!UICONTROL Report Suite], maar dat de code wordt afgehandeld door eigenschap in [!DNL Launch] of door [!DNL AppMeasurement] bestand als u [!DNL Launch] niet gebruikt
 
-### Aanbevolen procedures {#best-practices}
+### Aanbevolen werkwijzen {#best-practices}
 
 Op basis van deze technische details zijn hier de aanbevelingen voor de timing van &quot;wat te doen wanneer&quot;:
 
-#### Als u ECID NOG NIET hebt geïmplementeerd {#if-you-do-not-have-ecid-yet-implemented}
+#### Als u ECID nog niet hebt geïmplementeerd {#if-you-do-not-have-ecid-yet-implemented}
 
 1. Draai de schakelaar in [!DNL Analytics] voor elke [!UICONTROL report suite] die u voor SSF zult toelaten
 
@@ -161,7 +160,7 @@ Op basis van deze technische details zijn hier de aanbevelingen voor de timing v
 
 **NOTA 2:** Als u liever een kleine discrepantie in gegevens eerder dan een kleine duplicatie van gegevens zou hebben, kunt u de orde van stappen 1 en 2 hierboven veranderen. Als u de code van DIL naar SSF verplaatst, stopt de gegevensstroom in AAM totdat u de switch kunt spiegelen om de SSF voor de [!UICONTROL report suite] in te schakelen. Klanten hebben doorgaans liever een kleine verdubbeling van de gegevens dan dat ze bezoekers in [!UICONTROL traits] en [!UICONTROL segments] willen opnemen.
 
-#### De Tijdopnemer van de migratie wanneer u vele Plaatsen en [!UICONTROL Report Suites] {#migration-timing-when-you-have-many-sites-and-report-suites} hebt
+#### De Tijdopnemer van de migratie wanneer u vele Plaatsen en [!UICONTROL Report Suites] hebt {#migration-timing-when-you-have-many-sites-and-report-suites}
 
 Dit onderwerp wordt in eerdere paragrafen kort besproken, in die zin dat de hoofdstrategie als volgt kan worden samengevat:
 
