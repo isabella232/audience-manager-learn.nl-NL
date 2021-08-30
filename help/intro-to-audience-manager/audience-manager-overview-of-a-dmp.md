@@ -1,20 +1,20 @@
 ---
 title: Audience Manager - Overzicht van een DMP
 description: Begrijp de belangrijkste uitdagingen met dwars-kanaalpersonalisatie en hoe Adobe Audience Manager de klantenreis drijft. Leer ook welke gegevenstypes in Audience Manager kunnen worden gecontroleerd en identificeer de ad-tech eco-systeempartners die met Audience Manager worden geïntegreerd.
-feature: Overzicht
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5106
 thumbnail: 33894.jpg
-topic: Architectuur
+topic: Architecture
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: cf0dbcb1-0d3c-4afd-b979-1c59a9849720
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ Begrijp de belangrijkste uitdagingen met dwars-kanaalpersonalisatie en hoe Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/aam-overview.html) voor meer informatie.
+Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html) voor meer informatie.

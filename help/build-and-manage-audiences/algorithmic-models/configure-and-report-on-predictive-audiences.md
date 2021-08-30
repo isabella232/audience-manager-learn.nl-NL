@@ -11,10 +11,10 @@ kt: 4390
 role: Admin
 level: Intermediate
 exl-id: 5c4f8b2e-b0ed-44b6-a19c-be5ea6312646
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ In deze video zullen wij door [!UICONTROL Predictive Audiences] configuratie in 
 
 >[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) voor meer informatie.
+Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) voor meer informatie.

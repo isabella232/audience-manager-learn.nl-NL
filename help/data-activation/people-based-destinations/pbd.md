@@ -10,7 +10,7 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-source-git-commit: 3b16dc825d620119c5b112b1b2a91292133f817f
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Deze sectie bevat video&#39;s en zelfstudies voor onderwerpen met betrekking tot
 * [Creeer en vorm Op mensen-gebaseerde Doelen](create-and-configure-people-based-destinations.md)
 * [Het begrip van en het Vormen van de op mensen-Gebaseerde Bestemming van LinkedIn](understanding-and-configuring-the-linkedin-pbd.md)
 
-Deze video&#39;s kunnen samen met [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html) worden gebruikt.
+Deze video&#39;s kunnen samen met [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html) worden gebruikt.

@@ -1,7 +1,7 @@
 ---
 title: IAB TCF 2.0 Steun in Audience Manager
 description: Adobe voorziet u van de middelen om de privacykeuzen van uw gebruikers te beheren en mee te delen door de Opt-in functionaliteit en door de Plug-in van de Audience Manager aan de Transparantie van IAB en de Steun van het Kader 2.0 van de Goedkeuring (TCF 2.0). Dit artikel werkt samen met de documentatie om u te helpen de Plug-in van de Audience Manager aan IAB TCF begrijpen en hoe het samen met het Opt-in voorwerp van Adobe en uw Bevelhebber van het Beheer van de Toestemming (CMP) werkt.
-feature: "Data Governance & Privacy"
+feature: Data Governance & Privacy
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -10,10 +10,9 @@ kt: 5027
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,9 +21,9 @@ ht-degree: 0%
 
 Adobe voorziet u van de middelen om de privacykeuzen van uw gebruikers te beheren en mee te delen door de Opt-in functionaliteit en door de Plug-in van de Audience Manager aan de Transparantie van IAB en de Steun van het Kader 2.0 van de Goedkeuring (TCF 2.0). Dit artikel werkt samen met de documentatie om u te helpen de Plug-in van de Audience Manager aan IAB TCF begrijpen en hoe het samen met het Opt-in voorwerp van Adobe en uw Bevelhebber van het Beheer van de Toestemming (CMP) werkt. Voor meer informatie over IAB, gelieve hun Website op [https://www.iabeurope.eu/](https://www.iabeurope.eu/) te zien.
 
-## Eerste stap: Inschakelen van ECID {#first-step-understand-ecid-s-opt-in} begrijpen
+## Eerste stap: Inschakelen van ECID begrijpen {#first-step-understand-ecid-s-opt-in}
 
-Om te begrijpen hoe te met IAB TCF te werken, moet u [!DNL Opt-in] functionaliteit eerst begrijpen, die deel van de Experience Cloud ID van de Dienst (ECID) bibliotheek uitmaakt. Als u niet bekend bent met de werking van Opt-in, zie [dit nuttige artikel](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html) eerst. U moet ook de documentatie [Opt-in](https://docs.adobe.com/content/help/nl-NL/id-service/using/implementation/opt-in-service/optin-overview.html) controleren. Als u deze bronnen hebt doorlopen, gaat u terug naar deze pagina en gaat u verder.
+Om te begrijpen hoe te met IAB TCF te werken, moet u [!DNL Opt-in] functionaliteit eerst begrijpen, die deel van de Experience Cloud ID van de Dienst (ECID) bibliotheek uitmaakt. Als u niet bekend bent met de werking van Opt-in, zie [dit nuttige artikel](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html) eerst. U moet ook de documentatie [Opt-in](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html) controleren. Als u deze bronnen hebt doorlopen, gaat u terug naar deze pagina en gaat u verder.
 
 ## De plug-in Audience Manager voor IAB TCF {#the-audience-manager-plug-in-for-iab-tcf}
 
@@ -32,7 +31,7 @@ Nu u minstens een basisinzicht in hebt hoe de Opt-in dienst werkt, kan de Audien
 
 De insteekmodule van de Audience Manager voor IAB TCF breidt de functionaliteit van toe Opt-binnen uit, en laat AAM klanten toe om, keuzes van de gebruikersprivacy aan stroomafwaartse partners in overeenstemming met IAB TCF te evalueren, te respecteren en door:sturen. Het verstrekt een norm die gegevenscontrolemechanismen (dat u als klant van Adobe bent) en verkopers (DMPs, DSP, SSPs, Advertentieservers, enz.) kan worden gebruikt om instemming in het hele toestemmingslandschap te begrijpen.
 
-## IAB TCF {#enabling-iab-tcf} inschakelen
+## IAB TCF inschakelen {#enabling-iab-tcf}
 
 Het inschakelen van de plug-in Audience Manager voor IAB TCF is eenvoudig als u Adobe Experience Platform Launch gebruikt, omdat dit een eenvoudig selectievakje is, zoals in de korte video hieronder wordt getoond:
 
@@ -75,7 +74,7 @@ Om de Audience Manager te kunnen goedkeuren (d.w.z. om ervoor te zorgen dat de I
 
 Er is één of andere grote informatie in [documentatie](https://marketing.adobe.com/resources/help/en_US/aam/aam-iab-plugin.html) over hoe de stroom van de Plug-in van de Audience Manager voor IAB TCF op zowel Uitgever als Advertiser van toepassing is.
 
-## IAB: Toestemming downstream verzenden {#iab-sending-consent-downstream}
+## IAB: Goedkeuring Downstream verzenden {#iab-sending-consent-downstream}
 
 Wanneer de insteekmodule van de Audience Manager voor IAB TCF wordt gebruikt, zullen de de toestemmingskeuzen van de gebruiker ook naar platform-niveau (derde partij) de syncs van identiteitskaart voor partners worden verzonden die op de Globale Lijst van de Leverancier aanwezig zijn, zodat de partner de informatie van de gebruikerstoestemming heeft en op het kan ook handelen. Deze informatie wordt in twee variabelen verzonden:
 
@@ -90,4 +89,4 @@ In de onderstaande video ziet u hoe cookies en bakens van ECID en oplossingen wo
 
 >[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
 
-Raadpleeg de [documentatie](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html) voor meer informatie over de plug-in Audience Manager voor IAB TCF 2.0, zoals het implementeren en testen, gebruiken en het werken.
+Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html) voor meer informatie over de plug-in Audience Manager voor IAB TCF 2.0, zoals het implementeren en testen, gebruiken en het werken.
