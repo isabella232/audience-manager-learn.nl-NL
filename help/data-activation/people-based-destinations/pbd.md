@@ -1,7 +1,7 @@
 ---
 title: Video's en Tutorials op basis van persoonlijke doelen
 description: Deze sectie bevat video's en zelfstudies voor onderwerpen betreffende Op mensen gebaseerde Doelen.
-feature: '"Op mensen gebaseerde bestemmingen"'
+feature: People-based Destinations
 topics: null
 activity: setup
 doc-type: feature video
@@ -10,16 +10,16 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 3b16dc825d620119c5b112b1b2a91292133f817f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL People-Based Destinations] Video&#39;s en Tutorials
 
-[!UICONTROL People-Based Destinations] laat u toe om segmentatie op online en off-line gegevens toe te passen om publiekssegmenten tot stand te brengen die op gehakte herkenningstekens, zoals e-mailadressen of telefoonaantallen worden gebaseerd. Vervolgens kunt u deze segmenten verzenden naar sociale platforms, zoals [!DNL Facebook] of [!DNL LinkedIn], waar u uw doelgroep kunt kiezen.
+[!UICONTROL People-Based Destinations] kunt u segmentatie toepassen op online en offline gegevens om publiekssegmenten te maken op basis van hashed-id&#39;s, zoals e-mailadressen. Vervolgens kunt u deze segmenten verzenden naar sociale platforms, zoals [!DNL Facebook] of [!DNL LinkedIn], waar u uw doelgroep kunt kiezen.
 
 Deze sectie bevat video&#39;s en zelfstudies voor onderwerpen met betrekking tot [!UICONTROL People-Based Destinations]. Ze zijn met opzet in deze volgorde vermeld, terwijl u doorwerkt in het proces voor het instellen van [!UICONTROL People-Based Destinations]:
 
