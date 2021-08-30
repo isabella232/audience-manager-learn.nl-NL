@@ -11,9 +11,9 @@ kt: 1849
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6626ae11-8709-4302-9e03-0d55878d2409
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Wanneer u Adobe Analytics-gebeurtenissen gebruikt om [!UICONTROL traits] te make
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**NOTA:** In de video hierboven, veronderstelt het voorbeeld dat ik toon dat u Adobe Analytics hebt. Dat is natuurlijk niet het geval. Als u Google Analytics (GA) hebt, hebben wij een module die u kunt gebruiken om gegevens naar AAM (zie [documentatie](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)) te verzenden, en als uw omzettingsactiviteit op uw plaats naar AAM door GA wordt verzonden, dan kunt u uw omzetting [!UICONTROL trait] van dat tot stand brengen. Als u een andere analytische oplossing hebt (of geen analytische oplossing), kunt u nog steeds gegevens naar AAM sturen via onze DIL-code en de functie `submit`, enz. (zie de [documentatie](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)). Maak vervolgens de conversie [!UICONTROL trait] op basis van de gegevens die worden verzonden wanneer de conversieactiviteit op de site wordt uitgevoerd.
+**NOTA:** In de video hierboven, veronderstelt het voorbeeld dat ik toon dat u Adobe Analytics hebt. Dat is natuurlijk niet het geval. Als u Google Analytics (GA) hebt, hebben wij een module die u kunt gebruiken om gegevens naar AAM (zie [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)) te verzenden, en als uw omzettingsactiviteit op uw plaats naar AAM door GA wordt verzonden, dan kunt u uw omzetting [!UICONTROL trait] van dat tot stand brengen. Als u een andere analytische oplossing hebt (of geen analytische oplossing), kunt u nog steeds gegevens naar AAM sturen via onze DIL-code en de functie `submit`, enz. (zie de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)). Maak vervolgens de conversie [!UICONTROL trait] op basis van de gegevens die worden verzonden wanneer de conversieactiviteit op de site wordt uitgevoerd.
 
 ## Een look-alike [!UICONTROL Model] maken van [!UICONTROL Second Party]- of [!UICONTROL Third Party]-gegevens {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 

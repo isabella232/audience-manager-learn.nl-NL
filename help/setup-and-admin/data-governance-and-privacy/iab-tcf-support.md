@@ -10,9 +10,9 @@ kt: 5027
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1120'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Een van de voordelen van het gebruik van IAB TCF is dat de hierboven vermelde st
 
 Om de Audience Manager te kunnen goedkeuren (d.w.z. om ervoor te zorgen dat de IAB-doeleinden voor Opt-in AAM &quot;ja&quot;-stem uitbrengen), moeten de doelstellingen 1 en 10, zoals hierboven vermeld, door de eindgebruiker worden goedgekeurd. Als een van deze twee opties niet is goedgekeurd of als een finder niet is goedgekeurd, worden AAM geen pixelbranden uitgevoerd of cookies ingesteld. Het is ook goed om te weten dat veel klanten er gewoon voor kiezen om de eindgebruiker een interface &quot;alles of niets&quot; te bieden, die het gebruik van Audience Manager (en de andere Experience Cloud-oplossingen) natuurlijk wel of niet toestaat.
 
-Er is één of andere grote informatie in [documentatie](https://marketing.adobe.com/resources/help/en_US/aam/aam-iab-plugin.html) over hoe de stroom van de Plug-in van de Audience Manager voor IAB TCF op zowel Uitgever als Advertiser van toepassing is.
+Er is één of andere grote informatie in [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=en) over hoe de stroom van de Plug-in van de Audience Manager voor IAB TCF op zowel Uitgever als Advertiser van toepassing is.
 
 ## IAB: Goedkeuring Downstream verzenden {#iab-sending-consent-downstream}
 

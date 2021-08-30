@@ -11,10 +11,10 @@ kt: 1759
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 94becb1c-18c3-4fe1-bf24-acae127682da
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 1%
+source-wordcount: '166'
+ht-degree: 0%
 
 ---
 
@@ -28,5 +28,3 @@ Gebruik voor deze functie de volgende gevallen:
 
 * Zeer vaak [!UICONTROL traits], zoals bezoekers van de site [!UICONTROL traits], hebben een afwijking van [!UICONTROL model], wat niet nuttig zal zijn om een kwalitatief vergelijkbaar publiek te vinden. Klanten hoeven niet langer een aparte [!UICONTROL data source] te maken en gemeenschappelijke [!UICONTROL traits] op te slaan in de nieuwe [!UICONTROL data source], maar kunnen deze nu gewoon uitsluiten.
 * Er is nu een manier om een ondergroep van [!UICONTROL traits] van [!UICONTROL third party], zoals enkel gedragsbelangen, eerder dan alle informatie in [!UICONTROL model] te gebruiken. [!UICONTROL Third parties] verzendt gewoonlijk veel gegevens die niet nuttig voor de klant zouden kunnen zijn. In sommige gevallen mogen ze niet alle gegevens vanuit een wettelijk perspectief gebruiken in modellering. Nu kunt u [!UICONTROL traits] of omslagen van [!UICONTROL traits] uitsluiten die u niet in [!UICONTROL model] wilt omvatten.
-
-Zie de [documentatie](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html) voor meer informatie over deze functie.

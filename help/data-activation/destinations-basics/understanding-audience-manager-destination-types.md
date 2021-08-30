@@ -2,18 +2,15 @@
 title: Werken met Audience Manager-doeltypen
 description: Deze video zal u door de verschillende soorten bestemmingen in Adobe Audience Manager, en voorbeelden van laten zien wanneer u elk zou gebruiken.
 feature: Destination Basics
-topics: null
-activity: understand
 doc-type: presentation
-team: Technical Marketing
 thumbnail: 29839.jpg
 kt: 4016
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -24,6 +21,6 @@ Deze video zal u door de verschillende types van [!UICONTROL destinations] in Ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-U kunt een lijst van server-aan-server [!UICONTROL destination] partners [HERE](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx) downloaden.
+U kunt een lijst van server-aan-server [!UICONTROL destination] partners [HERE](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx) downloaden.
 
 Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) voor meer informatie.

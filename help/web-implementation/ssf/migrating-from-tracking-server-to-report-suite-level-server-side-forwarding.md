@@ -2,7 +2,7 @@
 title: Migreren van Tracking Server naar Report Suite-Level Server-Side Forwarding
 description: Dit artikel en video zullen u tonen hoe te om server-zijhet door:sturen van de Gegevens van Analytics aan Audience Manager op een niveau van de rapportreeks in plaats van op een volgend serverniveau toe te laten.
 product: audience manager
-feature: Adobe Analytics-integratie
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
@@ -11,9 +11,9 @@ kt: 1776
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Als u niet zeker weet of [!DNL tracking server forwarding] voor u is ingeschakel
 
 ## [!UICONTROL Report Suite]-niveau  [!UICONTROL Server-Side Forwarding] {#report-suite-level-server-side-forwarding}
 
-Één van de grootste voordelen aan het bewegen aan [!UICONTROL report suite] door:sturen van [!UICONTROL tracking server] is dat u &quot;Audience Analytics&quot;nu kunt gebruiken, die de capaciteit is om Audience Manager [!UICONTROL segments] terug naar Adobe Analytics voor gedetailleerde [!UICONTROL segment] analyse door:sturen. Deze grote eigenschap wordt NIET gesteund als u nog op [!UICONTROL tracking server] door:sturen en niet [!UICONTROL report suite] door:sturen bent. Zie meer informatie over Audience Analytics in [documentatie](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/).
+Één van de grootste voordelen aan het bewegen aan [!UICONTROL report suite] door:sturen van [!UICONTROL tracking server] is dat u &quot;Audience Analytics&quot;nu kunt gebruiken, die de capaciteit is om Audience Manager [!UICONTROL segments] terug naar Adobe Analytics voor gedetailleerde [!UICONTROL segment] analyse door:sturen. Deze grote eigenschap wordt NIET gesteund als u nog op [!UICONTROL tracking server] door:sturen en niet [!UICONTROL report suite] door:sturen bent. Zie meer informatie over Audience Analytics in [documentatie](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

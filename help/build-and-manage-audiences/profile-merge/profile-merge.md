@@ -1,7 +1,7 @@
 ---
 title: Video's en Tutorials samenvoegen van profielen
 description: Deze sectie bevat video's en zelfstudies voor functies voor het samenvoegen van profielen, zoals regels voor het samenvoegen van profielen.
-feature: Profielsamenvoeging
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: null
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ Deze sectie bevat de volgende video&#39;s voor [!UICONTROL Profile Merge Rules]:
 * [Identiteitsrapportage publiek interpreteren](interpret-audience-identity-reporting.md)
 * [Werken met apparaatmetingen in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Deze video&#39;s kunnen samen met de [documentatie](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) worden gebruikt
+Deze video&#39;s kunnen samen met de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) worden gebruikt

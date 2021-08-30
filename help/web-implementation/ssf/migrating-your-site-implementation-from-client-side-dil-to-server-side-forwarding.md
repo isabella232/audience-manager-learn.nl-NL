@@ -2,7 +2,7 @@
 title: De AAM van uw site migreren van client-side DIL naar server-side doorsturen
 description: Deze zelfstudie is op u van toepassing als u zowel Adobe Audience Manager (AAM) als Adobe Analytics hebt en u momenteel een hit van de pagina naar AAM verzendt met de code "DIL" (Data Integration Library) en ook een hit van de pagina naar Adobe Analytics verzendt. Aangezien u beide oplossingen hebt, en aangezien zij allebei deel van Adobe Experience Cloud uitmaken, hebt u de kans om de beste praktijk te volgen om "Server-Side Forwarding (SSF) aan te zetten,"die de servers van de gegevensinzameling van de Analyse toelaat om plaats analysegegevens in real time aan Audience Manager door:sturen, in plaats van het hebben van cliënt-zijcode een extra klap van de pagina naar AAM verzenden. Dit leerprogramma zal u door de stappen lopen om de schakelaar van de oudere "cliënt-Kant DIL"implementatie aan de nieuwere "server-Kant door:sturen"methode te maken.
 product: audience manager
-feature: Adobe Analytics-integratie
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: tutorial
@@ -11,9 +11,9 @@ kt: 1778
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '2322'
+source-wordcount: '2318'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Hieronder vindt u een overzicht van deze opties in de sectie De code bijwerken.
 
 De belangrijkste voorwaarde voor de overgang naar [!UICONTROL Server-Side Forwarding] is dat de Experience Cloud ID-service wordt geïmplementeerd. Dit is het gemakkelijkst gedaan als u Experience Platform Launch gebruikt, in welk geval u eenvoudig de uitbreiding ECID installeert en het de rest zal doen.
 
-Als u een niet-Adobe TMS of helemaal geen TMS gebruikt, implementeert u ECID om **before** andere Adobe-oplossingen uit te voeren. Raadpleeg de [ECID-documentatie](https://marketing.adobe.com/resources/help/en_US/mcvid/) voor meer informatie. De enige andere voorwaarde is betreffende codeversies, zodat aangezien u eenvoudig de meest recente versies van de code in de volgende stappen toepast, zult u in orde zijn.
+Als u een niet-Adobe TMS of helemaal geen TMS gebruikt, implementeert u ECID om **before** andere Adobe-oplossingen uit te voeren. Raadpleeg de [ECID-documentatie](https://experienceleague.adobe.com/docs/id-service/using/home.html) voor meer informatie. De enige andere voorwaarde is betreffende codeversies, zodat aangezien u eenvoudig de meest recente versies van de code in de volgende stappen toepast, zult u in orde zijn.
 
 >[!NOTE]
 >
@@ -191,4 +191,4 @@ Als u geen [!UICONTROL server-side forwarding] gegevens van [!DNL Analytics] aan
 
 ![vals succes](assets/falsesuccess.png)
 
-Raadpleeg de [documentatie](https://marketing.adobe.com/resources/help/en_US/reference/ssf.html) voor meer informatie over [!UICONTROL Server-Side Forwarding].
+Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html) voor meer informatie over [!UICONTROL Server-Side Forwarding].
