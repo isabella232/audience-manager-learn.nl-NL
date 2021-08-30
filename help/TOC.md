@@ -4,8 +4,7 @@ user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analyt
 breadcrumb-title: Audience Manager-tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
-translation-type: tm+mt
-source-git-commit: 92185bb82356eab8dfb53f79fdbb8b760e313bc3
+source-git-commit: 2a831a60d68698d9b824f54e3d88ba540b57d83e
 workflow-type: tm+mt
 source-wordcount: '923'
 ht-degree: 2%
@@ -45,7 +44,7 @@ ht-degree: 2%
    + DIL (Data Integration Library) {#dil}
       + [Bijwerken naar DIL versie 8.0 (of hoger)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF (Server-Side Forwarding) {#ssf}
-      + [Implementeren in websites met starten](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
+      + [Implementeren in websites met starten](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
       + [De AAM van uw site migreren van client-side DIL naar server-side doorsturen](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migreren van Tracking Server naar Report Suite-Level Server-Side Forwarding](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [Tagmanagers gebruiken om Audience Manager te implementeren](web-implementation/using-tag-managers-to-implement-audience-manager.md)
@@ -55,9 +54,9 @@ ht-degree: 2%
    + [Bestandsgebaseerde gegevens opmaken en invoegen](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Stappen voor het invoegen van op bestanden gebaseerde gegevens](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Mobiele implementatie {#mobile-implementation}
-   + [Implementeren in iOS SWIFT-toepassingen](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-   + [Implementeren in iOS-toepassingen voor doelstelling-C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-   + [Implementeren in Android-apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
+   + [Implementeren in iOS SWIFT-toepassingen](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
+   + [Implementeren in iOS-toepassingen voor doelstelling-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
+   + [Implementeren in Android-apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
    + Koopgegevens {#buying-data}
       + [Gegevensgebruik van de tweede en derde partij rapporteren in Audience Marketplace op segmentniveau](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
@@ -101,8 +100,8 @@ ht-degree: 2%
       + [Nummers in de segmentgrafiek begrijpen](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [Tips voor klanten - Aanbevolen procedures voor reizen en segmenten](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Algorithmic Models {#algorithmic-models}
-      + [Begrijpen  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Configureren en rapporteren op  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [[!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [Configureren en rapporteren op [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Het creëren van een Eerste partij kijkt-weg model](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Exclusief traits in algoritmische (look-Alike) modellen](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [ROAS verhogen door Algorithmic (look-Alike) Models te gebruiken](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
@@ -140,7 +139,7 @@ ht-degree: 2%
       + [Het vormen van de Regels van de Fusie van het Profiel voor Op mensen-Gebaseerde Doelen](data-activation/people-based-destinations/configuring-profile-merge-rules-for-people-based-destinations.md)
       + [Segmenten maken voor op mensen gebaseerde doelen](data-activation/people-based-destinations/creating-segments-for-people-based-destinations.md)
       + [Creeer en vorm Op mensen-gebaseerde Doelen](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
-      + [Het begrip van en het Vormen van LinkedIn op mensen-Gebaseerde Bestemming](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
+      + [Het begrip van en het Vormen van de op mensen-Gebaseerde Bestemming van LinkedIn](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
       + [De Google-klant afstemmen op een op mensen gebaseerde bestemming en configureren](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
 + Rapporten {#reports}
    + [Algemene rapporten gebruiken met treinen en segmenten](reports/using-general-reports-with-traits-and-segments.md)

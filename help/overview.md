@@ -1,7 +1,7 @@
 ---
 title: Analysevideo's en Tutorials
 description: Een verzameling video's en zelfstudies voor Adobe Analytics.
-feature: Overzicht
+feature: Overview
 topics: null
 activity: use
 doc-type: overview
@@ -9,10 +9,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 2a831a60d68698d9b824f54e3d88ba540b57d83e
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 9%
+source-wordcount: '337'
+ht-degree: 8%
 
 ---
 
@@ -43,11 +43,11 @@ Welkom bij de site Audience Manager Tutorials.  Als u deze zelfstudies samen met
 <table>
 <tr>
   <td>
-    <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
+    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
       <img alt="miniatuurafbeelding voor de zelfstudie 'De Experience Cloud implementeren in Mobile iOS Swift-toepassingen'" src="assets/thumb_swift.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
+      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
     <strong>De Experience Cloud implementeren in Mobile iOS-toepassingen</strong>
     </a>
     </div>
@@ -56,11 +56,11 @@ Welkom bij de site Audience Manager Tutorials.  Als u deze zelfstudies samen met
     <p>
   </td>
   <td>
-    <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html">
+    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
       <img alt="miniatuurafbeelding voor de zelfstudie 'Experience Cloud implementeren in mobiele Android-toepassingen'" src="assets/thumb_android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html">
+      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
     <strong>Experience Cloud in mobiele toepassingen implementeren [!DNL Android]</strong>
     </a>
     </div>
@@ -69,11 +69,11 @@ Welkom bij de site Audience Manager Tutorials.  Als u deze zelfstudies samen met
     <p>
   </td>
   <td>
-    <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
+    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
       <img alt="miniatuurafbeelding voor de zelfstudie 'Experience Cloud implementeren in mobiele, objectieve-C-toepassingen'" src="assets/thumb_objective_c.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
+      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
     <strong>Implementatie van de Experience Cloud in mobiele, objectieve C-toepassingen</strong>
     </a>
     </div>
