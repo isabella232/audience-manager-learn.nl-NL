@@ -10,19 +10,18 @@ kt: 2977
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: a2bf5c6bdc7611cd6bc5d807e60ac6aa22d5c176
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '778'
 ht-degree: 1%
 
 ---
 
-# Algemene validatie van apparaat-id {#global-device-id-validation}
+# Validatie van algemene apparaat-id {#global-device-id-validation}
 
 Identificatienummers voor advertenties van apparaten (iDFA, GAID, Roku ID) hebben opmaakstandaarden die moeten worden nageleefd om te kunnen worden gebruikt in het ecosysteem voor digitale reclame. Tegenwoordig kunnen klanten en partners id&#39;s in elke gewenste indeling uploaden naar onze Global [!UICONTROL data sources] zonder op de hoogte te worden gesteld van de juiste indeling van de id. Deze functie introduceert validatie van apparaat-id&#39;s die naar Global [!UICONTROL data sources] worden verzonden voor de juiste opmaak en geeft foutberichten wanneer id&#39;s onjuist zijn opgemaakt. Bij het starten ondersteunen we validatie voor [!DNL iDFA], [!DNL Google Advertising] en [!DNL Roku IDs].
 
-## Overzicht van opmaakstandaarden {#overview-of-format-standards}
+## Overzicht van indelingsstandaarden {#overview-of-format-standards}
 
 Hieronder vindt u de algemene advertenties-id-pools voor apparaten die momenteel worden herkend en ondersteund door AAM. Deze worden geïmplementeerd als gedeelde [!UICONTROL Data Sources] die kan worden gebruikt door elke klant of gegevenspartner die werkt met gegevens die zijn gekoppeld aan gebruikers van deze platforms.
 
@@ -77,14 +76,14 @@ Het instellen van de adverteerder-id in de app is eigenlijk twee stappen: eerst 
 
 1. De id ophalen
    1. [!DNL Apple] Informatie over de  [!DNL advertising ID] situatie is  [HIER](https://developer.apple.com/documentation/adsupport/asidentifiermanager) te vinden.
-   1. Voor [HERE](http://www.androiddocs.com/google/play-services/id.html) vindt u informatie over het instellen van de [!DNL advertiser ID] voor [!DNL Android]-ontwikkelaars.
+   1. Voor [HERE](http://android.cn-mirrors.com/google/play-services/id.html) vindt u informatie over het instellen van de [!DNL advertiser ID] voor [!DNL Android]-ontwikkelaars.
 1. Verzend het in de Experience Cloud gebruikend de [!DNL setAdvertisingIdentifier] methode in SDK
    1. Informatie voor het gebruik van `setAdvertisingIdentifier` vindt u in de [documentatie](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier) voor zowel [!DNL iOS] als [!DNL Android].
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
 `ACPCore.setAdvertisingIdentifier([AdvertisingId]) // ...where [AdvertisingId] is replaced by the actual advertising ID`
 
-## DCS-foutbericht voor onjuiste id&#39;s {#dcs-error-messaging-for-incorrect-ids}
+## DCS-foutbericht voor onjuiste id&#39;s  {#dcs-error-messaging-for-incorrect-ids}
 
 Wanneer een onjuiste globale apparaat-id (IDFA, GAID, enz.) in realtime wordt verzonden naar de Audience Manager, wordt een foutcode geretourneerd bij de hit. Hieronder ziet u een voorbeeld van een geretourneerde fout omdat de id is verzonden als een [!DNL Apple IDFA], die alleen hoofdletters mag bevatten, maar de id een kleine letter &#39;x&#39; bevat.
 
