@@ -4,9 +4,9 @@ user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analyt
 breadcrumb-title: Audience Manager-tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
-source-git-commit: 2a831a60d68698d9b824f54e3d88ba540b57d83e
+source-git-commit: 25e6244eabc2d9b327077bfa334a9bcafb7a0745
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '970'
 ht-degree: 2%
 
 ---
@@ -25,9 +25,11 @@ ht-degree: 2%
    + Waarderealisatie {#value-realization}
       + [Het meten van ROI in een Geval van het Gebruik van de Onderdrukking van de Klant](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + Bedrijfs Nieuws en Trends {#industry}
-   + [De toekomst van gegevensbeheer en de veranderende omgeving](industry/the-future-of-data-management-and-the-changing-environment.md)
-   + [10 overwegingen voor Verantwoordelijk beheer van klantgegevens](industry/ten-considerations-for-responsible-customer-data-management.md)
-   + [Een overzicht van twee percepties - merken versus consumenten](industry/brands-vs-consumers.md)
+   + [De toekomst van gegevensbeheer en de veranderende omgeving](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
+   + [10 overwegingen voor Verantwoordelijk beheer van klantgegevens](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+   + [Een overzicht van twee percepties - merken versus consumenten](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
+   + [Evolving Your Audience Center of Excellence](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
+   + [Betere ervaringen opbouwen met klantprofielen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
 + {#setup-and-admin} instellen en beheren
    + Databronnen {#data-sources}
       + [Een gegevensbron maken voor analysegegevens](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
