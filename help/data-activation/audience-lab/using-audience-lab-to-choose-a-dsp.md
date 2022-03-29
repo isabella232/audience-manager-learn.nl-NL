@@ -8,28 +8,28 @@ kt: 1552
 role: User, Admin, Leader
 level: Intermediate
 exl-id: 03e2617c-eea6-4b64-adc0-1ef996d8d3a5
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
-# Een DSP kiezen met [!UICONTROL Audience Lab] {#using-audience-lab-to-choose-a-dsp}
+# Gebruiken [!UICONTROL Audience Lab] om een DSP te kiezen {#using-audience-lab-to-choose-a-dsp}
 
-In deze video doorlopen we het maken van een [!UICONTROL Audience Lab]-test, zodat u A/B-DSP of andere AAM [!UICONTROL destinations] kunt testen om te zien welke het beste rendement op advertentie-uitgaven zal opleveren.
+In deze video bekijken we het maken van een [!UICONTROL Audience Lab] test, zodat u A/B test DSP of andere AAM bestemmingen kunt zien welke één het beste rendement op advertentie drijft.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
 
-Het maken van een [!UICONTROL Audience Lab]-test is eenvoudig en kan in slechts een paar minuten worden uitgevoerd, zoals in de bovenstaande video wordt getoond. Terwijl u door de stappen in de interface loopt, zult u opstelling het volgende:
+Een [!UICONTROL Audience Lab] De test is gemakkelijk en kan slechts in een paar minuten worden uitgevoerd, zoals in de bovenstaande video wordt getoond. Terwijl u door de stappen in de interface loopt, zult u opstelling het volgende:
 
-1. Uw [!UICONTROL Audience Lab]-test maken en benoemen
-1. Kies een van uw [!UICONTROL segments] als &quot;[!UICONTROL base segment],&quot;dat het publiek [!UICONTROL segment] is dat over uw DSP zal worden verdeeld
-1. Kies hoeveel test u [!UICONTROL segments] wilt maken (hoeveel DSP gaat u testen?)
-   * Plaats één van de test [!UICONTROL segments] als controle [!UICONTROL segment], die niet naar om het even welke DSP zal worden verzonden, zodat u uw DSP publiek tegen het kunt vergelijken
-1. Kies een conversie [!UICONTROL trait]. Dit is de [!UICONTROL trait] die uw succes meet en uw winnaar kiest
-1. Selecteer [!UICONTROL Destinations] (d.w.z. DSP) en wijs de test [!UICONTROL segments] toe
+1. Maak en noem uw [!UICONTROL Audience Lab] test
+1. Kies een van uw [!UICONTROL segments] als &quot;[!UICONTROL base segment],&quot; dit is het publiekssegment dat over uw DSP wordt gesplitst
+1. Kies hoeveel test u wilt [!UICONTROL segments] wilt u maken (hoeveel DSP gaat u testen?)
+   * Een van de tests instellen [!UICONTROL segments] als een controlesegment, dat niet naar om het even welke DSP zal worden verzonden, zodat u uw DSP publiek tegen het kunt vergelijken
+1. Kies een conversietekenmerk. Dit is de eigenschap die uw succes meet en die uw winnaar kiest
+1. Selecteren [!UICONTROL Destinations] (d.w.z. DSP) en wijst de test toe [!UICONTROL segments]
 1. Controleer het testoverzicht en activeer de test
 1. Wanneer de test wordt gedaan, heb toegang tot de resultaten op het belangrijkste huisscherm van [!UICONTROL Audience Lab]
 
-Raadpleeg de [documentatie over de functie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html) voor meer informatie.
+Zie voor meer informatie de [functiedocumentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html).

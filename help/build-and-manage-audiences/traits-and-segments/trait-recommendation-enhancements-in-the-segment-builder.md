@@ -1,8 +1,7 @@
 ---
-title: Verbeteringen voor de aanbeveling van het type Trait in de Segment Builder
-description: In deze video zult u zien hoe te om de bijgewerkte eigenschapaanbevelingen in de segmentbouwer te gebruiken, die Audience Marketplace aanbevelingen zijn. Hierdoor krijgt u meer inzicht in gegevens van derden die het bereik van uw segmenten kunnen uitbreiden.
+title: Verbeteringen in segmentering van de aanbevelingen voor treinen
+description: In deze video leert u hoe u de bijgewerkte aanbevelingen voor kenmerken in Segmenten kunt gebruiken. Dit zijn Audience Marketplace-aanbevelingen. Verkrijg extra inzicht in derdegegevens die het bereik van uw segmenten kunnen uitbreiden.
 feature: Segments
-topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -11,17 +10,17 @@ kt: 3937
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# [!DNL Trait Recommendation] Verbeteringen in de  [!DNL Segment Builder]
+# [!DNL Trait Recommendation] segmentatieverbeteringen
 
-In deze video ziet u hoe u de bijgewerkte [!DNL trait recommendations] in [!DNL segment builder] kunt gebruiken. Dit zijn aanbevelingen voor Audience Marketplace. Hierdoor krijgt u meer inzicht in [!DNL third party] gegevens die het bereik van uw [!UICONTROL segments] kunnen vergroten.
+In deze video leert u hoe u de bijgewerkte aanbevelingen voor kenmerken kunt gebruiken in [!UICONTROL Segments], die [!UICONTROL Audience Marketplace] aanbevelingen. Dit zal u extra inzicht in derdegegevens geven die het bereik van uw segmenten kunnen uitbreiden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html) voor meer informatie.
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).

@@ -1,6 +1,6 @@
 ---
-title: Analysevideo's en Tutorials
-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
+title: Video's en zelfstudies over Audience Managers
+description: Een verzameling video's en zelfstudies voor Adobe Audience Manager.
 feature: Overview
 topics: null
 activity: use
@@ -9,36 +9,36 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 2a831a60d68698d9b824f54e3d88ba540b57d83e
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '341'
 ht-degree: 8%
 
 ---
 
-# Overzicht
+# Zelfstudies voor Audience Managers
 
-Welkom bij de site Audience Manager Tutorials.  Als u deze zelfstudies samen met de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) gebruikt, krijgt u meer inzicht in de manier waarop u Adobe Audience Manager kunt gebruiken om een publiek kanaal of apparaat te maken en te activeren met behulp van &#39;best-in-class&#39; [!DNL data management platform].
+Welkom bij de website met zelfstudies voor Audience Managers. Deze zelfstudies samen met de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) biedt u een beter inzicht in hoe u Adobe Audience Manager kunt gebruiken om een publiek kanaal of apparaat te maken en activeren met behulp van &#39;best-in-class&#39;-Adobe [!DNL data management platform].
 
-* **Personeelszaken** Pickshighlights een deel van onze favoriete inhoud
+* **Personeelspictogrammen** benadrukt een aantal van onze favoriete inhoud
 * Verken de content op onderwerp en subonderwerp in het **linker navigatiedeelvenster**
 * Gebruik het **zoek** veld boven aan de pagina als u weet waarnaar u zoekt
 
 ## Nieuwe functies
 
-* **[Overzicht van  [!UICONTROL Profile Merge Rules] (video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
+* **[Overzicht van [!UICONTROL Profile Merge Rules] (Video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
 
-   *Begrijp wat  [!UICONTROL Profile Merge Rules] is, hoe ze werken, en hun waarde voor de Marketer.*
+   *Begrijpen wat [!UICONTROL Profile Merge Rules] zijn, hoe ze werken, en hun waarde voor de Marketer.*
 
 * **[[!UICONTROL Profile Merge Rule]Voorbeelden en gebruik](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
 
-   *In deze video ziet u voorbeelden van  [!UICONTROL Profile Merge Rules] en wat ze betekenen, en de gebruiksgevallen die  [!UICONTROL Profile Merge Rules] oplossen.*
+   *In deze video ziet u voorbeelden van [!UICONTROL Profile Merge Rules] en wat zij betekenen, alsmede de gebruiksgevallen die [!UICONTROL Profile Merge Rules] oplossen voor.*
 
-* **[Maken en configureren[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
+* **[Creeer en vorm Op mensen-gebaseerde Doelen](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   *Leer hoe te opstelling een  [!DNL People-Based Destination] in de UI van de Audience Manager*
+   *Leer hoe u een [!DNL People-Based Destination] in de gebruikersinterface van de Audience Manager*
 
-## Personeelspictogrammen
+## Personeelsselectie
 
 <table>
 <tr>
@@ -48,20 +48,20 @@ Welkom bij de site Audience Manager Tutorials.  Als u deze zelfstudies samen met
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>De Experience Cloud implementeren in Mobile iOS-toepassingen</strong>
+    <strong>De Experience Cloud in Mobile iOS-apps implementeren</strong>
     </a>
     </div>
     <p>
-    <em>Perfect startpunt voor ontwikkelaars van mobiele apps die willen leren hoe u de Adobe Experience Cloud-oplossingen kunt implementeren in hun iOS-toepassingen met een wift.</em>
+    <em>Perfect startpunt voor ontwikkelaars van mobiele apps die willen leren hoe u de Adobe Experience Cloud-oplossingen kunt implementeren in hun iOS Swift-apps</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="miniatuurafbeelding voor de zelfstudie 'Experience Cloud implementeren in mobiele Android-toepassingen'" src="assets/thumb_android.png" />
+      <img alt="miniatuurafbeelding voor de zelfstudie 'Experience Cloud implementeren in Mobile Android-toepassingen'" src="assets/thumb_android.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-    <strong>Experience Cloud in mobiele toepassingen implementeren [!DNL Android]</strong>
+    <strong>De Experience Cloud uitvoeren in Mobile [!DNL Android] Apps</strong>
     </a>
     </div>
     <p>
@@ -70,11 +70,11 @@ Welkom bij de site Audience Manager Tutorials.  Als u deze zelfstudies samen met
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="miniatuurafbeelding voor de zelfstudie 'Experience Cloud implementeren in mobiele, objectieve-C-toepassingen'" src="assets/thumb_objective_c.png" />
+      <img alt="miniatuurafbeelding voor de zelfstudie 'De Experience Cloud in Mobile-toepassingen voor doelstelling-C implementeren'" src="assets/thumb_objective_c.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>Implementatie van de Experience Cloud in mobiele, objectieve C-toepassingen</strong>
+    <strong>Implementatie van de Experience Cloud in de Mobile-toepassingen voor doelstelling-C</strong>
     </a>
     </div>
     <p>

@@ -4,163 +4,163 @@ user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analyt
 breadcrumb-title: Audience Manager-tutorials
 solution: Audience Manager
 type: Tutorial
-source-git-commit: 232402478860d25b701c35c6ce710f4cbba6143d
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '970'
-ht-degree: 2%
+source-wordcount: '966'
+ht-degree: 1%
 
 ---
 
 
 # Audience Manager-tutorials {#tutorials}
 
-+ [Overzicht](overview.md)
++ [Zelfstudies voor Audience Managers](overview.md)
 + Introductie tot Audience Manager {#intro-to-audience-manager}
    + [Hoe een DMP uw bedrijf kan veranderen](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager - Overzicht van een DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
-   + [Audience Managers](intro-to-audience-manager/audience-manager-use-cases.md)
-   + [Basisbegrippen en -concepten](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
-   + [De gegevensstroom in Audience Manager begrijpen](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
-   + [Inleiding tot Identiteit in Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
+   + [Gebruiksgevallen Audience Manager](intro-to-audience-manager/audience-manager-use-cases.md)
+   + [Basisbegrippen en -concepten begrijpen](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
+   + [Begrijp de Stroom van Gegevens in Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
+   + [Inleiding tot identiteit in Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
    + Waarderealisatie {#value-realization}
-      + [Het meten van ROI in een Geval van het Gebruik van de Onderdrukking van de Klant](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
+      + [Het meten van ROI in een het gebruikscase van de Onderdrukking van de Klant](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + Nieuws en trends in de industrie {#industry}
    + [De toekomst van gegevensbeheer en de veranderende omgeving](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
-   + [10 overwegingen voor Verantwoordelijk beheer van klantgegevens](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+   + [10 overwegingen voor verantwoord beheer van klantgegevens](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
    + [Een overzicht van twee percepties - merken versus consumenten](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
-   + [Evolving Your Audience Center of Excellence](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
+   + [De evolutie van uw Publiek van Uitmuntendheid](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
    + [Betere ervaringen opbouwen met klantprofielen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
-+ Instellen en beheerder {#setup-and-admin}
-   + Databronnen {#data-sources}
++ Instellen en beheren {#setup-and-admin}
+   + Gegevensbronnen {#data-sources}
       + [Een gegevensbron maken voor analysegegevens](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
       + [Een apparaatgegevensbron maken en verifiëren](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
    + Gebruikersbeheer {#user-management}
-      + [Machtigingen instellen met op rollen gebaseerd toegangsbeheer](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
-   + Beheer en privacy van gegevens {#data-governance-and-privacy}
-      + [Validatie van algemene apparaat-id](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
+      + [Machtigingen instellen met op rol gebaseerd toegangsbeheer](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
+   + Beheer van gegevens en privacy {#data-governance-and-privacy}
+      + [Algemene validatie van apparaat-id](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
       + [IAB TCF 2.0-ondersteuning](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
-      + [IP Obfuscatie per land](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
+      + [IP-verduistering per land](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
    + Gebruik en facturering {#usage-and-billing}
-      + [Controle en rapportage over het activiteitengebruik](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
+      + [Monitoren en rapporteren over het gebruik van activiteiten](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
 + Webimplementatie {#web-implementation}
    + DIL (Data Integration Library) {#dil}
       + [Bijwerken naar DIL versie 8.0 (of hoger)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
-   + SSF (Server-Side Forwarding) {#ssf}
-      + [Implementeren in websites met starten](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
-      + [De AAM van uw site migreren van client-side DIL naar server-side doorsturen](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
-      + [Migreren van Tracking Server naar Report Suite-Level Server-Side Forwarding](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
+   + SSF (server-kant door:sturen) {#ssf}
+      + [Experience Platform-tags gebruiken om te implementeren in websites](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+      + [De AAM implementatie van uw site migreren van client-side DIL naar server-side door:sturen](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
+      + [Migreren van het volgen server aan reeks-Vlakke server-zijdoor:sturen](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [Tagmanagers gebruiken om Audience Manager te implementeren](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [Hoe te om uw identiteitskaart van de Partner of Subdomain te identificeren](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
-   + [Best practices op SPA pagina&#39;s gebruiken](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
+   + [Aanbevolen werkwijzen gebruiken op SPA pagina&#39;s](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
 + Offlinegegevens integreren {#integrating-offline-data}
-   + [Bestandsgebaseerde gegevens opmaken en invoegen](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
-   + [Stappen voor het invoegen van op bestanden gebaseerde gegevens](integrating-offline-data/steps-for-ingesting-file-based-data.md)
-+ Mobiele implementatie {#mobile-implementation}
-   + [Implementeren in iOS Swift-apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
+   + [Bestandsgegevens opmaken en invoeren](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
+   + [Stappen voor het invoeren van op een bestand gebaseerde gegevens](integrating-offline-data/steps-for-ingesting-file-based-data.md)
++ Mobile-implementatie {#mobile-implementation}
+   + [Implementeren in iOS Swift-toepassingen](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
    + [Implementeren in iOS-toepassingen voor doelstelling-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
-   + [Implementeren in Android-apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
+   + [Implementeren in Android-toepassingen](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
-   + Gegevens voor kopen {#buying-data}
-      + [Gegevensgebruik van de tweede en derde partij rapporteren in Audience Marketplace op segmentniveau](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
-      + [Bulksgewijs gegevensgebruik uploaden naar Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
-      + [Filters en Recommendations gebruiken om gegevens van derden te kiezen in Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
+   + Gegevens kopen {#buying-data}
+      + [Rapportage van het gebruik van gegevens van derden in Audience Marketplace op segmentniveau](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
+      + [Bulkgebruik van uploadgegevens naar Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
+      + [Gebruik filters en aanbevelingen om gegevens van derden te kiezen in Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
    + Verkoopgegevens {#selling-data}
       + [Commercialiseren van publiek in eigendom op Marketplace](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
-+ Stimuleren en publiek beheren {#build-and-manage-audiences}
-   + Data Explorer {#data-explorer}
-      + [Het gebruiken van het Dashboard van Signalen om Hoogste Beschikbare Signalen snel te bekijken](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
-      + [Het gebruiken van Data Explorer om naar Gebruikte en Ongebruikte Sleutel/Waardeparen te zoeken](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
-      + [Opslaan van zoekopdrachten in Data Explorer voor gebruiksgemak bij hergebruik](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
-      + [Data Explorer gebruiken om retroactieve overtrekken en segmenten te maken](build-and-manage-audiences/data-explorer/using-data-explorer-to-create-retroactive-traits-and-segments.md)
-      + [Data Explorer gebruiken om het maken van sporen voor uw niet-geregistreerde gegevens te valideren](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
-      + [Data Explorer gebruiken om te werken met signalen van Adobe Analytics](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
-   + Traits en segmenten {#traits-and-segments}
-      + [Planning Trait Creation from Analytics Data](build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.md)
-      + [Een Trait Taxonomie maken](build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.md)
-      + [Op regels gebaseerde treits maken](build-and-manage-audiences/traits-and-segments/creating-rule-based-traits.md)
-      + [Bewegingssporen aan boord maken](build-and-manage-audiences/traits-and-segments/creating-onboarded-traits.md)
-      + [Conversietaken maken](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
-      + [Een gegevensbron kiezen bij het maken van sporen](build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.md)
-      + [De Vervaldatum van de Trait vormen met de Tijd aan Levende (TTL) Plaatsing](build-and-manage-audiences/traits-and-segments/configuring-trait-expiration-with-the-time-to-live-ttl-setting.md)
-      + [Codeweergave gebruiken om sporen te maken en te bewerken](build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.md)
++ Stimuleren en beheren van publiek {#build-and-manage-audiences}
+   + Gegevensverkenner {#data-explorer}
+      + [Gebruik het dashboard Signals om snel de bovenste beschikbare signalen te bekijken](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
+      + [Data Explorer gebruiken om te zoeken naar gebruikte en ongebruikte sleutel/waardeparen](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
+      + [Zoekopdrachten opslaan in Data Explorer voor eenvoudig hergebruik](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
+      + [Data Explorer gebruiken om retroactieve kenmerken en segmenten te maken](build-and-manage-audiences/data-explorer/using-data-explorer-to-create-retroactive-traits-and-segments.md)
+      + [Data Explorer gebruiken om het maken van sporen voor gegevens aan boord te valideren](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
+      + [Data Explorer gebruiken om te werken met signalen die uit Adobe Analytics komen](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
+   + Treinen en segmenten {#traits-and-segments}
+      + [Het ontwerp van de planningseigenschap op basis van analysegegevens](build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.md)
+      + [Een taxonomie maken](build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.md)
+      + [Een op regels gebaseerd kenmerk maken](build-and-manage-audiences/traits-and-segments/creating-rule-based-traits.md)
+      + [Aan boord aanwezige kenmerken maken](build-and-manage-audiences/traits-and-segments/creating-onboarded-traits.md)
+      + [Een conversietekenmerk maken](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
+      + [Een gegevensbron kiezen bij het maken van eigenschappen](build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.md)
+      + [Standaardvervaldatum configureren met de instelling Tijd voor live (TTL)](build-and-manage-audiences/traits-and-segments/configuring-trait-expiration-with-the-time-to-live-ttl-setting.md)
+      + [Codeweergave gebruiken om kenmerken te maken en te bewerken](build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.md)
       + [Inleiding tot Bulk Management (BAAAM)](build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.md)
-      + [Traits in bulk maken en beheren met BAAAM](build-and-manage-audiences/traits-and-segments/creating-and-managing-traits-in-bulk-with-baaam.md)
+      + [Ononderbroken eigenschappen maken en beheren met BAAAM](build-and-manage-audiences/traits-and-segments/creating-and-managing-traits-in-bulk-with-baaam.md)
       + [De basisbeginselen van het maken van segmenten](build-and-manage-audiences/traits-and-segments/the-basics-of-creating-segments.md)
       + [Een segmenttaxonomie maken](build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.md)
-      + [Praktische segmentdefinitie en -ontwerp](build-and-manage-audiences/traits-and-segments/practical-segment-definition-and-creation.md)
+      + [Praktische segmentdefinitie en creatie](build-and-manage-audiences/traits-and-segments/practical-segment-definition-and-creation.md)
       + [Segmenten maken van meerdere gegevensbronnen](build-and-manage-audiences/traits-and-segments/creating-segments-from-multiple-data-sources.md)
       + [Een gegevensbron kiezen bij het maken van een segment](build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-a-segment.md)
-      + [Uw segmenten uitbreiden met Trait Recommendations](build-and-manage-audiences/traits-and-segments/enhancing-your-segments-with-trait-recommendations.md)
-      + [Verbeteringen voor de aanbeveling van het type Trait in de Segment Builder](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
+      + [Verbeter uw segmenten met aanbevelingen voor kenmerken](build-and-manage-audiences/traits-and-segments/enhancing-your-segments-with-trait-recommendations.md)
+      + [Verbeteringen in segmentering van de aanbevelingen voor treinen](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
       + [Recentie en frequentie gebruiken in segmenten](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
-      + [Codeweergave gebruiken bij het bouwen van segmenten](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
+      + [Codeweergave gebruiken bij het maken van segmenten](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
       + [Segmenten uit Adobe Analytics importeren in Audience Manager](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
-      + [Een segment maken om advertenties aan klanten te onderdrukken](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
-      + [Segmenten Audience Manager toewijzen aan bestemmingen](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
-      + [Segmenten toewijzen aan een op apparaat gebaseerde bestemming](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
-      + [Getallen in de grafiek Trait begrijpen](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.md)
-      + [Nummers in de segmentgrafiek begrijpen](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
-      + [Tips voor klanten - Aanbevolen procedures voor reizen en segmenten](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
-   + Algorithmic Models {#algorithmic-models}
-      + [Begrijpen [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Configureren en rapporteren op [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
-      + [Het creëren van een Eerste partij kijkt-weg model](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
-      + [Exclusief traits in algoritmische (look-Alike) modellen](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
-      + [ROAS verhogen door Algorithmic (look-Alike) Models te gebruiken](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
-      + [Het gebruiken van look-Alike Modellen om Verkocht uit Inventaris van Uw Gegevens van de 1ste Partij uit te breiden](build-and-manage-audiences/algorithmic-models/using-look-alike-models-to-extend-sold-out-inventory-from-your-1st-party-data.md)
+      + [Bouw een segment om advertenties aan klanten te onderdrukken](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
+      + [De segmenten van de Audience Manager van de kaart aan bestemmingen](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
+      + [De segmenten van de kaart aan een op apparaat-gebaseerde bestemming](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
+      + [Getallen begrijpen in de grafiek van de Treit](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.md)
+      + [Getallen in de segmentgrafiek begrijpen](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
+      + [Tips voor klanten - aanbevolen procedures voor kenmerken en segmenten](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
+   + Algoritmische modellen {#algorithmic-models}
+      + [Voorspelend publiek begrijpen](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [Configureren en rapporteren over [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Een model voor de eerste look-alike maken](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
+      + [Kenmerken in algoritmische modellen (look-alike) uitsluiten](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
+      + [ROAS verhogen door algoritmische modellen (look-alike) te gebruiken](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
+      + [Gebruikend look-alike modellen om verkochte inventaris van uw eerste-partijgegevens uit te breiden](build-and-manage-audiences/algorithmic-models/using-look-alike-models-to-extend-sold-out-inventory-from-your-1st-party-data.md)
    + Profielsamenvoeging {#profile-merge}
       + [Regels voor profielsamenvoeging](build-and-manage-audiences/profile-merge/profile-merge.md)
       + [Overzicht van regels voor het samenvoegen van profielen](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)
-      + [Voorbeelden van regels voor samenvoegen van profielen en gebruik van hoofdletters en kleine letters](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)
-      + [De regel voor het samenvoegen van profielen rechts kiezen](build-and-manage-audiences/profile-merge/choosing-the-right-profile-merge-rule.md)
+      + [Voorbeelden van samenvoegingsregels en gebruiksgevallen profileren](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)
+      + [Kies de juiste regel voor het samenvoegen van profielen](build-and-manage-audiences/profile-merge/choosing-the-right-profile-merge-rule.md)
       + [Eenvoudige regels voor het samenvoegen van profielen maken en gebruiken](build-and-manage-audiences/profile-merge/creating-and-using-simple-profile-merge-rules.md)
-      + [Gebruikend de Regels van de Fusie van het Profiel om in een Voor authentiek verklaarde Staat te personaliseren](build-and-manage-audiences/profile-merge/using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
-      + [De regels voor het samenvoegen van profielen gebruiken voor Apparaatextensies en Meer bereiken](build-and-manage-audiences/profile-merge/using-profile-merge-rules-for-device-extension-and-increased-reach.md)
+      + [De Regels van de Fusie van het Profiel van het gebruik om in voor authentiek verklaarde staat te personaliseren](build-and-manage-audiences/profile-merge/using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
+      + [De Regels van de Fusie van het Profiel van het gebruik voor apparatenuitbreiding en verhoogd bereik](build-and-manage-audiences/profile-merge/using-profile-merge-rules-for-device-extension-and-increased-reach.md)
       + [Overzicht van verbeteringen in de samenvoegregel voor profielen](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rule-enhancements.md)
-      + [Verbeteringen in de regel voor samenvoegen van profielen - Voorwaarden](build-and-manage-audiences/profile-merge/profile-merge-rule-enhancements-pre-requisites.md)
-      + [Hoe de Segmentatie, de Activering, en het Melden van de Regel van de Samenvoeging van het Profiel Verbeteringen](build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
+      + [Verbeteringen in de regel voor samenvoegen van profielen - voorwaarden](build-and-manage-audiences/profile-merge/profile-merge-rule-enhancements-pre-requisites.md)
+      + [Hoe de Verbeteringen van de Regel van de Fusie van het Profiel segmentatie, activering, en rapportering beïnvloeden](build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
       + [Identiteitsrapportage publiek interpreteren](build-and-manage-audiences/profile-merge/interpret-audience-identity-reporting.md)
-      + [Werken met apparaatmetingen in Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
-      + [Klantentips - De regels voor het samenvoegen van profielen optimaal benutten](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
+      + [Interdevice metriek begrijpen in Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
+      + [Tips voor klanten - het meeste uit de regels voor het samenvoegen van profielen halen](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
 + Gegevensactivering {#data-activation}
-   + Grondbeginselen van doelen {#destinations-basics}
-      + [Werken met Audience Manager-doeltypen](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
-      + [Overeenkomende percentages](data-activation/destinations-basics/understanding-match-rates.md)
-      + [De interface voor afstemmen](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
-      + [Labels voor gegevensuitvoer gebruiken om de gegevensstroom te beheren](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
+   + Grondbeginselen van bestemmingen {#destinations-basics}
+      + [Begrijp de bestemmingstypes van de Audience Manager](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
+      + [Overeenkomsten begrijpen](data-activation/destinations-basics/understanding-match-rates.md)
+      + [Begrijp de interface van het gelijke tarief](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
+      + [Met labels voor gegevensexport kunt u de gegevensstroom beheren](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
-      + [Het gebruiken van het Laboratorium van het Publiek om een DSP te kiezen](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
-      + [Conversietaken maken](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
-   + Persoonsgebaseerde bestemmingen {#people-based-destinations}
-      + [Video&#39;s en Tutorials op basis van persoonlijke doelen](data-activation/people-based-destinations/pbd.md)
+      + [Het Laboratorium van het publiek van het Gebruik om een DSP te kiezen](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
+      + [Conversiekenmerken maken](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
+   + Op mensen gebaseerde Doelen {#people-based-destinations}
+      + [Video&#39;s en zelfstudies over op personen gebaseerde doelen](data-activation/people-based-destinations/pbd.md)
       + [Gegevensstroom op basis van persoonlijke doelen](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
-      + [Het creëren van een Gegevensbron voor Mensen-Gebaseerde Doelen](data-activation/people-based-destinations/creating-a-data-source-for-people-based-destinations.md)
-      + [Begrijpen van Hashed PII- Gegevenscongestie voor op mensen-Gebaseerde Doelen](data-activation/people-based-destinations/understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
-      + [Onderbroken PII voor op mensen gebaseerde bestemmingen invoegen](data-activation/people-based-destinations/ingesting-hashed-pii-for-people-based-destinations.md)
-      + [SetCustomerIDs() gebruiken voor Ingest en Hash PII als aangegeven id](data-activation/people-based-destinations/using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
-      + [Het vormen van de Regels van de Fusie van het Profiel voor Op mensen-Gebaseerde Doelen](data-activation/people-based-destinations/configuring-profile-merge-rules-for-people-based-destinations.md)
+      + [Creeer een gegevensbron voor Mensen-gebaseerde Doelen](data-activation/people-based-destinations/creating-a-data-source-for-people-based-destinations.md)
+      + [Begrijp Hashed PII gegevensinvoer voor Op mensen gebaseerde Doelen](data-activation/people-based-destinations/understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
+      + [Verhaal Onderbroken PII voor Op mensen-gebaseerde Doelen](data-activation/people-based-destinations/ingesting-hashed-pii-for-people-based-destinations.md)
+      + [Gebruik setCustomerIDs() om PII als gedeclareerde id in te voeren en te hashen](data-activation/people-based-destinations/using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
+      + [Configureer de regels voor het samenvoegen van profielen voor op mensen gebaseerde doelen](data-activation/people-based-destinations/configuring-profile-merge-rules-for-people-based-destinations.md)
       + [Segmenten maken voor op mensen gebaseerde doelen](data-activation/people-based-destinations/creating-segments-for-people-based-destinations.md)
       + [Creeer en vorm Op mensen-gebaseerde Doelen](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
-      + [Het begrip van en het Vormen van de op mensen-Gebaseerde Bestemming van LinkedIn](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
-      + [Het begrip en het Vormen van de Klant van Google Poort op mensen-Gebaseerde Bestemming](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
+      + [Begrijp en vorm de op Mensen gebaseerde bestemming van LinkedIn](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
+      + [Begrijp en vorm de klant-gelijke Op mensen-gebaseerde bestemming van Google](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
 + Rapporten {#reports}
-   + [Algemene rapporten gebruiken met treinen en segmenten](reports/using-general-reports-with-traits-and-segments.md)
-   + [Het gebruiken van Getrafte Rapporten met Trekken en Segmenten](reports/using-trended-reports-with-traits-and-segments.md)
-   + [Verwante soorten publiek met overlappende rapporten begrijpen](reports/understand-related-audiences-with-overlap-reports.md)
-   + [Audience Optimization-rapporten gebruiken om de mediaprestaties te begrijpen](reports/using-audience-optimization-reports-to-understand-media-performance.md)
+   + [Algemene rapporten gebruiken met kenmerken en segmenten](reports/using-general-reports-with-traits-and-segments.md)
+   + [Gedetailleerde rapporten gebruiken met kenmerken en segmenten](reports/using-trended-reports-with-traits-and-segments.md)
+   + [Verwante soorten publiek begrijpen met Overlap-rapporten](reports/understand-related-audiences-with-overlap-reports.md)
+   + [Gebruik Audience Optimization-rapporten om de mediaprestaties te begrijpen](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Overige integratie {#other-integrations}
    + Integreren met Real-time Customer Data Platform {#integrating-with-rtcdp}
       + [Gegevens opnemen via de Adobe Audience Manager-gegevensconnector](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
-      + [Begrijpen van de Ingestie van Gegevens van 1st-Partij in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
-      + [Begrijpen van de Ingestie van de Gegevens van het Web in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
-      + [Het begrip Schema&#39;s en XDM in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
-      + [Begrijpen de Randen in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.md)
-      + [Het begrip Signalen in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-signals-for-aam-users.md)
-      + [Segmenten in real-time CDP begrijpen](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
-      + [Begrijpen van Doelen in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.md)
-      + [Toegangsbeheer in real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
-      + [Gegevenbeheer in realtime CDP](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
+      + [Begrijp eerste-partij gegevensopname in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
+      + [Begrijp de gegevensopname van het Web in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
+      + [Begrijp schema&#39;s en XDM in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
+      + [Begrijp de eigenschappen in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.md)
+      + [Begrijp signalen in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-signals-for-aam-users.md)
+      + [Begrijp segmenten in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
+      + [Begrijp bestemmingen in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.md)
+      + [Begrijp toegangsbeheer in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
+      + [Begrijp gegevensbeheer in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
    + Integreren met Ad Cloud {#integrating-with-ad-cloud}
-      + [Integratie met Adobe Advertising Cloud en Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
+      + [Integratie van Adobe Advertising Cloud en Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
-   + [API-referenties ophalen in Adobe I/O](api/retrieve-api-credentials-in-adobe-io.md)
+   + [API-referenties ophalen in Adobe Developer](api/retrieve-api-credentials-in-adobe-io.md)

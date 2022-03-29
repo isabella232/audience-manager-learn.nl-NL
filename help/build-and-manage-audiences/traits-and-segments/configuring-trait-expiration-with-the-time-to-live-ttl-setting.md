@@ -1,7 +1,7 @@
 ---
-title: De Vervaldatum van de Trait vormen met de Tijd aan Levende (TTL) Plaatsing
-description: Een van de instellingen bij het maken van kenmerken is de instelling 'TTL' of 'Tijd voor live'. Dit is een verlopen van het lidmaatschap in de eigenschap als u niet binnen de opgegeven tijdsperiode opnieuw opgeeft. In deze video wordt getoond hoe u deze functie kunt zien en instellen.
-feature: 'Eigenschappen '
+title: Vervaldatum kenmerk configureren met [!UICONTROL Time-to-Live] (TTL)
+description: 'Meer informatie over zoeken en instellen [!UICONTROL Time to Live] (TTL) in Audience Manager. Gebruik deze instelling bij het maken van kenmerken. Hiermee wordt een verlopen van het lidmaatschap in de eigenschap ingesteld als een gebruiker niet binnen de opgegeven periode opnieuw in aanmerking komt. '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 6782
 role: User
 level: Beginner
 exl-id: 7190963c-9731-4ee2-b312-949d3f42f0b3
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# De Vervaldatum van de Trait vormen met de Tijd aan Levende (TTL) Plaatsing
+# Vervaldatum kenmerk configureren met [!UICONTROL Time-to-Live] (TTL)
 
-Één van de montages wanneer het creëren van eigenschappen is &quot;TTL&quot;of [!UICONTROL Time to Live] het plaatsen, die een afloop van lidmaatschap in het bezit is als u niet binnen de gespecificeerde periode opnieuw kwalificeert. In deze video wordt getoond hoe u deze functie kunt zien en instellen.
+Een van de instellingen bij het maken van kenmerken is de [!UICONTROL Time to Live] (TTL) het plaatsen, die een afloop van lidmaatschap in het bezit is als u niet binnen de gespecificeerde periode opnieuw kwalificeert. In deze video wordt getoond hoe u deze functie kunt zien en instellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)

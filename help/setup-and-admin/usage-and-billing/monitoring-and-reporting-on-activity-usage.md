@@ -1,6 +1,6 @@
 ---
-title: Controle en rapportage over het activiteitengebruik
-description: In deze video wordt uitgelegd hoe u het activiteitenverbruiksrapport kunt gebruiken, inclusief opties voor weergave en downloaden.
+title: Monitoren en rapporteren over het gebruik van activiteiten
+description: In deze video leert u hoe u het activiteitenverbruiksrapport kunt gebruiken, inclusief weergave- en downloadopties.
 feature: Usage and Billing
 topics: null
 activity: use
@@ -11,17 +11,17 @@ topic: Administration
 role: Developer, Data Engineer, Admin
 level: Beginner
 exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Controle en rapportage over het activiteitengebruik
+# Monitoren en rapporteren over het gebruik van activiteiten
 
-In deze video wordt uitgelegd hoe u [!DNL Activity Usage Report] kunt gebruiken, inclusief opties voor weergave en downloaden.
+In deze video bekijken we hoe we de [!UICONTROL Activity Usage Report], inclusief weergave- en downloadopties.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html) voor meer informatie.
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).

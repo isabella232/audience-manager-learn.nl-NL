@@ -1,7 +1,7 @@
 ---
-title: Verbeteringen in de regel voor samenvoegen van profielen - Voorwaarden
+title: Verbeteringen in de regel voor samenvoegen van profielen - voorwaarden
 description: Een overzicht van hoe u zich het beste kunt voorbereiden op de release van de Verbeteringen van de regel voor het samenvoegen van profielen.
-feature: Profielsamenvoeging
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 3692
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: f455c256-30a0-4a4c-8617-2542dbe05a6b
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rule] Verbeteringen - Voorwaarden
+# [!UICONTROL Profile Merge Rule] verbeteringen - voorwaarden
 
-Een overzicht van hoe u zich het beste kunt voorbereiden op de release van [!UICONTROL Profile Merge Rule] Verbeteringen.
+Een overzicht van hoe u zich het beste kunt voorbereiden op de release van [!UICONTROL Profile Merge Rule] verbeteringen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

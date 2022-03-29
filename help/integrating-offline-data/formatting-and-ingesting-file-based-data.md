@@ -1,7 +1,7 @@
 ---
-title: Bestandsgebaseerde gegevens opmaken en invoegen
-description: Wanneer het brengen van uw eerste Partij in Audience Manager om uw klant beter te begrijpen en te richten, zijn er bepaalde formatteringsvereisten voor de gegevens. Deze video bespreekt enkele van de belangrijkste opties en laat zien waar u meer informatie kunt krijgen.
-feature: Offline gegevens aan boord
+title: Bestandsgegevens opmaken en invoeren
+description: Leer een aantal van de belangrijkste opties waar te om meer informatie te krijgen wanneer het brengen van uw 1st-partij in Audience Manager om uw klant beter te begrijpen en te richten. Meer informatie over bepaalde opmaakvereisten voor de gegevens.
+feature: Onboarding Offline Data
 topics: null
 activity: use
 doc-type: feature video
@@ -11,19 +11,19 @@ kt: 7026
 role: User
 level: Beginner
 exl-id: a9515255-8e3e-4fb8-b467-be68a56c412b
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Bestandsgebaseerde gegevens opmaken en invoegen
+# Bestandsgegevens opmaken en invoeren
 
-Wanneer het brengen van uw eerste Partij in Audience Manager om uw klant beter te begrijpen en te richten, zijn er bepaalde formatteringsvereisten voor de gegevens. Deze video bespreekt enkele van de belangrijkste opties en laat zien waar u meer informatie kunt krijgen.
+Wanneer het brengen van uw 1st-partij in Audience Manager om uw klant beter te begrijpen en te richten, zijn er bepaalde het formatteren vereisten voor de gegevens. Deze video bespreekt enkele van de belangrijkste opties en laat zien waar u meer informatie kunt krijgen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
-Voor een video betreffende dossier het noemen en het invoeren, klik [HERE](steps-for-ingesting-file-based-data.md).
+Voor een video over het benoemen en importeren van bestanden klikt u op [HIER](steps-for-ingesting-file-based-data.md).
 
-Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?) voor meer informatie.
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).

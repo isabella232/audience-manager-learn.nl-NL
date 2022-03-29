@@ -1,7 +1,7 @@
 ---
-title: Het gebruiken van Data Explorer om naar Gebruikte en Ongebruikte Sleutel/Waardeparen in AAM te zoeken
+title: Data Explorer gebruiken om te zoeken naar gebruikte en ongebruikte sleutel/waardeparen
 description: In het werk van dag tot dag in Audience Manager, zou u kunnen moeten snel te weten komen als een eigenschap van een specifiek zeer belangrijk/waardepaar is gecreeerd. In deze video ziet u hoe u er achter kunt komen met Data Explorer.
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
@@ -11,19 +11,19 @@ kt: 1760
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3a9b135f-033f-4beb-a4f8-65df1b34e9f9
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 1%
+source-wordcount: '180'
+ht-degree: 0%
 
 ---
 
-# Het gebruiken van [!DNL Data Explorer] om naar Gebruikte en Ongebruikte Sleutel/Waardeparen in AAM te zoeken {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
+# Gebruiken [!UICONTROL Data Explorer] om te zoeken naar gebruikte en ongebruikte sleutel/waardeparen in AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
 
-In het dagelijks werk in Audience Manager, zou u kunnen moeten snel weten of is een [!UICONTROL trait] gecreeerd van een specifiek sleutel/waardepaar. In deze video ziet u hoe u [!DNL Data Explorer] kunt gebruiken.
+In het werk van dag tot dag in Audience Manager, zou u kunnen moeten snel te weten komen als een eigenschap van een specifiek zeer belangrijk/waardepaar is gecreeerd. In deze video ziet u hoe u er achter kunt komen [!UICONTROL Data Explorer].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
 
-Als u wilt nagaan of een [!UICONTROL signal] is gemaakt in een [!UICONTROL trait], hoeft u niet langer een [!DNL BAAAM]-bestand en ook het [!UICONTROL Unused Signals]-rapport te downloaden. Nu kunt u eenvoudig naar dat sleutel/waardepaar in [!DNL Data Explorer], AKA [!UICONTROL Signals] App, in AAM zoeken, en sleutel/waardeparen vinden die in [!UICONTROL traits] en die zijn niet, allen in de zelfde lijst zijn. Geweldig tijdbesparend!
+Als u wilt weten of een signaal in een eigenschap is gemaakt, hoeft u niet langer een BAAAM-bestand te downloaden en ook de [!UICONTROL Unused Signals] verslag. Nu kunt u gewoon zoeken naar dat sleutel/waardepaar in [!DNL Data Explorer], AKA de [!UICONTROL Signals] App, in AAM, en zoek sleutel/waardeparen die in eigenschappen en die zijn die niet, allen in de zelfde lijst zijn. Geweldig tijdbesparend!
 
-Voor meer informatie over [!DNL Data Explorer], gelieve [documentatie](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html) te bezoeken.
+Meer informatie over [!UICONTROL Data Explorer], bezoek [Data Explorer - Overzicht, Voordelen, en Gevallen van het Gebruik](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).

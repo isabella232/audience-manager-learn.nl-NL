@@ -1,7 +1,7 @@
 ---
-title: Een segment maken om advertenties aan klanten te onderdrukken
-description: Wanneer het creëren van marketing campagnes, vooral bereik uitbreiding/publieksuitbreidingscampagnes, kunt u uw huidige klanten willen uitsluiten, zodat u aan hen op een verschillende manier kunt op de markt brengen. In deze video worden opties voor het maken van segmenten besproken, zodat degenen die al naar de status van de klant zijn geconverteerd, worden uitgesloten.
-feature: 'Segmenten '
+title: Bouw een segment om advertenties aan klanten te onderdrukken
+description: Leer over opties wanneer u een segment creeert om klanten uit te sluiten die reeds in klantenstatus hebben omgezet. Wanneer het creëren van marketing campagnes, vooral bereikuitbreiding en publieksuitbreidingscampagnes, kunt u uw huidige klanten willen uitsluiten, zodat u aan hen op een verschillende manier kunt op de markt brengen.
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ kt: 5804
 role: User
 level: Intermediate
 exl-id: e142b202-612e-4be1-88e4-4fb897238b86
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# Een segment maken om advertenties aan klanten te onderdrukken
+# Bouw een segment om advertenties aan klanten te onderdrukken
 
 Wanneer het creëren van marketing campagnes, vooral bereik uitbreiding/publieksuitbreidingscampagnes, kunt u uw huidige klanten willen uitsluiten, zodat u aan hen op een verschillende manier kunt op de markt brengen. In deze video worden opties voor het maken van segmenten besproken, zodat degenen die al naar de status van de klant zijn geconverteerd, worden uitgesloten.
 

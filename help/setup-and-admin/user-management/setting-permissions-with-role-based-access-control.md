@@ -1,26 +1,26 @@
 ---
-title: Machtigingen instellen met op rollen gebaseerd toegangsbeheer
-description: Met het Adobe Audience Manager-toegangsbeheer op basis van rollen kunt u machtigingen op groepsniveau beheren en bepalen wie met elementen, waaronder kenmerken, segmenten, doelen en modellen, moet zien en werken. Leer hoe u machtigingsgroepen instelt en gebruikers eraan toevoegt.
-feature: Beheer
+title: Machtigingen instellen met op rol gebaseerd toegangsbeheer
+description: Leer over op rol-gebaseerde toegangsbeheer in Adobe Audience Manager en hoe te om toestemmingen op een groepsniveau te beheren. Kom te weten hoe te om te controleren wie krijgt om met activa, met inbegrip van eigenschappen, segmenten, bestemmingen, en modellen te zien en te werken. Leer hoe u machtigingsgroepen instelt en gebruikers eraan toevoegt.
+feature: Administration
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 329120.jpg
 kt: 6737
-topic: Beheer
+topic: Administration
 role: Admin
 level: Intermediate
 exl-id: decfe5fc-cec7-4f0a-875d-8a5f8d9c9ed6
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 2%
+source-wordcount: '106'
+ht-degree: 0%
 
 ---
 
-# Machtigingen instellen met [!DNL Role-Based Access Control]
+# Machtigingen instellen met op rol gebaseerd toegangsbeheer
 
-Adobe Audience Manager [!DNL Role-Based Access Control] staat u toe om toestemmingen op groepsniveau te beheren, die wie krijgt om met activa, met inbegrip van eigenschappen, segmenten, bestemmingen, en modellen te zien en te werken. Leer hoe u machtigingsgroepen instelt en gebruikers eraan toevoegt.
+Op rol-gebaseerde toegangsbeheer in Adobe Audience Manager staat u toe om toestemmingen op groepsniveau te beheren, die wie krijgt om met activa, met inbegrip van eigenschappen, segmenten, bestemmingen, en modellen te zien en te werken. Leer hoe u machtigingsgroepen instelt en gebruikers eraan toevoegt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329120/?quality=12&learn=on)

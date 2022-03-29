@@ -1,5 +1,5 @@
 ---
-title: Het creëren van een Eerste van het Kijken-Vergelijkend Model in AAM
+title: Een model maken voor een look-Alike van de eerste partij
 description: In deze video leert u hoe u een model maakt voor de look-alike van een eerste partij, zodat u meer van uw eigen bezoekers kunt vinden die er uitzien als uw converters.
 feature: Algorithmic Models
 topics: null
@@ -11,16 +11,16 @@ kt: 1805
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c38ab8f8-ec0f-44ac-b72f-479356c9950e
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Een [!UICONTROL First Party] look-Alike [!UICONTROL Model] maken in AAM {#creating-a-first-party-look-alike-model-in-aam}
+# Een model voor weergave als eerste maken in de Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
 
-In deze video leert u hoe u een [!UICONTROL first party]-look-alike [!UICONTROL model] maakt, zodat u meer van uw eigen bezoekers kunt vinden die er als uw converters uitzien.
+In deze video leert u hoe u een model maakt dat vergelijkbaar is met dat van de eerste partij, zodat u meer van uw eigen bezoekers kunt vinden die er uitzien als uw converters.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 

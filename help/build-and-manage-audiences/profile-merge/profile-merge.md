@@ -1,6 +1,6 @@
 ---
-title: Video's en Tutorials samenvoegen van profielen
-description: Deze sectie bevat video's en zelfstudies voor functies voor het samenvoegen van profielen, zoals regels voor het samenvoegen van profielen.
+title: Video's en zelfstudies over het samenvoegen van profielen
+description: Bekijk de video's en zelfstudies voor de functies voor het samenvoegen van profielen, waaronder Profielsamenvoegingsregels. Krijg controle over de gegevensreeksen die voor segmentatie worden gebruikt en nauwkeurig een persoon over veelvoudige apparaten richten.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -10,28 +10,26 @@ kt: null
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge] - Video&#39;s en Tutorials
+# [!UICONTROL Profile Merge] - video&#39;s en zelfstudies
 
-Met [!UICONTROL Profile Merge Rules] krijgt u controle over de gegevensreeksen die voor [!UICONTROL segmentation] worden gebruikt en kunt u een persoon nauwkeurig richten over veelvoudige apparaten.
-
-Deze sectie bevat de volgende video&#39;s voor [!UICONTROL Profile Merge Rules]:
+Bekijk de video&#39;s en zelfstudies voor de functies voor het samenvoegen van profielen, waaronder Profielsamenvoegingsregels. Krijg controle over de gegevensreeksen die voor segmentatie worden gebruikt en nauwkeurig een persoon over veelvoudige apparaten richten.
 
 * [Overzicht van regels voor het samenvoegen van profielen](overview-of-profile-merge-rules.md)
-* [Voorbeelden van regels voor samenvoegen van profielen en gebruik van hoofdletters en kleine letters](profile-merge-rule-examples-and-use-cases.md)
+* [Voorbeelden van samenvoegingsregels voor profielen en gebruik van hoofdletters en kleine letters](profile-merge-rule-examples-and-use-cases.md)
 * [Overzicht van verbeteringen in de samenvoegregel voor profielen](overview-of-profile-merge-rule-enhancements.md)
 * [Eenvoudige regels voor het samenvoegen van profielen maken en gebruiken](creating-and-using-simple-profile-merge-rules.md)
-* [Gebruikend de Regels van de Fusie van het Profiel om in een Voor authentiek verklaarde Staat te personaliseren](using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
-* [De regels voor het samenvoegen van profielen gebruiken voor Apparaatextensies en Meer bereiken](using-profile-merge-rules-for-device-extension-and-increased-reach.md)
-* [Verbeteringen in de regel voor samenvoegen van profielen - Voorwaarden](profile-merge-rule-enhancements-pre-requisites.md)
-* [Hoe de Segmentatie, de Activering, en het Melden van de Regel van de Samenvoeging van het Profiel Verbeteringen](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
+* [De Regels van de Fusie van het Profiel van het gebruik om in voor authentiek verklaarde staat te personaliseren](using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
+* [De Regels van de Fusie van het Profiel van het gebruik voor apparatenuitbreiding en verhoogd bereik](using-profile-merge-rules-for-device-extension-and-increased-reach.md)
+* [Verbeteringen in de regel voor samenvoegen van profielen - voorwaarden](profile-merge-rule-enhancements-pre-requisites.md)
+* [Hoe de Verbeteringen van de Regel van de Fusie van het Profiel segmentatie, activering, en rapportering beïnvloeden](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
 * [Identiteitsrapportage publiek interpreteren](interpret-audience-identity-reporting.md)
-* [Werken met apparaatmetingen in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
+* [Werken met maatstaven voor verschillende apparaten in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Deze video&#39;s kunnen samen met de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) worden gebruikt
+Deze video&#39;s kunnen samen met de [Documentatie over regels voor samenvoegen van profielen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)

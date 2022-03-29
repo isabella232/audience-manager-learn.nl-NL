@@ -1,7 +1,7 @@
 ---
-title: Gebruikend de Regels van de Fusie van het Profiel om in een Voor authentiek verklaarde Staat te personaliseren
+title: De Regels van de Fusie van het Profiel van het gebruik om in voor authentiek verklaarde staat te personaliseren
 description: Geef uw aangemelde klanten een gepersonaliseerde ervaring door deze instellingen van de Regel van de Fusie van het Profiel te gebruiken.
-feature: Profielsamenvoeging
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 5357
 role: User
 level: Intermediate
 exl-id: 189b751f-b71a-4579-8e2d-fc0d24e7e148
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
-# Het gebruiken [!UICONTROL Profile Merge Rules] om in een Voor authentiek verklaarde Staat aan te passen
+# Gebruiken [!UICONTROL Profile Merge Rules] om in een voor authentiek verklaarde staat te personaliseren
 
-Geef uw aangemelde klanten een gepersonaliseerde ervaring door deze instellingen van de Regel van de Fusie van het Profiel te gebruiken.
+Geef uw het programma geopende klanten een gepersonaliseerde ervaring door deze te gebruiken [!UICONTROL Profile Merge Rule] instellingen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

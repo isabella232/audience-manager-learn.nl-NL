@@ -1,6 +1,6 @@
 ---
-title: Exclusief traits in algoritmische (look-Alike) modellen
-description: 'In deze video leert u hoe en waarom u specifieke (of groepen) kenmerken wilt uitsluiten van een Algorithmic (Look-Alike)-model. '
+title: Kenmerken uitsluiten in Algorithmic (Look-Alike)-modellen
+description: 'Leer hoe en waarom u specifieke (of groepen) kenmerken wilt uitsluiten van een Algorithmic (Look-Alike)-model. '
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -11,20 +11,20 @@ kt: 1759
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 94becb1c-18c3-4fe1-bf24-acae127682da
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Traits] in Algorithmic (Look-Alike) [!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}
+# Kenmerken uitsluiten in Algorithmic (Look-Alike)-modellen {#excluding-traits-in-algorithmic-look-alike-models}
 
-In deze video leert u hoe en waarom u specifieke [!UICONTROL traits] wilt uitsluiten van een algoritme (look-Alike) [!UICONTROL Model].
+In deze video leert u hoe en waarom u specifieke (of groepen) kenmerken wilt uitsluiten van een Algorithmic (Look-Alike)-model.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
 
 Gebruik voor deze functie de volgende gevallen:
 
-* Zeer vaak [!UICONTROL traits], zoals bezoekers van de site [!UICONTROL traits], hebben een afwijking van [!UICONTROL model], wat niet nuttig zal zijn om een kwalitatief vergelijkbaar publiek te vinden. Klanten hoeven niet langer een aparte [!UICONTROL data source] te maken en gemeenschappelijke [!UICONTROL traits] op te slaan in de nieuwe [!UICONTROL data source], maar kunnen deze nu gewoon uitsluiten.
-* Er is nu een manier om een ondergroep van [!UICONTROL traits] van [!UICONTROL third party], zoals enkel gedragsbelangen, eerder dan alle informatie in [!UICONTROL model] te gebruiken. [!UICONTROL Third parties] verzendt gewoonlijk veel gegevens die niet nuttig voor de klant zouden kunnen zijn. In sommige gevallen mogen ze niet alle gegevens vanuit een wettelijk perspectief gebruiken in modellering. Nu kunt u [!UICONTROL traits] of omslagen van [!UICONTROL traits] uitsluiten die u niet in [!UICONTROL model] wilt omvatten.
+* Zeer gebruikelijke kenmerken, zoals de kenmerken van de bezoeker van de site, zijn het model dat niet nuttig zal zijn om een publiek met een vergelijkbare kwaliteit te vinden. Klanten hoeven niet langer een aparte gegevensbron te maken en gemeenschappelijke kenmerken in de nieuwe gegevensbron op te slaan, maar kunnen deze nu gewoon uitsluiten.
+* Er is nu een manier om een subset van kenmerken van een derde te gebruiken, zoals alleen gedragsbelangen, in plaats van alle informatie in een model. De derden verzenden gewoonlijk veel gegevens die niet nuttig voor de klant zouden kunnen zijn. In sommige gevallen mogen ze niet alle gegevens vanuit een wettelijk perspectief gebruiken in modellering. Nu kunt u eigenschappen of omslagen van eigenschappen uitsluiten die u niet in het model wilt omvatten.
