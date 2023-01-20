@@ -1,7 +1,7 @@
 ---
-title: Integratie met Adobe Advertising Cloud en Adobe Audience Manager
-description: Leer hoe de integratie tussen Adobe Audience Manager en Adobe Ad Cloud werkt. U kunt ook antwoorden krijgen over overeenkomende snelheden en het synchroniseren van cookies van andere bedrijven.
-feature: Advertising Cloud Integration
+title: Adobe Advertising en Adobe Audience Manager Integration
+description: Leer hoe de integratie tussen Adobe Audience Manager en Adobe Advertising werkt. U kunt ook antwoorden krijgen over overeenkomende snelheden en het synchroniseren van cookies van andere bedrijven.
+feature: Advertising Integration
 topics: null
 activity: understand
 doc-type: technical video
@@ -12,15 +12,15 @@ topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 92041f1c-6a05-4705-a56d-df5e9dbddac0
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d0812450ddc8c7398e7bb58b40dbb1c3818d7215
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# Integratie met Adobe Advertising Cloud en Adobe Audience Manager {#adobe-advertising-cloud-and-adobe-audience-manager-integration}
+# Adobe Advertising en Adobe Audience Manager Integration
 
-Leer hoe Adobe Audience Manager en [!DNL Adobe Ad Cloud] werkt. U kunt ook antwoorden krijgen over overeenkomende snelheden en het synchroniseren van cookies van andere bedrijven.
+Leer hoe Adobe Audience Manager en [!DNL Adobe Advertising] werkt. U kunt ook antwoorden krijgen over overeenkomende snelheden en het synchroniseren van cookies van andere bedrijven.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)
