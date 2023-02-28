@@ -1,7 +1,7 @@
 ---
 title: Inleiding tot Identiteit in Audience Manager
-description: Ontdek hoe Audience Manager identiteit beheert - inclusief interne profielen en samenvoegen van profielen, plus id-synchronisatie met partners.
-landing-page-description: Ontdek hoe Audience Manager identiteit beheert - inclusief interne profielen en samenvoegen van profielen, plus id-synchronisatie met partners.
+description: Ontdek hoe Audience Manager identiteit beheert - inclusief interne profielen en samenvoegen van profielen, plus ID-synchronisatie met partners.
+landing-page-description: Ontdek hoe Audience Manager identiteit beheert - inclusief interne profielen en samenvoegen van profielen, plus ID-synchronisatie met partners.
 feature: ID Syncs
 topics: null
 activity: understand
@@ -15,7 +15,7 @@ exl-id: 57e2274c-df69-4f1f-b999-a05b864023aa
 source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 47%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
-user-guide-title: Adobe Audience Manager Tutorials
-user-guide-description: Een verzameling video's en zelfstudies voor Adobe Analytics.
+user-guide-title: Adobe Audience Manager-tutorials
+user-guide-description: Een verzameling video's en tutorials voor Adobe Analytics.
 breadcrumb-title: Audience Manager-tutorials
 solution: Audience Manager
 type: Tutorial
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
 source-wordcount: '966'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 1%
 + Offlinegegevens integreren {#integrating-offline-data}
    + [Bestandsgegevens opmaken en invoeren](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Stappen voor het invoeren van op een bestand gebaseerde gegevens](integrating-offline-data/steps-for-ingesting-file-based-data.md)
-+ Mobile-implementatie {#mobile-implementation}
++ Mobiele implementatie {#mobile-implementation}
    + [Implementeren in iOS Swift-toepassingen](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
    + [Implementeren in iOS-toepassingen voor doelstelling-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Implementeren in Android-toepassingen](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
