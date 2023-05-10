@@ -9,7 +9,7 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: cff9d6c0fe15feae8cac1961c8fe7a1f7f876059
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 8%
@@ -24,6 +24,7 @@ Welkom bij de website met zelfstudies voor Audience Managers. Deze zelfstudies s
 * Verken de content op onderwerp en subonderwerp in het **linker navigatiedeelvenster**
 * Gebruik het **zoek** veld boven aan de pagina als u weet waarnaar u zoekt
 
+<div id="whats-new-section">
 ## Nieuwe functies
 
 * **[Overzicht van [!UICONTROL Profile Merge Rules] (Video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
@@ -37,6 +38,16 @@ Welkom bij de website met zelfstudies voor Audience Managers. Deze zelfstudies s
 * **[Creeer en vorm Op mensen-gebaseerde Doelen](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
    *Leer hoe u een [!DNL People-Based Destination] in de gebruikersinterface van de Audience Manager*
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Personeelsselectie
 
@@ -44,11 +55,11 @@ Welkom bij de website met zelfstudies voor Audience Managers. Deze zelfstudies s
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="miniatuurafbeelding voor de zelfstudie 'De Experience Cloud implementeren in Mobile iOS Swift-toepassingen'" src="assets/thumb_swift.png" />
+      <img alt="miniatuurafbeelding voor de zelfstudie 'Experience Cloud implementeren in Mobile iOS Swift-toepassingen'" src="assets/thumb_swift.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>De Experience Cloud in Mobile iOS-apps implementeren</strong>
+    <strong>De Experience Cloud implementeren in Mobile iOS Apps</strong>
     </a>
     </div>
     <p>
@@ -57,11 +68,11 @@ Welkom bij de website met zelfstudies voor Audience Managers. Deze zelfstudies s
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="miniatuurafbeelding voor de zelfstudie 'Experience Cloud implementeren in Mobile Android-toepassingen'" src="assets/thumb_android.png" />
+      <img alt="miniatuurafbeelding voor de zelfstudie 'Experience Cloud implementeren in mobiele Android-toepassingen'" src="assets/thumb_android.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-    <strong>De Experience Cloud uitvoeren in Mobile [!DNL Android] Apps</strong>
+    <strong>De Experience Cloud in mobiel implementeren [!DNL Android] Apps</strong>
     </a>
     </div>
     <p>
@@ -70,11 +81,11 @@ Welkom bij de website met zelfstudies voor Audience Managers. Deze zelfstudies s
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="miniatuurafbeelding voor de zelfstudie 'De Experience Cloud in Mobile-toepassingen voor doelstelling-C implementeren'" src="assets/thumb_objective_c.png" />
+      <img alt="miniatuurafbeelding voor de zelfstudie 'Experience Cloud implementeren in mobiele, objectieve-C-toepassingen'" src="assets/thumb_objective_c.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>Implementatie van de Experience Cloud in de Mobile-toepassingen voor doelstelling-C</strong>
+    <strong>Implementatie van de Experience Cloud in mobiele, objectieve C-toepassingen</strong>
     </a>
     </div>
     <p>
@@ -83,3 +94,4 @@ Welkom bij de website met zelfstudies voor Audience Managers. Deze zelfstudies s
   </td>
 </tr>
 </table>
+</div>
