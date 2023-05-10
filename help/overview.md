@@ -9,10 +9,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: cff9d6c0fe15feae8cac1961c8fe7a1f7f876059
+source-git-commit: 8a0bc70bb543556a0ab68e428beaa58ca09deddc
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 8%
+source-wordcount: '312'
+ht-degree: 11%
 
 ---
 
@@ -54,42 +54,42 @@ Welkom bij de website met zelfstudies voor Audience Managers. Deze zelfstudies s
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="miniatuurafbeelding voor de zelfstudie 'Experience Cloud implementeren in Mobile iOS Swift-toepassingen'" src="assets/thumb_swift.png" />
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+      <img alt="miniatuurafbeelding voor de zelfstudie 'Adobe Experience Cloud met Web SDK implementeren'" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>De Experience Cloud implementeren in Mobile iOS Apps</strong>
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+    <strong>Tutorial voor Adobe Experience Cloud met Web SDK implementeren</strong>
     </a>
     </div>
     <p>
-    <em>Perfect startpunt voor ontwikkelaars van mobiele apps die willen leren hoe u de Adobe Experience Cloud-oplossingen kunt implementeren in hun iOS Swift-apps</em>
+    <em>Leer hoe te om de toepassingen van Experience Cloud uit te voeren gebruikend het Web SDK van Adobe Experience Platform.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="miniatuurafbeelding voor de zelfstudie 'Experience Cloud implementeren in mobiele Android-toepassingen'" src="assets/thumb_android.png" />
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+      <img alt="miniatuurafbeelding voor de zelfstudie 'Segmenten in real-time CDP begrijpen'" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-    <strong>De Experience Cloud in mobiel implementeren [!DNL Android] Apps</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <strong>Begrijpen van Segmenten in real time CDP voor de Gebruikers van de Audience Manager</strong>
     </a>
     </div>
     <p>
-    <em>Perfect startpunt voor ontwikkelaars van mobiele apps die willen leren hoe u de Adobe Experience Cloud-oplossingen kunt implementeren in hun Android-toepassingen</em>
+    <em>In deze video wordt gekeken naar de verschillen in segmenten en het maken van segmenten tussen Audience Manager en Real-Time CDP.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="miniatuurafbeelding voor de zelfstudie 'Experience Cloud implementeren in mobiele, objectieve-C-toepassingen'" src="assets/thumb_objective_c.png" />
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+      <img alt="miniatuurafbeelding voor de zelfstudie 'Configure and report on Predictive Audiences in Audience Manager'" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>Implementatie van de Experience Cloud in mobiele, objectieve C-toepassingen</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+    <strong>Configureer en rapporteer over voorspellende soorten publiek in Audience Manager</strong>
     </a>
     </div>
     <p>
-    <em>Perfect startpunt voor ontwikkelaars van mobiele apps die willen leren hoe ze de Adobe Experience Cloud-oplossingen in hun objectieve toepassingen kunnen implementeren</em>
+    <em>In deze video, zullen wij door de Predictive configuratie van het Soorten publiek in de interface van de Audience Manager lopen.</em>
     <p>
   </td>
 </tr>
