@@ -13,13 +13,13 @@ level: Beginner
 exl-id: bd1694b4-8c10-43ab-bb09-26f9de518326
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 1%
+source-wordcount: '82'
+ht-degree: 0%
 
 ---
 
 # Inleiding tot Bulk Management (BAAAM)
 
-Leer over de Audience Manager [!UICONTROL Bulk Management] hulpmiddel, die algemeen als &quot;BAAAM wordt bedoeld.&quot; Zie hoe u dit kunt verifiëren, zodat u met het BAAAM-blad via de REST API lijnen en segmenten kunt maken, bewerken en verwijderen.
+Meer informatie over de Audience Manager [!UICONTROL Bulk Management] , doorgaans BAAAM genoemd. Zie hoe u dit kunt verifiëren, zodat u met het BAAAM-blad via de REST API lijnen en segmenten kunt maken, bewerken en verwijderen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)

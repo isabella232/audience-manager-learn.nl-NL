@@ -1,6 +1,6 @@
 ---
 title: Vervaldatum kenmerk configureren met [!UICONTROL Time-to-Live] (TTL)
-description: 'Meer informatie over zoeken en instellen [!UICONTROL Time to Live] (TTL) in Audience Manager. Gebruik deze instelling bij het maken van kenmerken. Hiermee wordt een verlopen van het lidmaatschap in de eigenschap ingesteld als een gebruiker niet binnen de opgegeven periode opnieuw in aanmerking komt. '
+description: Meer informatie over zoeken en instellen [!UICONTROL Time to Live] (TTL) in Audience Manager. Gebruik deze instelling bij het maken van kenmerken. Hiermee wordt een verlopen van het lidmaatschap in de eigenschap ingesteld als een gebruiker niet binnen de opgegeven periode opnieuw in aanmerking komt.
 feature: Traits
 topics: null
 activity: use

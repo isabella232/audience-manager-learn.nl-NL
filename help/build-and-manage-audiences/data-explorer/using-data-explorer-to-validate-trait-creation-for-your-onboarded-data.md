@@ -1,5 +1,5 @@
 ---
-title: 'Data Explorer gebruiken om het maken van sporen voor gegevens aan boord te valideren '
+title: Data Explorer gebruiken om het maken van sporen voor gegevens aan boord te valideren
 description: Een van de krachtigste functies van Audience Manager is de mogelijkheid om offline gegevens aan boord te nemen en deze aan uw onlinegegevens te koppelen. In deze video leert u hoe u met Data Explorer kunt controleren of u alle benodigde kenmerken hebt gemaakt om deze gegevens aan boord te gebruiken.
 feature: Data Explorer
 topics: null

@@ -1,6 +1,6 @@
 ---
 title: Kenmerken uitsluiten in Algorithmic (Look-Alike)-modellen
-description: 'Leer hoe en waarom u specifieke (of groepen) kenmerken wilt uitsluiten van een Algorithmic (Look-Alike)-model. '
+description: Leer hoe en waarom u specifieke (of groepen) kenmerken wilt uitsluiten van een Algorithmic (Look-Alike)-model.
 feature: Algorithmic Models
 topics: null
 activity: use

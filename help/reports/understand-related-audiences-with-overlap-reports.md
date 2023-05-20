@@ -1,7 +1,7 @@
 ---
 title: Verwante soorten publiek met overlappende rapporten begrijpen
 description: Met overlappende rapporten kunt u zien hoe trait- en segmentpubliek elkaar overlappen (dezelfde bezoeker in meerdere traits of segmenten), zodat u weet waar u met uw gegevens kunt werken om de conversie te vergroten of de focus op het uitbreiden van bereik te richten.
-feature: Rapporten overlappen
+feature: Overlap Reports
 topics: null
 activity: use
 doc-type: feature video
@@ -13,7 +13,7 @@ level: Intermediate
 exl-id: e6d90964-9315-4aa5-8d68-d5ffa4d9e09c
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Met overlappende rapporten kunt u zien hoe trait- en segmentpubliek elkaar overl
 
 >[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
 
-Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html#reporting) voor meer informatie.
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html#reporting).

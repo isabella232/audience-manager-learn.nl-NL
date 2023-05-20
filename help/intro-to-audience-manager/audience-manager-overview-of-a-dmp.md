@@ -14,7 +14,7 @@ level: Beginner
 exl-id: cf0dbcb1-0d3c-4afd-b979-1c59a9849720
 source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ Begrijp de belangrijkste uitdagingen met dwars-kanaalpersonalisatie en hoe Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html) voor meer informatie.
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).

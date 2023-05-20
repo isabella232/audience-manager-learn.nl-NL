@@ -1,8 +1,8 @@
 ---
 title: Het begrip Schema's en XDM in Echte - tijd CDP voor de Gebruikers van de Audience Manager
-description: Aangezien u zich van Audience Manager aan het Platform van de Gegevens van de Klant in real time (CDP in real time) beweegt, zult u een paar nieuwe concepten en praktijken ontmoeten. Schemas en XDM vallen in die categorie. In deze video worden deze concepten uitgelegd.
-feature: Integratie van Platform
-topic: Integraties
+description: Terwijl u van Audience Manager naar Real-time Customer Data Platform (Real-time CDP) gaat, zult u een aantal nieuwe concepten en werkwijzen tegenkomen. Schemas en XDM vallen in die categorie. In deze video worden deze concepten uitgelegd.
+feature: Platform Integration
+topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
@@ -11,20 +11,20 @@ kt: 7272
 exl-id: 5f9a54e0-1078-402d-ad31-b3da06274bb3
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # Het begrip Schema&#39;s en XDM in Echte - tijd CDP voor de Gebruikers van de Audience Manager
 
-Aangezien u zich van Audience Manager aan het Platform van de Gegevens van de Klant in real time (CDP in real time) beweegt, zult u een paar nieuwe concepten en praktijken ontmoeten. Schemas en XDM vallen in die categorie. In deze video worden deze concepten uitgelegd.
+Terwijl u van Audience Manager naar Real-time Customer Data Platform (Real-time CDP) gaat, zult u een aantal nieuwe concepten en werkwijzen tegenkomen. Schemas en XDM vallen in die categorie. In deze video worden deze concepten uitgelegd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332023/?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-Hieronder vindt u een aantal bestaande video&#39;s en zelfstudies die u kunnen helpen meer te leren over het Platform voor realtime klantgegevens. U kunt andere video&#39;s en zelfstudies hierover bekijken om meer te leren over Platform.
+Hieronder vindt u een aantal bestaande video&#39;s en zelfstudies waarmee u meer kunt leren over Real-time Customer Data Platform. U kunt andere video&#39;s en zelfstudies hierover bekijken om meer te leren over Platform.
 
 * [Werken met het XDM-systeem en het gegevensmodel voor ervaring](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
 * [Schema&#39;s maken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
