@@ -1,7 +1,7 @@
 ---
 title: Het begrip Toegangsbeheer in Echt - tijd CDP voor de Gebruikers van de Audience Manager
-description: Wanneer u van Audience Manager naar Real-time Customer Data Platform gaat, wilt u weten waar gebruikers- en groepsmachtigingen zijn ingesteld. Deze video laat zien hoe toegangsbeheer nu in de Adobe Admin Console wordt gebruikt.
-feature: Platform Integration
+description: Wanneer u van Audience Manager naar Real-time Customer Data Platform gaat, wilt u weten waar gebruikers- en groepsmachtigingen zijn ingesteld. In deze video ziet u hoe toegangsbeheer nu in de Adobe Admin Console wordt gebruikt.
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 332091.jpg
 kt: 7304
 exl-id: 27e8887b-6e02-452a-8526-ab235446505d
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Het begrip Toegangsbeheer in Echt - tijd CDP voor de Gebruikers van de Audience Manager
 
-Wanneer u van Audience Manager naar Real-time Customer Data Platform gaat, wilt u weten waar gebruikers- en groepsmachtigingen zijn ingesteld. Deze video laat zien hoe toegangsbeheer nu in de Adobe Admin Console wordt gebruikt.
+Wanneer u van Audience Manager naar Real-time Customer Data Platform gaat, wilt u weten waar gebruikers- en groepsmachtigingen zijn ingesteld. In deze video ziet u hoe toegangsbeheer nu in de Adobe Admin Console wordt gebruikt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332091/?quality=12&learn=on)
 
